@@ -1,0 +1,90 @@
+\section{Related Work} \label{sec:related_work}
+\nd\bf{Research on low-code development.} LCSD is a relatively new technology, and there are only a few research works in this domain. There is some research on how this emerging technology can be used
+in different software applications \cite{lowcodeapp}. Sipio et.
+al.\cite{di2020democratizing} presents the benefits and future potential of LCSD
+by sharing their experience of building a custom recommendation system in LCSD
+platform. Kourouklidis et. al. \cite{kourouklidis2020towards} discusses on
+the low-code solution to monitor the performance of the machine learning model. Sahay
+et. al. surveys  LCDP and provides a comparison of different LCDPs based on
+their useful features and functionalities \cite{sahay2020supporting}. Khorram
+et. al.\cite{lowcodetesting} analyses commercial LCSD platforms and present a
+list of features and challenges of testing. Ihirwe et. al.~\cite{lowcodeIot}
+analyses 16 LCSD platforms and identifies what IoT application-related features and services each platform provides. All these research works
+provide a comparison between LCSD platforms and their support on the different type
+of applications\cite{alonso2020towards}. To the best of our knowledge, ours is the first empirical study of  LCSD development and platforms based on developer discussions.
+
+
+\nd\bf{Topic Modeling in Software Engineering.} Our motivation to use topic modeling to understand  LCSD discussions stems from
+existing research in software engineering that shows that topics generated from
+textual contents can be a good approximation of the underlying
+\it{themes}~\cite{Chen-SurveyTopicInSE-EMSE2016,Sun-SoftwareMaintenanceHistoryTopic-CIS2015,Sun-ExploreTopicModelSurvey-SNPD2016}.
+Topic models are used recently to understand software
+logging~\cite{Li-StudySoftwareLoggingUsingTopic-EMSE2018} and previously for
+diverse other tasks, such as concept and feature
+location~\cite{Cleary-ConceptLocationTopic-EMSE2009,Poshyvanyk-FeatureLocationTopic-TSE2007},
+tracability linking (e.g.,
+bug)~\cite{Rao-TraceabilityBugTopic-MSR2011,AsuncionTylor-TopicModelingTraceabilityWithLDA-ICSE2010a},
+to understand software and source code history
+evolution~\cite{Hu-EvolutionDynamicTopic-SANER2015,Thomas-SoftwareEvolutionUsingTopic-SCP2014,Thomas-EvolutionSourceCodeHistoryTopic-MSR2011},
+to facilitate code search by categorizing
+software~\cite{Tian-SoftwareCategorizeTopic-MSR2009}, to refactor software code
+base~\cite{Bavota-RefactoringTopic-TSE2014}, as well as to explain software
+defect~\cite{Chen-SoftwareDefectTopic-MSR2012} and various software maintenance
+tasks~\cite{Sun-SoftwareMaintenanceTopic-IST2015,Sun-SoftwareMaintenanceHistoryTopic-CIS2015}.
+The SO posts are subject to several studies on various aspects
+of software development using topic modeling, such as what developers are
+discussing in general~\cite{Barua-StackoverflowTopics-ESE2012}, or about a
+particular aspect, e.g., concurrency~\cite{Ahmed-ConcurrencyTopic-ESEM2018}, big
+data~\cite{Bagherzadeh2019}, chatbot development~\cite{abdellatifchallenges}.
+We are aware of no previous research on understanding
+the  LCSD discussions in SO.
+% 
+% \subsection{Research using data from Stack Overflow}
+% 
+% Stack Overflow \footnote{\url{https://stackoverflow.com}} is one of the most popular questions and answers website for developers. Developers ask questions on a variety of topics and experts in that area provide solutions. Analysing these discussions can provide valuable insights on what challenges developers and facing and their interest. There has been several studies using stack overflow's data to reveal insights on different aspects of software development technologies analyzing the questions, responses, and relevant metadata \cite{allamanis2013and}, \cite{treude2011programmers}, \cite{wang2013detecting}, \cite{asaduzzaman2013answering}\cite{}, \cite{kuhn2007semantic},  \cite{SOBCSAlahi}, \cite{BlockchainWan},  \cite{chatbot}. Most of these used topic modeling techniques to investigate posts of their interest.
+% 
+% Allamanis et al.\cite{allamanis2013and} presented how SO questions can be associated with programming concepts. Treude et al. \cite{treude2011programmers} studied on what type of questions are asked in SO and which questions are answered and which are not. Wang et al. \cite{wang2013detecting} presented obstacles in API usage in IOS and Android platform by analysing developers' queries in SO. Asaduzzaman et al.\cite{asaduzzaman2013answering} analysed unanswered questions in Stack Overflow and build a classifier to predict how long a question might take to be answered. Adrian et al. \cite{kuhn2007semantic} used topic modeling on source code to find linguistic topic to find the intention of the code and how these topics are distributed over the system. The security related discussions were comprehensively analyzed by \cite{yang2016security}. Alahi et al. \cite{SOBCSAlahi} conducted a study to understand the primary areas of challenges encountered by the BCS community and Wan et al. \cite{BlockchainWan} also explored the challenges and needs amongst blockchain developers. Abdellatif et al. \cite{chatbot} examined the posts of SO to provide insights on the topics that chatbot developers are interested and the challenges they face. The interest and challenges of concurrency developers were explored by \cite{Ahmed-ConcurrencyTopic-ESEM2018} Ahmed et al. Bagherzadeh and Khatchadourian \cite{Bagherzadeh-BigdataTopic-FSE2019} discussed the insights obtained from big data related posts. Han et al. \cite{han2020DeepLearning} studied both Stack Overflow and Github posts to analyze the discussions about three deep learning frameworks i.e., Tensorflow, PyTorch and Theano.
+%  
+%  To the best of our knowledge, there is no work that studied low-code related posts using Stack Overflow data. We believe that our study can go a reliable insight on the areas that  are interesting and challenging to the low-code practitioners at an early stage of evolution of low-code.
+%  
+% 
+% % In this Section, we discuss the related studies on LCSD. Then we discuss on the related works that use SO data to study p
+% 
+% % \subsection{Low-code development}
+% % Sahay et. al. surveys  LCDP and provides a comparison of different LCDP's on useful features and functionalities \cite{sahay2020supporting}
+% 
+% 
+% % \subsection{Stack Overflow research}
+% % Stack Overflow \footnote{\url{https://stackoverflow.com}} is one of the most popular questions and answers website for developers. Developers ask questions on a variety of topics and experts in that area provide solutions. Analysing these discussions can provide valuable insights on what challenges developers and facing and their interest. There has been several studies using stack overflow's data \cite{}\cite{}\cite{}\cite{}\cite{}.
+% 
+% 
+% % Stack Overflow is widely used by software developers and so it this a good source of information to study developer's' perspective, their challenges. 
+% 
+% % Using topic modeling Allamanis et al.\cite{allamanis2013and} presented how SO questions can be associted with programming concepts.
+% 
+% % Treude et al. \cite{treude2011programmers} studied on what type of questions are asked in SO and which questions are answered and which are not. They manually labeled 
+% 
+% % Wang et al. \cite{wang2013detecting} presented obstacles in API usage in IOS and Android platform by analysing developers' queries in SO.
+% 
+% 
+% % Asaduzzaman et al.\cite{asaduzzaman2013answering} analysed unanswered questions in Stack Overflow and build a classifier to predict how long a question might take to be answered. 
+%  
+% 
+% % \subsection{Topic modeling}
+% 
+% % Barua et al.\cite{barua2014developers} conducted a studying usin LDA topic modeling to gain insightly information regarding developers community and how topics evolve over time in different software domains.
+% %  Rosen et al. \cite{rosen2016mobile} use topic modeling of discussions in Stack Overflow and present popular, difficult topics on mobile development.
+%  
+% %  Yang et al. use topic modeling with ML algorithm to find popular and difficult security topics and categorized them into 5 topics \cite{yang2016security}
+%  
+% % Bajaj et al.  \cite{bajaj2014mining} used unsupervised learning to categorize important web development topics, common misconceptions,  and shared and overview of how these questions are evolving over time.
+% 
+% 
+% 
+% % Bagherzadeh \& Raffi \cite{bagherzadeh2019going} studied what big data developers asks in SO and their challenges.
+% 
+% 
+% %  Adrian et al. used topic modeling on source code to find linguistic topic to find the intention of the code and how these topics are distributed over the system \cite{kuhn2007semantic}
+%  
+%  
+%  

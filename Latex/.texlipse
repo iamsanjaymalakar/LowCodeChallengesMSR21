@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Thu Nov 12 19:32:01 EST 2020
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=LowCodeTopic.tex
+outputFile=LowCodeTopic.pdf
+langSpell=
+markDer=true
+srcDir=

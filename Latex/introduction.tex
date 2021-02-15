@@ -1,0 +1,105 @@
+\section{Introduction}
+LCSD is a new paradigm that enables the development of
+software applications with minimal hand-coding using visual programming with
+graphical interface and model-driven design. LCSD embodies End User Software Programming~\cite{Pane-MoreNatureEUSE-Springer2006} by 
+democratizing application development to software practitioners from diverse backgrounds~\cite{di2020democratizing}.  
+By facilitating automatic code
+generation, the low-code development tools allow to develop production-ready applications with minimal coding. It
+addresses the gap between domain requirement and developers' understanding that
+is a common cause of delayed development in many applications with complex
+business logic. The benefits of using  LCSD platforms
+also include flexibility and agility, fast development time allowing
+quick response to market demands, reduced bug-fixing, lower deployment effort,
+and easier maintenance. Hence, the industry of low-code development is gaining
+popularity at a rapid pace. According to Forrester
+report~\cite{rymer2019forrester}, the  LCSD platform market is expected to be \$21 Billon by
+2022. According to Gartner report by 2024 around 65\% of
+large enterprises will use  LCSD platforms to some extent~\cite{wong2019low}.
+
+To date, there are more than 200  LCSD platforms, offered by almost all major companies like Google, Saleforce~\cite{vincent2019magic}. 
+Naturally,  LCSD has some unique challenges
+\cite{sahay2020supporting}. Wrong
+choice of  LCSD application/platforms may cause a waste of
+time and resources. There is also concern about the security/scalability of
+ LCSD applications~\cite{lowcodetesting}. With interests in  LCSD growing, we observe discussions about  LCSD platforms are becoming prevalent in online developer forums like Stack Overflow (SO). SO is a large online technical Q\&A site with
+around 120 million posts and 12 million registered users~\cite{website:stackoverflow}. Several research have been conducted to
+analyze SO posts (e.g., big
+data~\cite{Bagherzadeh2019}, concurrency~\cite{Ahmed-ConcurrencyTopic-ESEM2018}, blockchain~\cite{wan2019discussed}, microservices~\cite{bandeira2019we}). However, we are aware of no
+research that analyzed  LCSD discussions on SO, 
+although such insight can complement existing  LCSD literature -- which so far has mainly used surveys or controlled studies to understand the needs of low code practitioners~\cite{lowcodeapp,kourouklidis2020towards,alonso2020towards,lowcodetesting}.  
+
+In this paper, we report an empirical study to understand the types of challenges and topics in  LCSD developer discussions in SO by analyzing all 4.6K SO posts related to the top nine  LCSD platforms at the time of our analysis (according to Gartner). We answer 
+three research questions:
+
+\nd\bf{RQ1. What types of topics are discussed about  LCSD in SO?} Given  LCSD is a new paradigm, 
+it is necessary to learn about the types of topics  LCSD practitioners discuss in a technical Q\&A site like SO. Therefore, we apply topic modeling algorithm LDA~\cite{Blei-LDA-JournalMachineLearning2003} on our dataset of 4.6K posts. We find a total of 13  LCSD topics which are grouped into four categories: Customization of  LCSD UI and Middleware,  
+ LCSD Platform Adoption,  LCSD Database Usage, and Third-Party Integration. A majority of the (40\%) questions are asked about the diverse challenges developers face while attempting to customize the user interface (UI) or a service/form provided by an  LCSD platform. This is due to the fact that 
+ LCSD platform features are inherently heavy towards a graphical user interface (GUI) in a drag and drop environment. As such, any customization 
+of such features that are not directly supported by the  LCSD platforms become challenging.     
+    
+\nd\bf{RQ2. How are the topics distributed across the  LCSD life cycle phases?} Our findings from RQ1 show the unique nature of challenges  LCSD developers face like customization issues. 
+Given the considerable attention towards  LCSD support by software vendors/platforms, the success of the platforms/SDKs can benefit from their effective adoption into the various stages of a software development life cycle (SDLC). For example, if testing of  LCSD 
+application cannot be done properly, it is difficult to develop a reliable large-scale  LCSD application. We, therefore, 
+need to understand whether and how  LCSD developers are discussing about the adoption of tools and techniques in  LCSD topic across different SDLC phases. We randomly sampled 900 questions from our dataset and manually analyzed the types of  LCSD challenges developers discussed in the questions. For each question, we label the SDLC phase for which the developer noted the challenge. We found that more than 85\% of the questions revolved around development issues and it is more or less consistent across all the four topic categories. We also find that testing can be challenging for  LCSD applications, due to the graphical nature of the SDKs which can be hard to debug.   
+
+\nd\bf{RQ3. What  LCSD topics are the most difficult to answer?} Our findings from the above two research questions show that  LCSD developers face challenges more unique to  LCSD platforms (e.g., Customization topics) as well as similar to other domains (e.g., Database topics). Therefore, 
+it can be useful to learn what topics are more difficult to get the right answer to and whether the popularity of the topics can suffer due to the observed difficulty. We compute a suite of popularity and difficulty metrics for each topic like view count, percentage of questions without an accepted answer. We find that questions related to topic ``Dynamic Event Handling'' from the Customization topic category are the most difficult (to get an accepted answer) but also the most popular. 
+    
+    
+\bf{To the best of our knowledge, ours is the first empirical study of  LCSD and platforms on developer discussions}. 
+The findings would help
+the research community with a better focus on the specific  LCSD areas. The practitioners can be prepared for difficult areas. Relevant
+organizations will be able to design more effective and usable tools for  LCSD increasing their usability.  All stakeholders can work together for improved documentation support. The  LCSD vendors can support increased customization of the  LCSD middleware and UI to make the provided features more usable. 
+%features in a very hard-coded manner.
+
+\nd\bf{Replication Package}: \url{https://tinyurl.com/y2sbj5pa}. 
+    % https://tinyurl.com/yygq74ex
+    
+% To better help developers using low-code platforms,
+% it is indispensable to understand their challenges and issues systematically 
+% while developing and deploying low-code applications. 
+%   
+% In this paper, first we attempt of understanding the challenges of low-code development by investigating what low-code developers are asking about on Stack Overflow. Stack Overflow is the most popular Q\&A website where the development community continuously interact to discuss their challenges and issues with fellow developers and experienced peers. Hence, it is a reliable source to identify the topics that real world developers are interested in and their difficulties in finding answers to questions in these topics \cite{wang2013empirical}. To understand the interests and difficulties of low-code developers, we conduct a large-scale study on the relevant content of Stack Overflow to answer the following research questions:
+% \begin{enumerate}[leftmargin=30pt, label=\bf{RQ\arabic{*}.}]
+%   \item What types of topics are discussed about LCSD in SO? 
+%   \item How are the topics distributed across LCSD phases? 
+%   \item What LCSD topics are the most difficult to answer?
+%   %\item What types of technical challenges are associated to the LCSD topics?
+%   %\item How do the topics vary across the different low code software providers?
+%   %\item What types of questions are asked about low code software in Stack Overflow?
+%   %\item How do the popularity and difficulty of the topics vary in Stack Overflow?
+%   %\item How do the topics evolve over time in Stack Overflow?
+% \end{enumerate}
+% 
+% To answer these questions, we take the following major steps. First, we created a tags related to LCDP and extracted questions, answers and some relevant information from the Stack overflow dump. \anindya{Mention the date of the dump taken.} We used latent Dirichlet allocation (LDA) topic modeling \cite{blei2003latent} to determine the topics of these questions using their textual contents. 
+
+
+%\anindya{Write down the methodology following the para below.}
+%Second, we construct a topic hierarchy by repeated grouping of similar topics into categories and lower level categories into higher level categories. Third, we measure the popularity and difficulty of the topics of interest using several well-known metrics used by previous work (cite) and analyze their correlation. Finally, we discuss the implications of our findings for low-code developers, educators and researchers.
+
+% Summary of findings
+%\anindya{Write after the results and findings are finalized.}
+
+
+% This paper is organized as follows. 
+% Section\ref{sec:background} provides background about low-code software development and some basic concepts.
+% Section\ref{sec:methodology} describes our research methodology.
+% Section\ref{sec:results} reports the motivation, research approach, and result of our empirical study.
+% Section\ref{sec:discussion} provides discussion,implications of our findings and threats to validity.
+% Section\ref{sec:related_work} presents some works that are related to this study.
+% Section\ref{sec:conclusion} concludes this paper.
+
+
+
+
+
+%Low-code and no-code software development is becoming more and more popular because of its out of box functionalities, flexibility and less upfront investment. It allows companies to develop complex systems by business people who do not have strong programming skill-set. Major PaaS providers such as Google, Microsoft is also incorporating LCDPs in their offered solutions.  
+
+%LCDPs provides services on the cloud as Platform as a service (Paas) model and provides users to use Graphical user interface to develop the application in a drag and drop manner. It helps users to develop and deploy a fully functional business application using very minimal amount of coding. Third party integration, maintainability is dependent of the features offered by the LCDP platforms. Some of them can be easily build ML, IoT services and deployed on docker or kubernetics. It provides the opportunity of quick development and release of business applications\cite{waszkowski2019low}.  Developers can focus on application based on business needs rather than managing infrastructure and makes bug fixing, application maintenance, and scalability much easier~\cite{mendix}. Most of these platforms allows to integrate general programming coding to implement custom application logic. Finding out which low-code platform is best for a particular task can be challenging.
+
+%We want to enrich our empirical understanding of LCDPs to  provide guidelines for future research in this direction. Exploratory analysis to find challenges . We study SO questions their purposes, challenges
+
+%Developers ask questions with large variety of meaning from different background. Some of our key finds 
+%1. Developers asks more questions related to how to do certain tasks, debugging, integrating an API. Less questions about security, scalability.
+%2. Developers lack proper software development knowledge.
+% Good useful softwares enriches our digital world, it empowers people and businesses.

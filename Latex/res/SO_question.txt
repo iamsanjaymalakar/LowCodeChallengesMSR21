@@ -1,0 +1,130 @@
+What is the best way in Lightening Salesforce to manage the text content of the site from a single file
+
+
+How do I change timezone in AppMaker Environment?
+
+Address Search for the Google Map widget on App Maker
+Casting Powerapps to Chromecast
+google.script.run in App Maker: TypeError: Cannot read property 'withLogger' of undefined
+Looking for education materials about App Maker
+Hoy to export @expr data table to sheets in google app maker?
+Is there an option in Powerapps to split a search text into individual strings and to display on a gallery only items that include “all” strings?
+
+
+How to dynamically switch color themes using SASS?  [p limitation]
+
+what are the limits on the number of envelopes you can publish manually using “Publish using csv” in Docusign application connected to salesforce
+
+
+Mendix setup problem - suggested code not working
+Google App Maker saving records to DB is taking 240ms per record
+Dropdown Widget and Related Model
+
+How to solve argument for parameter assistant (WatsonServicesAssistant)?
+
+How to generate Shipment return label from Fedex api [ asking for suggestion]
+
+Did I reinvent the wheel with multiple user access to 3rd party API within Google Apps Script?
+
+Methods to interface Google App maker and Google Docs template and make a PDF
+
+PowerApps - “Set Regarding” for an appointment in CRM
+
+Is there a way to open new tab in navigation bar for custom lightning component with record name as tab label? [platform bugs]
+
+Is there a way to open new tab in navigation bar for custom lightning component with record name as tab label?
+
+Using Pager to rotate through Page Fragments [UI customization]
+How to change height of the map element on button click?
+
+How to include multiple import js file into another js file [general query]
+Canvas PowerApp Form unable to get fields from Custom Connector returning tabular data from REST API [platform limitations]
+
+Is it possible to use power apps to create a login page using office365 email and password for credential submission [Auth]
+
+Maximum concurrent users in a powerapp [performance]
+
+Is it possible to trigger ADF pipeline from Power App?
+Getting “The table didn't load correctly” in PowerApps
+
+Power Apps. Is it possible to export text input field to specific cells in an excel document or generate an excel document based off inputs?
+
+How to get metadata of Salesforce Objects using Python if the object name is dynamic?
+
+Table Column Resize Salesforce lightning slds [bad documentation]
+ZOHO API v2 Insert Lead with Guzzle 6.2 (Laravel) using API records
+
+Does user configuration flow across when CDS is added to the environment that has users configured and vice versa? [documentation request, dashboard]
+
+The requested resource does not exist [error] in Salesforce. What is wrong with Salesforce? [platform issues]
+
+PowerApps Azure Storage Connector Upload Zero Bytes [platform issues]
+
+Error when running query against a calculated SQL model from server script in AppMaker
+Continuously import data from the From responses spreadsheet into AppMaker data model [recommendation]
+
+Powerapps SQL limitations [limitation, scalbility]
+
+Custom API in PowerApps showing error [
+Gsuite App Maker File Upload Functionality [queries on platform]
+
+Where can i see the google sheet in which app makers saves the data [general queries on platform features]
+How can I share my app made by Google App Maker with others? [deployment]
+
+SalesForce marketing System not getting decrypted in Using java Crypto
+
+Datasource query limit is different of page size [pagination, platform issues, documentation]
+PowerApps - Excel connecivity issue [limitation of platform cant return more than 500 requests]
+Loading datastore based on boolean flag
+
+Best way to handle images in App Maker [recommendation
+AppMaker strips CSS variables [platform issue]
+
+After publishing an app, how do you find the public URL to give to your end users? [deployment accesibility]
+
+
+
+Can two people within the same organization work on the same project at the same time [collaboration/role management]
+
+
+Stop AppMaker deleting email address onSend [wrong tutorial]
+
+What's the best free resource to learn about Ms IIS? 
+
+
+General programming query asking for a fix a XML request formation related errors in PHP.
+"XML error Open quote is expected for attribute "value" when programming in PHP" \footnote{https://stackoverflow.com/questions/12412269/xml-error-open-quote-is-expected-for-attribute-value-when-programming-in-php}
+
+
+This is general programming question related to parsing a JSON response returned from zoho API. It was tagged zoho but the question mainly focused on debugging on JSON parsing.
+"Parsing a complex JSON result with C#" \footnote{https://stackoverflow.com/questions/17126323/parsing-a-complex-json-result-with-c-sharp}
+
+Practitioners are trying to achieve something without properly reading documentation. In the accepted answer some refered to a documentation link and how to achieve that.
+"Pass a value to another screen" \footnote{https://stackoverflow.com/questions/39232599/pass-a-value-to-another-screen}
+
+
+
+Misunderstood documentation and thought this feature is not supported by the platfrom.
+"<ui:inputText> keyup returns incorrect value (one less)" \footnote{https://stackoverflow.com/questions/45834435/uiinputtext-keyup-returns-incorrect-value-one-less}
+
+How to create a basic dropdown list with  some reference item.
+"Power apps drop down" \footnote{https://stackoverflow.com/questions/41806580/power-apps-drop-down}
+
+
+
+
+% Here the developer is trying to send an email from his cogigniter apps. The developers tagged the que
+% "Codeigniter SMTP Email Error" \footnote{https://stackoverflow.com/questions/23234021/codeigniter-smtp-email-error}
+
+
+
+
+
+
+
+
+
+
+
+
+
