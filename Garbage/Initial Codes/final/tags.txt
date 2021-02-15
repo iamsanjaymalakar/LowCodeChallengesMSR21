@@ -1,0 +1,5 @@
+['google-app-maker', 'appian', 'outsystems', 'zoho', 'mendix', 'powerapps', 'quickbase', 'vinyl', 'salesforce-lightning', 'powerapps-formula', 'lwc', 'lightning', 'powerapps-selected-items', 'powerapps-collection', 'salesforce-communities', 'powerapps-canvas']
+
+['google-app-maker', 'appian', 'outsystems', 'zoho', 'mendix', 'powerapps', 'quickbase', 'vinyl', 'salesforce-lightning', 'powerapps-formula', 'lwc', 'lightning', 'powerapps-selected-items', 'powerapps-collection', 'salesforce-communities', 'powerapps-canvas', 'salesforce-chatter', 'salesforce-service-cloud', 'aura-framework']
+
+['google-app-maker', 'appian', 'outsystems', 'zoho', 'mendix', 'powerapps', 'quickbase', 'vinyl', 'salesforce-lightning', 'powerapps-formula', 'lwc', 'lightning', 'powerapps-selected-items', 'powerapps-collection', 'salesforce-communities', 'powerapps-canvas', 'salesforce-chatter', 'salesforce-service-cloud', 'aura-framework']

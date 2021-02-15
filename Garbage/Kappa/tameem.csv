@@ -1,0 +1,101 @@
+ID,Title,Link,class
+58561049,Can you merge or relate two data models together?,https://stackoverflow.com/questions/58561049,Empty
+58561304,Custom Labels in Lightning Component for different languages,https://stackoverflow.com/questions/58561304,Empty
+58572685,How to set a Sharepoint lookup field when inserting a new record in PowerApps,https://stackoverflow.com/questions/58572685,Empty
+58573319,PowerApps: Pull a specific record from a Sharepoint Lookup list to show additional fields using a Display Form,https://stackoverflow.com/questions/58573319,UI Customization
+58575034,How to make dashboard snapshot post to chatter in salesforce?,https://stackoverflow.com/questions/58575034,Empty
+58580506,Google App Maker - Filtering Tables on load,https://stackoverflow.com/questions/58580506,Database
+58592959,Javascript RegEx string,https://stackoverflow.com/questions/58592959,Empty
+58593985,Appmaker Typeerror suggests _equals method is a property I cannot call,https://stackoverflow.com/questions/58593985,Empty
+58594685,How do you use a variable in a regular expression and manipulate the variable?,https://stackoverflow.com/questions/58594685,Empty
+58596586,Concurrent users and variables,https://stackoverflow.com/questions/58596586,Concurrency
+58598442,PowerApps: Loading a form and gallery from an email with a deep link - Want only to load specific ID in both,https://stackoverflow.com/questions/58598442,Empty
+58602509,Dropdown menu can not save to datasource,https://stackoverflow.com/questions/58602509,Database
+58609888,Is there a script or binding that I can use to make a text box read only?,https://stackoverflow.com/questions/58609888,Empty
+58613452,How to avoid the Salesforce Developer Console to override the next simbol when typing code?,https://stackoverflow.com/questions/58613452,Empty
+58626811,Salesforce Low bandwidth tools,https://stackoverflow.com/questions/58626811,Empty
+58628659,On a simple Appmaker page - how can we retrieve data from the directory based on input with the userpicker and display it in an other field?,https://stackoverflow.com/questions/58628659,Empty
+58629272,"In App Maker, can you fake valueIsRecord with a dropdown field?",https://stackoverflow.com/questions/58629272,Empty
+58631966,angular project using salesforce lightning,https://stackoverflow.com/questions/58631966,Empty
+58632538,what's the way to get Timestamp in Google App maker?,https://stackoverflow.com/questions/58632538,Empty
+58632765,GSuite Appmaker - how to set default value in table using button,https://stackoverflow.com/questions/58632765,Empty
+58639195,salesforce lightning this.template.querySelector not working,https://stackoverflow.com/questions/58639195,Empty
+58644060,Issue with lightning carousel,https://stackoverflow.com/questions/58644060,Limitation
+58646976,"In App Maker, how do you make dynamic table cell text?",https://stackoverflow.com/questions/58646976,Empty
+58647180,Is it possible to create an input widget in app maker? Or how to make a multiselect with numbers?,https://stackoverflow.com/questions/58647180,Empty
+58649380,My images are showing up as list rather than slide show in my lwc,https://stackoverflow.com/questions/58649380,UI Customization
+58649436,Using a checkbox to filter a Boolean on table view. Inherited (relation) datasource,https://stackoverflow.com/questions/58649436,Empty
+58657618,Is there a way to check the maximum hex value allowed in a string?,https://stackoverflow.com/questions/58657618,Empty
+58660181,Creating Custom Object in Salesforce Lightning using Selenium Webdriver,https://stackoverflow.com/questions/58660181,Integration
+58675434,Salesforce noobie - where are the crud pages for custom objects?,https://stackoverflow.com/questions/58675434,Empty
+58677883,how to fetch array of input values from html to JS,https://stackoverflow.com/questions/58677883,Empty
+58682411,Cannot call Virtual Agent Bot from DirectLine,https://stackoverflow.com/questions/58682411,Integration
+58687783,What is Authorized Redirect URI?,https://stackoverflow.com/questions/58687783,Integration
+58696023,Google App Make: Unable to choose Cloud SQL option for deployment,https://stackoverflow.com/questions/58696023,Deployment
+58698121,Microsoft Flow Oracle Connector,https://stackoverflow.com/questions/58698121,Empty
+58698789,Can Google App Maker connect to MS SqlServer Database in Azure?,https://stackoverflow.com/questions/58698789,Empty
+58701030,Send an email (using flow) when the text field changes in PowerApps,https://stackoverflow.com/questions/58701030,Empty
+58701204,onValueChange not being activated by a script change on load,https://stackoverflow.com/questions/58701204,Empty
+58703729,Getting null for getelementbyid dynamic generated HTML,https://stackoverflow.com/questions/58703729,Empty
+58703762,how to get span inner text inside div tag,https://stackoverflow.com/questions/58703762,Empty
+58711935,How to Filter SharePoint Lookup Column using powerapps?,https://stackoverflow.com/questions/58711935,Empty
+58712399,Write back to Oracle from PowerApps,https://stackoverflow.com/questions/58712399,Empty
+58712877,Redirect unauthorized users using Navigate on screen OnVisible,https://stackoverflow.com/questions/58712877,Empty
+58715146,Using NuxtJS for Zoho CRM Widgets,https://stackoverflow.com/questions/58715146,Integration
+58717767,Loading Lookup Data into Model Driven PowerApps Custom Entities,https://stackoverflow.com/questions/58717767,Empty
+58719818,Programmatic way to change page size,https://stackoverflow.com/questions/58719818,Empty
+58720305,Query multiple datasources in Google AppMaker from single search box,https://stackoverflow.com/questions/58720305,Empty
+58726753,React rendering new view with filtered Data in Model Driven PowerApps,https://stackoverflow.com/questions/58726753,Empty
+58730516,Drive picker in Google App Maker stopped working,https://stackoverflow.com/questions/58730516,Empty
+58730563,Embedded PowerApps on SharePoint page doesn't work properly in IE 11,https://stackoverflow.com/questions/58730563,Browser Compatibility
+58736620,How to fix the position of the label of textbox In Google app maker?,https://stackoverflow.com/questions/58736620,Empty
+58738924,Error: Message failed: 553 Relaying disallowed as @ . - NodeMail Zoho,https://stackoverflow.com/questions/58738924,Empty
+58739353,Powerapps - When i open the screen1 i need the radio1 option to not select either radio button,https://stackoverflow.com/questions/58739353,Empty
+58742822,Embed PowerApps from a different tenant on a SharePoint page,https://stackoverflow.com/questions/58742822,Embedding
+58746612,Settings page opens in a new tab in Salesforce,https://stackoverflow.com/questions/58746612,Empty
+58746868,can you Close a google appmaker app with code?,https://stackoverflow.com/questions/58746868,Empty
+58748928,How can I add a Text Area widget that the users can paste clickable URL's into?,https://stackoverflow.com/questions/58748928,Empty
+58759042,How do I call a REST Google Cloud API from AppMaker?,https://stackoverflow.com/questions/58759042,Empty
+58769667,GSuite App Maker - how to pivot datasources,https://stackoverflow.com/questions/58769667,Empty
+58769776,How do I fix this? Relation Error - TypeError: Cannot read property - Creating new record: (Error),https://stackoverflow.com/questions/58769776,Empty
+58771272,GSuite AppMaker - Populate datasource with distinct values from another table,https://stackoverflow.com/questions/58771272,Empty
+58773119,Calculated YTD using date column and group by multiple column?,https://stackoverflow.com/questions/58773119,Empty
+58776201,Replace Javascript button to Lightning Component,https://stackoverflow.com/questions/58776201,Empty
+58783610,Forward SMS from Twilio to Email using Zoho Deluge,https://stackoverflow.com/questions/58783610,Empty
+58790918,Appmaker: Handle several copies of a page fragment as one?,https://stackoverflow.com/questions/58790918,Empty
+58794905,Sort by option is disabled in standard knowledge component,https://stackoverflow.com/questions/58794905,Empty
+58796302,Deployment issue with knowledge page layout required fields,https://stackoverflow.com/questions/58796302,Deployment
+58798429,Merging a Photo Image and Pen Input Image in PowerApps,https://stackoverflow.com/questions/58798429,Empty
+58799098,Unable to test setter/getter method inside of LWC using jest testing framework,https://stackoverflow.com/questions/58799098,Testing
+58802352,Appmaker create pop up to choose an object,https://stackoverflow.com/questions/58802352,Empty
+58802554,How to import data into a Salesforce sandbox from a Snowflake database or AWS S3 by API and Python code?,https://stackoverflow.com/questions/58802554,Empty
+58804457,Filtering unique records of a table widget datasource based on a single column in Google AppMaker,https://stackoverflow.com/questions/58804457,Empty
+58804879,PowerApps: Filter by multiple condition and distinct by one further condition,https://stackoverflow.com/questions/58804879,Empty
+58812003,Is there any way to open the applications in two systems at same time?,https://stackoverflow.com/questions/58812003,Lack of Features
+58819021,Any function to load the data of 2 share point lists to a single gallery in power apps?,https://stackoverflow.com/questions/58819021,Empty
+58821575,How to set-up a RMM in marketing cloud to create a case in Service Cloud,https://stackoverflow.com/questions/58821575,Empty
+58822568,Google AppMaker how to define page level variables,https://stackoverflow.com/questions/58822568,Empty
+58824579,How to get Google Chat ID in Apps Script,https://stackoverflow.com/questions/58824579,Empty
+58832168,How to use default lightning email template in salesforce,https://stackoverflow.com/questions/58832168,Empty
+58832626,Get ID of lightning:button that was used in the onsuccess attribute on a Lightning:recordEditForm,https://stackoverflow.com/questions/58832626,Empty
+58839197,"How to apply some simple styles to tds of ""datatable"" of lightning web component in playground?",https://stackoverflow.com/questions/58839197,Empty
+58840472,Appmaker: Get ID of created item?,https://stackoverflow.com/questions/58840472,Empty
+58841047,Can we integrate LWC component into REACT JS,https://stackoverflow.com/questions/58841047,Empty
+58844302,how insert lookup field in Zoho via PHP-SDK APIv2,https://stackoverflow.com/questions/58844302,Empty
+58846662,Console preview panel - how to reset size?,https://stackoverflow.com/questions/58846662,Empty
+58858248,Missing Token zoho desk integration,https://stackoverflow.com/questions/58858248,Integration
+58861074,How to pass value from one form to another in powerapps,https://stackoverflow.com/questions/58861074,Empty
+58861624,PowerApps: How to change the selected value of a drop down list via expression,https://stackoverflow.com/questions/58861624,Empty
+58867149,How to 'Add / Sum / Total / Calculate' dynamic tables in google app maker,https://stackoverflow.com/questions/58867149,Empty
+58867261,Limiting drop-down options based on lookup table,https://stackoverflow.com/questions/58867261,Limitation
+58869893,Textbox with recomendations as you type,https://stackoverflow.com/questions/58869893,Empty
+58874315,How to open Send Email global action in popup from lightning component,https://stackoverflow.com/questions/58874315,Empty
+58876011,Submit New Item Form and Open the same item for editing,https://stackoverflow.com/questions/58876011,Empty
+58877222,"Get document list by their request_status for example ""completed"" in Zoho api PHP?",https://stackoverflow.com/questions/58877222,Empty
+58885227,Join of 3 datasources with a calculated datasource failing with deadlock,https://stackoverflow.com/questions/58885227,Empty
+58885480,Model Driven PowerApps,https://stackoverflow.com/questions/58885480,Empty
+58885774,Why do Visualforce pages require invalid HTML? (at times),https://stackoverflow.com/questions/58885774,Empty
+58887435,Outlook Web Add-in,https://stackoverflow.com/questions/58887435,Empty
+58904486,"Open hyperlink on button click, when hyperlink is in datasource",https://stackoverflow.com/questions/58904486,Empty
+58913715,Multiple Salesforce IDP for single Service provider configuration,https://stackoverflow.com/questions/58913715,Empty
+58914330,How to move a button to center in salesforce lightning component,https://stackoverflow.com/questions/58914330,Empty
