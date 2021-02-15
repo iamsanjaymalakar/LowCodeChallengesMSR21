@@ -1,0 +1,14 @@
+Topic_ID,Topic_Name,Number_of_Posts(Q+A),Percentage_of_Posts,Averege_View,AVerege_Favorite,Averege_Score,Pct_Questions_without_Accepted_Answer,Median_Hours_To_Get_Accepted_Answer
+0,Storage & Data migration,315,6.58,472.83,1.07,0.6,69.32,14.8
+1,Input & form validation,407,8.51,566.8,0.85,0.45,57.35,4.19
+2,Deployment and role management,386,8.07,301.88,0.97,0.49,69.9,12.57
+3,CRUD,383,8.0,359.6,1.04,0.45,60.21,7.6
+4,Platform support on Database design,324,6.77,485.53,1.09,0.48,62.39,6.99
+5,UI customization,328,6.85,536.66,0.95,0.46,68.2,6.09
+6,General programming query and debugging external APIs,473,9.89,784.66,1.24,0.62,68.1,15.74
+7,Email & External Service Configuration,285,5.96,763.7,1.23,0.83,70.43,12.74
+8,Tutorial/Documentation,325,6.79,506.8,1.16,0.36,67.2,24.88
+9,Platform services and Cloud configuration,349,7.29,578.11,1.18,0.85,66.52,16.85
+10,Dynamic content and Data binding,434,9.07,721.61,0.86,0.48,65.18,14.79
+11,Debugging and error,351,7.34,408.35,1.11,0.54,67.84,12.71
+12,Application customization & testing,425,8.88,833.1,1.23,0.54,75.98,9.81

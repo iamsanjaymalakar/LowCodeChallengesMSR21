@@ -1,0 +1,1003 @@
+Question_id,ViewCount,Challenge_Id,SDLC,ChallengeLabelModGias,Topic_Label,Topic_Id,ChallengeLabelModAlamin,Challenge_Label,Topic_Category,CreationDate
+61325505,3,12,Maintenance,Authentication,Data Storage & Migration,0,,Access control [Application accessibility| Permission],Database,2020-04-20 14:57:35.467
+61325505,3,26,Maintenance,Feature,Data Storage & Migration,0,,Flatform features [Event Monitoring | Dashboard customization | View Management | role management | collaboration | platform security],Database,2020-04-20 14:57:35.467
+61350864,4,0,Development,Documentation,Dynamic Content Binding,8,,Tutorial [How to do this ],Customization,2020-04-21 18:45:31.533
+61734639,4,0,Development,Documentation,Data Storage & Migration,0,,Tutorial [How to do this ],Database,2020-05-11 16:33:16.067
+62018029,4,4,Development,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2020-05-26 08:45:37.613
+61659007,5,3,Development,Feature,Dynamic Content Display,10,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2020-05-07 13:29:08.120
+61011463,6,19,Development,Testing/Debugging,SQL CRUD,3,,Flatform features support [Event Monitoring | Dashboard customization | View Management | role management | collaboration | platform security],Database,2020-04-03 12:01:33.857
+61186117,6,23,Development,Feature,Dynamic Content Binding,8,,Dynamic Content,Customization,2020-04-13 10:41:51.583
+61210424,6,20,Testing,Testing/Debugging,Dynamic Event Handling,12,,Testing [Test failed| Test coverage| Third party functional testing suite|],Customization,2020-04-14 14:43:45.783
+61827269,6,1,Development,Testing/Debugging,UI Adaptation,5,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2020-05-15 19:52:13.397
+61928879,6,3,Development,Feature,Dynamic Event Handling,12,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2020-05-21 06:50:43.883
+61979138,6,20,Testing,Testing/Debugging,Dynamic Content Display,10,,Testing [Test failed| Test coverage| Third party functional testing suite|],Customization,2020-05-23 22:02:30.660
+62014768,6,15,Maintenance,Documentation,Access Control & Security,2,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Adoption,2020-05-26 04:37:10.420
+62014768,6,26,Maintenance,Feature,Access Control & Security,2,,Flatform features [Event Monitoring | Dashboard customization | View Management | role management | collaboration | platform security],Adoption,2020-05-26 04:37:10.420
+61664951,7,0,Development,Documentation,Data Storage & Migration,0,,Tutorial [How to do this ],Database,2020-05-07 18:19:34.630
+61674856,7,17,Development,Feature,External API & Email Config,7,,Email and DNS configuration [SMTP Authentication| email not working | DNS Integration],Integration,2020-05-08 08:14:23.937
+61834955,7,1,Development,Testing/Debugging,Dynamic Content Binding,8,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2020-05-16 09:55:46.263
+61932638,7,21,Development,Testing/Debugging,Dynamic Event Handling,12,,Input validation,Customization,2020-05-21 10:41:03.503
+61284724,8,3,Development,Feature,Data Storage & Migration,0,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2020-04-18 05:44:50.963
+61676798,8,1,Development,Testing/Debugging,Data Storage & Migration,0,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2020-05-08 10:13:42.707
+61775267,8,2,Development,Feature,Data Storage & Migration,0,,General programming query [JSON to CSV/excel],Database,2020-05-13 12:57:27.707
+62036134,8,7,Development,Feature,Dynamic Content Binding,8,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2020-05-27 05:37:29.293
+62049277,8,7,Development,Feature,Dynamic Form Controller,1,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2020-05-27 17:30:44.733
+61867669,9,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2020-05-18 10:36:51.387
+61947363,9,12,Maintenance,Authentication,Data Storage & Migration,0,,Access control [Application accessibility| Permission],Database,2020-05-22 03:26:59.520
+62065508,9,11,Development,Testing/Debugging,Data Storage & Migration,0,,Platform issues [platform limitaion | not working as expected],Database,2020-05-28 13:06:32.490
+61112343,10,3,Development,Feature,External API & Email Config,7,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Integration,2020-04-09 00:59:16.283
+61252925,10,1,Development,Testing/Debugging,Dynamic Event Handling,12,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2020-04-16 14:35:53.927
+61343277,10,11,Development,Testing/Debugging,UI Adaptation,5,,Platform issues [platform limitaion | not working as expected],Customization,2020-04-21 12:11:27.460
+61749474,10,12,Development,Authentication,Access Control & Security,2,,Access control [Application accessibility| Permission],Adoption,2020-05-12 10:33:58.670
+61749474,10,15,Development,Documentation,Access Control & Security,2,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Adoption,2020-05-12 10:33:58.670
+61798937,10,4,Maintenance,Feature,Access Control & Security,2,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2020-05-14 13:45:26.197
+61242253,11,3,Development,Feature,Dynamic Event Handling,12,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2020-04-16 03:34:35.363
+61282234,11,0,Development,Documentation,Dynamic Content Binding,8,,Tutorial [How to do this ],Customization,2020-04-17 23:17:57.457
+61327724,11,10,Development,Feature,External Web Req Processing,6,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Integration,2020-04-20 16:48:53.263
+61729009,11,6,Development,Feature,UI Adaptation,5,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2020-05-11 11:48:11.333
+61920382,11,20,Testing,Testing/Debugging,Dynamic Event Handling,12,,Testing [Test failed| Test coverage| Third party functional testing suite|],Customization,2020-05-20 18:33:47.390
+62020069,11,21,Development,Testing/Debugging,SQL CRUD,3,,Input validation,Database,2020-05-26 10:30:24.067
+62020899,11,4,Development,Feature,Dynamic Event Handling,12,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Customization,2020-05-26 11:14:57.997
+62066602,11,21,Development,Testing/Debugging,Dynamic Content Binding,8,,Input validation,Customization,2020-05-28 14:00:50.470
+55418261,12,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2019-03-29 13:15:59.277
+58429974,12,19,Maintenance,Feature,Access Control & Security,2,,Flatform features support [Event Monitoring | Dashboard customization | View Management | role management | collaboration | platform security],Adoption,2019-10-17 10:03:17.520
+61668245,12,6,Development,Feature,External Web Req Processing,6,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Integration,2020-05-07 21:43:42.040
+61671196,12,0,Development,Documentation,External API & Email Config,7,,Tutorial [How to do this ],Integration,2020-05-08 02:49:46.423
+61672841,12,2,Development,Feature,Dynamic Event Handling,12,,General programming query [JSON to CSV/excel],Customization,2020-05-08 05:51:04.343
+61683219,12,7,Development,Feature,Dynamic Form Controller,1,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2020-05-08 16:05:06.787
+61685582,12,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2020-05-08 18:22:37.440
+61735365,12,2,Development,Feature,Dynamic Event Handling,12,,General programming query [JSON to CSV/excel],Customization,2020-05-11 17:14:12.747
+61915796,12,3,Development,Feature,Dynamic Content Display,10,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2020-05-20 14:34:32.307
+62022772,12,1,Development,Testing/Debugging,Dynamic Event Handling,12,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2020-05-26 13:01:50.300
+61188935,13,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2020-04-13 13:27:43.950
+61207974,13,0,Development,Documentation,Dynamic Event Handling,12,,Tutorial [How to do this ],Customization,2020-04-14 12:42:33.630
+61329104,13,9,Development,Feature,Dynamic Content Binding,8,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Customization,2020-04-20 18:06:07.113
+61363424,13,3,Development,Feature,UI Adaptation,5,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2020-04-22 10:58:13.027
+61869531,13,20,Testing,Testing/Debugging,Dynamic Event Handling,12,,Testing [Test failed| Test coverage| Third party functional testing suite|],Customization,2020-05-18 12:24:15.630
+61660647,14,7,Development,Feature,Dynamic Event Handling,12,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2020-05-07 14:42:20.050
+61676962,14,3,Development,Feature,Dynamic Content Display,10,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2020-05-08 10:23:51.693
+61677805,14,5,Development,Feature,External API & Email Config,7,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2020-05-08 11:10:46.343
+61817845,14,1,Development,Testing/Debugging,Cloud and On-Prem Conf,9,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2020-05-15 11:11:57.327
+61820944,14,1,Development,Testing/Debugging,Dynamic Content Binding,8,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2020-05-15 13:53:06.140
+62049728,14,1,Development,Testing/Debugging,Dynamic Event Handling,12,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2020-05-27 17:53:27.380
+61169100,15,3,Development,Feature,Entity Relationship Management,4,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2020-04-12 09:05:50.243
+61469908,15,20,Testing,Testing/Debugging,Dynamic Event Handling,12,,Testing [Test failed| Test coverage| Third party functional testing suite|],Customization,2020-04-27 23:02:13.740
+61642239,15,1,Development,Testing/Debugging,UI Adaptation,5,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2020-05-06 18:10:18.907
+61780469,15,12,Development,Authentication,Dynamic Event Handling,12,,Access control [Application accessibility| Permission],Customization,2020-05-13 16:57:52.537
+61854113,15,1,Development,Testing/Debugging,Dynamic Event Handling,12,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2020-05-17 15:16:26.080
+61909353,15,0,Development,Documentation,SQL CRUD,3,,Tutorial [How to do this ],Database,2020-05-20 09:15:16.877
+61909353,15,6,Development,Feature,SQL CRUD,3,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Database,2020-05-20 09:15:16.877
+61977505,15,15,Development,Documentation,Dynamic Event Handling,12,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Customization,2020-05-23 19:24:49.360
+61222090,16,18,Planning and Design,Feature,Data Storage & Migration,0,,Data migration [export | import],Database,2020-04-15 05:45:55.380
+61345897,16,1,Development,Testing/Debugging,External Web Req Processing,6,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2020-04-21 14:23:51.917
+61731925,16,3,Development,Feature,External API & Email Config,7,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Integration,2020-05-11 14:19:15.453
+61776817,16,21,Development,Testing/Debugging,Dynamic Form Controller,1,,Input validation,Customization,2020-05-13 14:08:06.990
+61818220,16,1,Development,Testing/Debugging,External Web Req Processing,6,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2020-05-15 11:32:58.320
+61983642,16,7,Development,Feature,Dynamic Form Controller,1,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2020-05-24 08:51:29.733
+61999799,16,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2020-05-25 09:44:56.947
+62006237,16,16,Development,Authorization,Access Control & Security,2,,Session/Authentication [social auth | oaut2 | jtoken],Adoption,2020-05-25 16:01:08.153
+61330666,17,7,Development,Feature,External Web Req Processing,6,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Integration,2020-04-20 19:38:28.490
+61341097,17,1,Development,Testing/Debugging,External API & Email Config,7,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2020-04-21 10:15:59.040
+61687572,17,3,Development,Feature,Dynamic Content Display,10,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2020-05-08 20:28:08.577
+61687572,17,4,Development,Feature,Dynamic Content Display,10,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Customization,2020-05-08 20:28:08.577
+61689176,17,15,Development,Documentation,Dynamic Content Binding,8,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Customization,2020-05-08 22:32:34.213
+61689176,17,1,Development,Testing/Debugging,Dynamic Content Binding,8,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2020-05-08 22:32:34.213
+61790198,17,3,Development,Feature,UI Adaptation,5,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2020-05-14 05:50:11.513
+61964967,17,2,Development,Feature,SQL CRUD,3,,General programming query [JSON to CSV/excel],Database,2020-05-22 22:41:41.337
+47505898,18,4,Development,Feature,Data Storage & Migration,0,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Database,2017-11-27 07:38:16.793
+61153574,18,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2020-04-11 07:45:48.793
+61221088,18,6,Development,Feature,Dynamic Content Binding,8,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2020-04-15 03:58:40.860
+61904800,18,10,Development,Feature,Access Control & Security,2,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Adoption,2020-05-20 03:52:59.690
+61938413,18,3,Development,Feature,Dynamic Content Binding,8,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2020-05-21 15:49:05.207
+62002491,18,18,Planning and Design,Feature,External Web Req Processing,6,,Data migration [export | import],Integration,2020-05-25 12:33:25.817
+61164244,19,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2020-04-11 22:00:18.860
+61287217,19,6,Development,Feature,External Web Req Processing,6,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Integration,2020-04-18 09:54:26.553
+61402700,19,4,Requirement,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2020-04-24 06:47:35.060
+61452616,19,10,Development,Feature,Access Control & Security,2,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Adoption,2020-04-27 06:02:45.097
+61674307,19,0,Development,Documentation,UI Adaptation,5,,Tutorial [How to do this ],Customization,2020-05-08 07:39:42.463
+61766048,19,1,Development,Testing/Debugging,External Web Req Processing,6,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2020-05-13 03:46:35.493
+62031387,19,11,Development,Testing/Debugging,Dynamic Content Binding,8,,Platform issues [platform limitaion | not working as expected],Customization,2020-05-26 21:04:10.763
+61378839,20,7,Development,Feature,Dynamic Content Display,10,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2020-04-23 03:25:51.337
+55075917,21,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2019-03-09 09:34:02.517
+61238595,21,2,Development,Feature,Dynamic Event Handling,12,,General programming query [JSON to CSV/excel],Customization,2020-04-15 21:04:53.343
+61641793,21,7,Development,Feature,Dynamic Event Handling,12,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2020-05-06 17:48:03.627
+42658036,22,0,Development,Documentation,Dynamic Content Binding,8,,Tutorial [How to do this ],Customization,2017-03-07 20:48:05.590
+61204978,22,2,Development,Feature,UI Adaptation,5,,General programming query [JSON to CSV/excel],Customization,2020-04-14 09:54:00.270
+61647756,22,0,Development,Documentation,Dynamic Content Binding,8,,Tutorial [How to do this ],Customization,2020-05-07 00:24:19.620
+61824996,22,6,Development,Feature,Data Storage & Migration,0,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Database,2020-05-15 17:24:43.637
+61842832,22,16,Development,Authorization,Access Control & Security,2,,Session/Authentication [social auth | oaut2 | jtoken],Adoption,2020-05-16 20:01:51.283
+47628734,23,22,Development,Documentation,Data Storage & Migration,0,,Recommendation on best practice,Database,2017-12-04 07:50:16.033
+54161244,23,24,Testing,Feature,UI Adaptation,5,,Browser compatibility,Customization,2019-01-12 15:55:10.607
+61734680,23,16,Development,Authorization,Access Control & Security,2,,Session/Authentication [social auth | oaut2 | jtoken],Adoption,2020-05-11 16:35:30.507
+61782655,23,0,Development,Documentation,Data Storage & Migration,0,,Tutorial [How to do this ],Database,2020-05-13 18:55:16.150
+54114480,24,3,Development,Feature,Dynamic Form Controller,1,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2019-01-09 16:28:29.580
+54646038,24,0,Development,Documentation,Dynamic Form Controller,1,,Tutorial [How to do this ],Customization,2019-02-12 08:49:31.220
+61282976,24,0,Development,Documentation,Dynamic Content Binding,8,,Tutorial [How to do this ],Customization,2020-04-18 00:54:27.350
+61377118,24,3,Development,Feature,Dynamic Content Display,10,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2020-04-23 00:02:01.020
+61405883,24,4,Development,Feature,Dynamic Content Display,10,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Customization,2020-04-24 10:05:05.497
+61706612,24,2,Development,Feature,SQL CRUD,3,,General programming query [JSON to CSV/excel],Database,2020-05-10 02:58:49.140
+48168891,25,1,Development,Testing/Debugging,Dynamic Event Handling,12,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2018-01-09 13:06:45.073
+48185677,25,0,Development,Documentation,Dynamic Event Handling,12,,Tutorial [How to do this ],Customization,2018-01-10 10:47:40.253
+48185677,25,6,Development,Feature,Dynamic Event Handling,12,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2018-01-10 10:47:40.253
+54200067,25,14,Deployment,Deployment,Cloud and On-Prem Conf,9,,Deployment Issues [ Local Development],Adoption,2019-01-15 13:41:54.480
+55393388,25,12,Maintenance,Authentication,Access Control & Security,2,,Access control [Application accessibility| Permission],Adoption,2019-03-28 08:49:20.530
+55393388,25,19,Maintenance,Feature,Access Control & Security,2,,Flatform features support [Event Monitoring | Dashboard customization | View Management | role management | collaboration | platform security],Adoption,2019-03-28 08:49:20.530
+61191042,25,0,Development,Documentation,Data Storage & Migration,0,,Tutorial [How to do this ],Database,2020-04-13 15:20:12.500
+61845738,25,15,Requirement,Documentation,Access Control & Security,2,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Adoption,2020-05-17 01:13:43.267
+61845738,25,4,Requirement,Feature,Access Control & Security,2,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2020-05-17 01:13:43.267
+62037429,25,5,Development,Feature,Data Storage & Migration,0,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Database,2020-05-27 07:15:20.490
+55275485,26,1,Development,Testing/Debugging,External API & Email Config,7,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2019-03-21 07:23:42.517
+61670491,26,3,Development,Feature,Dynamic Form Controller,1,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2020-05-08 01:25:17.057
+61759228,26,12,Development,Authentication,Access Control & Security,2,,Access control [Application accessibility| Permission],Adoption,2020-05-12 18:24:02.740
+61936613,26,1,Development,Testing/Debugging,Dynamic Form Controller,1,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2020-05-21 14:18:57.147
+53966488,27,1,Development,Testing/Debugging,Dynamic Content Display,10,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2018-12-29 03:37:54.423
+61268147,27,2,Development,Feature,Dynamic Content Display,10,,General programming query [JSON to CSV/excel],Customization,2020-04-17 09:24:29.293
+61350573,27,0,Development,Documentation,Cloud and On-Prem Conf,9,,Tutorial [How to do this ],Adoption,2020-04-21 18:30:05.220
+61379667,27,18,Planning and Design,Feature,Cloud and On-Prem Conf,9,,Data migration [export | import],Adoption,2020-04-23 05:00:16.940
+61454256,27,1,Development,Testing/Debugging,Dynamic Event Handling,12,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2020-04-27 08:05:20.370
+61902973,27,10,Development,Feature,Entity Relationship Management,4,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Database,2020-05-20 00:15:39.967
+54622703,28,6,Development,Feature,UI Adaptation,5,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2019-02-11 00:56:35.370
+54828156,28,6,Development,Feature,Client Server Comm & IO,11,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Adoption,2019-02-22 13:26:45.427
+57657610,28,19,Development,Feature,Data Storage & Migration,0,,Flatform features support [Event Monitoring | Dashboard customization | View Management | role management | collaboration | platform security],Database,2019-08-26 12:04:10.673
+61309820,28,5,Development,Feature,External API & Email Config,7,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2020-04-19 18:49:52.037
+61939435,28,16,Development,Authorization,Access Control & Security,2,,Session/Authentication [social auth | oaut2 | jtoken],Adoption,2020-05-21 16:40:03.663
+43612228,29,0,Development,Documentation,Access Control & Security,2,,Tutorial [How to do this ],Adoption,2017-04-25 13:34:30.970
+46803436,29,2,Development,Feature,Client Server Comm & IO,11,,General programming query [JSON to CSV/excel],Adoption,2017-10-18 05:36:43.693
+55367038,29,15,Planning and Design,Documentation,Access Control & Security,2,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Adoption,2019-03-26 22:25:35.060
+55367038,29,4,Planning and Design,Feature,Access Control & Security,2,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2019-03-26 22:25:35.060
+61655523,29,18,Development,Feature,Data Storage & Migration,0,,Data migration [export | import],Database,2020-05-07 10:28:19.433
+54773028,30,6,Development,Feature,Client Server Comm & IO,11,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Adoption,2019-02-19 18:47:04.183
+61362602,30,9,Development,Feature,Entity Relationship Management,4,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2020-04-22 10:16:54.123
+61729358,30,6,Development,Feature,Access Control & Security,2,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Adoption,2020-05-11 12:09:01.147
+61865302,30,0,Development,Documentation,Access Control & Security,2,,Tutorial [How to do this ],Adoption,2020-05-18 08:18:16.760
+61961302,30,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2020-05-22 18:08:58.117
+55068186,31,14,Deployment,Deployment,Cloud and On-Prem Conf,9,,Deployment Issues [ Local Development],Adoption,2019-03-08 17:29:39.027
+55090674,31,8,Development,Feature,Dynamic Content Binding,8,,Data binding,Customization,2019-03-10 17:57:07.773
+55219295,31,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2019-03-18 10:32:14.220
+61120900,31,2,Development,Feature,Data Storage & Migration,0,,General programming query [JSON to CSV/excel],Database,2020-04-09 12:13:11.670
+54068351,32,0,Development,Documentation,UI Adaptation,5,,Tutorial [How to do this ],Customization,2019-01-07 03:49:31.200
+57225559,32,10,Development,Feature,Client Server Comm & IO,11,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Adoption,2019-07-26 18:47:20.680
+57225559,32,25,Development,Testing/Debugging,Client Server Comm & IO,11,,Version Controlling,Adoption,2019-07-26 18:47:20.680
+61206586,32,1,Development,Testing/Debugging,Dynamic Event Handling,12,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2020-04-14 11:25:33.780
+61769866,32,7,Development,Feature,Dynamic Event Handling,12,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2020-05-13 08:33:46.437
+61782652,32,9,Development,Feature,SQL CRUD,3,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2020-05-13 18:55:09.413
+52836878,33,3,Development,Feature,Dynamic Form Controller,1,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2018-10-16 13:41:31.227
+54118895,33,2,Development,Feature,External Web Req Processing,6,,General programming query [JSON to CSV/excel],Integration,2019-01-09 21:50:54.753
+55300016,33,2,Development,Feature,UI Adaptation,5,,General programming query [JSON to CSV/excel],Customization,2019-03-22 12:50:14.730
+61207759,33,20,Testing,Testing/Debugging,Access Control & Security,2,,Testing [Test failed| Test coverage| Third party functional testing suite|],Adoption,2020-04-14 12:32:23.107
+61742910,33,11,Development,Testing/Debugging,Client Server Comm & IO,11,,Platform issues [platform limitaion | not working as expected],Adoption,2020-05-12 02:47:38.080
+61131140,35,12,Development,Authentication,Dynamic Event Handling,12,,Access control [Application accessibility| Permission],Customization,2020-04-09 22:18:50.323
+61919301,35,15,Development,Documentation,Dynamic Content Display,10,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Customization,2020-05-20 17:31:13.767
+61919301,35,1,Development,Testing/Debugging,Dynamic Content Display,10,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2020-05-20 17:31:13.767
+43066045,36,13,,,UI Adaptation,5,,wrong tag,Customization,2017-03-28 09:41:19.047
+54841101,36,4,Requirement,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2019-02-23 11:28:21.177
+54980076,36,5,Development,Feature,Cloud and On-Prem Conf,9,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Adoption,2019-03-04 09:20:15.367
+55511505,36,2,Development,Feature,Dynamic Form Controller,1,,General programming query [JSON to CSV/excel],Customization,2019-04-04 08:42:50.900
+61443240,36,6,Development,Feature,Dynamic Content Display,10,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2020-04-26 15:21:21.903
+61838119,36,19,Planning and Design,Feature,Access Control & Security,2,,Flatform features support [Event Monitoring | Dashboard customization | View Management | role management | collaboration | platform security],Adoption,2020-05-16 14:09:29.360
+61840842,36,1,Development,Testing/Debugging,Dynamic Content Display,10,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2020-05-16 17:25:29.640
+61840842,36,11,Development,Testing/Debugging,Dynamic Content Display,10,,Platform issues [platform limitaion | not working as expected],Customization,2020-05-16 17:25:29.640
+61143493,37,5,Development,Feature,Data Storage & Migration,0,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Database,2020-04-10 15:27:15.173
+54678756,38,6,Development,Feature,Access Control & Security,2,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Adoption,2019-02-13 20:18:32.557
+55116523,38,17,Maintenance,Feature,External API & Email Config,7,,Email and DNS configuration [SMTP Authentication| email not working | DNS Integration],Integration,2019-03-12 07:53:39.937
+61226697,38,14,Deployment,Deployment,Cloud and On-Prem Conf,9,,Deployment Issues [ Local Development],Adoption,2020-04-15 10:38:41.980
+61226697,38,20,Deployment,Testing/Debugging,Cloud and On-Prem Conf,9,,Testing [Test failed| Test coverage| Third party functional testing suite|],Adoption,2020-04-15 10:38:41.980
+61778472,38,14,Development,Deployment,Cloud and On-Prem Conf,9,,Deployment Issues [ Local Development],Adoption,2020-05-13 15:23:28.363
+61778472,38,10,Development,Feature,Cloud and On-Prem Conf,9,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Adoption,2020-05-13 15:23:28.363
+55935097,39,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2019-05-01 10:53:43.187
+59527840,39,3,Development,Feature,Entity Relationship Management,4,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2019-12-30 08:35:08.993
+61332655,39,22,Development,Documentation,Dynamic Event Handling,12,,Recommendation on best practice,Customization,2020-04-20 21:53:09.750
+61685518,39,22,Development,Documentation,SQL CRUD,3,,Recommendation on best practice,Database,2020-05-08 18:18:45.480
+43618424,40,8,Development,Feature,Dynamic Form Controller,1,,Data binding,Customization,2017-04-25 18:32:55.007
+53826899,40,10,Planning and Design,Feature,SQL CRUD,3,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Database,2018-12-18 05:30:42.617
+54285728,40,3,Development,Feature,External API & Email Config,7,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Integration,2019-01-21 08:12:03.947
+54960110,40,6,Development,Feature,External Web Req Processing,6,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Integration,2019-03-02 15:30:35.937
+54757002,41,9,Development,Feature,Entity Relationship Management,4,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2019-02-18 23:46:22.543
+61462588,42,5,Development,Feature,Data Storage & Migration,0,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Database,2020-04-27 15:37:55.063
+61642560,42,7,Development,Feature,Dynamic Content Binding,8,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2020-05-06 18:26:29.117
+54462153,43,3,Development,Feature,Cloud and On-Prem Conf,9,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Adoption,2019-01-31 13:56:05.253
+55549922,43,7,Development,Feature,UI Adaptation,5,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2019-04-06 14:12:18.953
+54800171,44,3,Development,Feature,SQL CRUD,3,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2019-02-21 05:55:37.543
+55050411,44,8,Development,Feature,Dynamic Content Display,10,,Data binding,Customization,2019-03-07 18:19:09.213
+55240373,44,1,Development,Testing/Debugging,Dynamic Event Handling,12,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2019-03-19 11:48:49.653
+44178802,45,0,Development,Documentation,External API & Email Config,7,,Tutorial [How to do this ],Integration,2017-05-25 10:55:14.277
+44178802,45,2,Development,Feature,External API & Email Config,7,,General programming query [JSON to CSV/excel],Integration,2017-05-25 10:55:14.277
+54951696,45,0,Development,Documentation,UI Adaptation,5,,Tutorial [How to do this ],Customization,2019-03-01 20:17:15.473
+46369742,46,14,Deployment,Deployment,UI Adaptation,5,,Deployment Issues [ Local Development],Customization,2017-09-22 16:59:24.297
+46493441,46,14,Deployment,Deployment,Access Control & Security,2,,Deployment Issues [ Local Development],Adoption,2017-09-29 16:45:12.867
+55308559,46,10,Development,Feature,Entity Relationship Management,4,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Database,2019-03-22 22:25:34.113
+61818685,46,4,Development,Feature,Data Storage & Migration,0,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Database,2020-05-15 11:59:15.460
+53961151,47,3,Development,Feature,Client Server Comm & IO,11,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Adoption,2018-12-28 15:59:34.700
+53961151,47,7,Development,Feature,Client Server Comm & IO,11,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Adoption,2018-12-28 15:59:34.700
+54900592,47,4,Development,Feature,Client Server Comm & IO,11,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2019-02-27 07:56:43.997
+55196502,47,8,Development,Feature,SQL CRUD,3,,Data binding,Database,2019-03-16 11:59:14.840
+46874301,48,1,Development,Testing/Debugging,External Web Req Processing,6,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2017-10-22 12:54:04.407
+47497901,48,2,Development,Feature,External Web Req Processing,6,,General programming query [JSON to CSV/excel],Integration,2017-11-26 15:44:44.937
+54235734,48,1,Development,Testing/Debugging,SQL CRUD,3,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2019-01-17 12:15:31.810
+55571946,48,2,Development,Feature,SQL CRUD,3,,General programming query [JSON to CSV/excel],Database,2019-04-08 11:01:54.493
+61331112,48,3,Development,Feature,Dynamic Content Display,10,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2020-04-20 20:05:31.783
+43908577,49,1,Development,Testing/Debugging,Entity Relationship Management,4,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2017-05-11 07:00:28.380
+54186801,49,11,Development,Testing/Debugging,External API & Email Config,7,,Platform issues [platform limitaion | not working as expected],Integration,2019-01-14 17:56:50.577
+54521407,49,6,Development,Feature,Access Control & Security,2,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Adoption,2019-02-04 17:33:41.393
+42375516,50,9,Development,Feature,Dynamic Form Controller,1,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Customization,2017-02-21 18:47:05.637
+61123415,50,1,Development,Testing/Debugging,Entity Relationship Management,4,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2020-04-09 14:23:54.293
+61127025,50,0,Development,Documentation,SQL CRUD,3,,Tutorial [How to do this ],Database,2020-04-09 17:41:26.847
+54531836,51,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2019-02-05 10:03:27.327
+55244842,51,13,,,Dynamic Content Display,10,,wrong tag,Customization,2019-03-19 15:41:16.020
+54666018,52,0,Development,Documentation,Dynamic Event Handling,12,,Tutorial [How to do this ],Customization,2019-02-13 08:53:49.000
+53990868,53,0,Development,Documentation,UI Adaptation,5,,Tutorial [How to do this ],Customization,2018-12-31 19:34:48.340
+54321038,53,7,Development,Feature,SQL CRUD,3,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Database,2019-01-23 06:15:31.573
+54901001,53,12,Maintenance,Authentication,Access Control & Security,2,,Access control [Application accessibility| Permission],Adoption,2019-02-27 08:27:03.623
+54902614,53,12,Development,Authentication,Access Control & Security,2,,Access control [Application accessibility| Permission],Adoption,2019-02-27 09:56:20.680
+55010153,53,2,Development,Feature,Dynamic Content Display,10,,General programming query [JSON to CSV/excel],Customization,2019-03-05 19:27:53.087
+55178584,53,3,Development,Feature,External API & Email Config,7,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Integration,2019-03-15 08:40:04.130
+61217110,53,2,Development,Feature,Dynamic Form Controller,1,,General programming query [JSON to CSV/excel],Customization,2020-04-14 20:56:43.357
+42313976,54,6,Development,Feature,Access Control & Security,2,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Adoption,2017-02-18 10:33:25.677
+55193693,54,11,Development,Testing/Debugging,Client Server Comm & IO,11,,Platform issues [platform limitaion | not working as expected],Adoption,2019-03-16 05:18:26.513
+42835744,55,11,Development,Testing/Debugging,SQL CRUD,3,,Platform issues [platform limitaion | not working as expected],Database,2017-03-16 13:40:03.413
+55484404,55,2,Development,Feature,Access Control & Security,2,,General programming query [JSON to CSV/excel],Adoption,2019-04-02 22:27:22.657
+42484228,56,6,Development,Feature,External Web Req Processing,6,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Integration,2017-02-27 11:07:18.797
+42642927,56,1,Development,Testing/Debugging,Dynamic Content Binding,8,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2017-03-07 07:50:01.287
+46612872,56,12,Deployment,Authentication,Access Control & Security,2,,Access control [Application accessibility| Permission],Adoption,2017-10-06 19:39:59.610
+46614237,56,19,Planning and Design,Testing/Debugging,Cloud and On-Prem Conf,9,,Flatform features support [Event Monitoring | Dashboard customization | View Management | role management | collaboration | platform security],Adoption,2017-10-06 21:36:00.403
+54392707,56,10,Development,Feature,UI Adaptation,5,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Customization,2019-01-27 20:45:20.990
+55220739,56,8,Development,Feature,Entity Relationship Management,4,,Data binding,Database,2019-03-18 11:52:15.483
+46495006,58,12,Deployment,Authentication,Access Control & Security,2,,Access control [Application accessibility| Permission],Adoption,2017-09-29 18:33:20.163
+55010103,59,1,Development,Testing/Debugging,SQL CRUD,3,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2019-03-05 19:24:41.410
+43778494,60,14,Deployment,Deployment,Access Control & Security,2,,Deployment Issues [ Local Development],Adoption,2017-05-04 09:07:22.427
+54069553,60,4,Development,Feature,Data Storage & Migration,0,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Database,2019-01-07 06:38:56.843
+46550925,61,4,Development,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2017-10-03 18:15:54.367
+52952265,62,25,Deployment,Testing/Debugging,Access Control & Security,2,,Version Controlling,Adoption,2018-10-23 15:03:23.897
+54557467,62,13,,,Data Storage & Migration,0,,wrong tag,Database,2019-02-06 15:47:04.733
+54936924,62,0,Development,Documentation,Cloud and On-Prem Conf,9,,Tutorial [How to do this ],Adoption,2019-03-01 02:00:27.863
+55426906,62,7,Development,Feature,Entity Relationship Management,4,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Database,2019-03-30 00:07:10.060
+53891777,63,1,Development,Testing/Debugging,Dynamic Form Controller,1,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2018-12-21 23:16:52.447
+61459809,63,1,Development,Testing/Debugging,External Web Req Processing,6,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2020-04-27 13:17:56.693
+42619631,64,1,Development,Testing/Debugging,Cloud and On-Prem Conf,9,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2017-03-06 07:15:10.490
+46348449,64,14,Deployment,Deployment,Access Control & Security,2,,Deployment Issues [ Local Development],Adoption,2017-09-21 16:00:34.423
+54350879,64,10,Planning and Design,Feature,Dynamic Form Controller,1,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Customization,2019-01-24 16:09:34.780
+54011765,65,0,Development,Documentation,Dynamic Form Controller,1,,Tutorial [How to do this ],Customization,2019-01-02 19:00:41.650
+43549963,66,0,Development,Documentation,Dynamic Form Controller,1,,Tutorial [How to do this ],Customization,2017-04-21 18:48:27.023
+46429884,66,1,Development,Testing/Debugging,UI Adaptation,5,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2017-09-26 15:00:07.867
+55471918,66,2,Development,Feature,UI Adaptation,5,,General programming query [JSON to CSV/excel],Customization,2019-04-02 09:58:15.857
+46608926,67,6,Development,Feature,Data Storage & Migration,0,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Database,2017-10-06 15:14:23.737
+55240089,67,0,Development,Documentation,Data Storage & Migration,0,,Tutorial [How to do this ],Database,2019-03-19 11:35:26.227
+55240089,67,4,Development,Feature,Data Storage & Migration,0,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Database,2019-03-19 11:35:26.227
+43061699,68,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2017-03-28 06:03:26.613
+51432021,68,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2018-07-19 21:32:05.893
+53862192,68,9,Development,Feature,SQL CRUD,3,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2018-12-20 03:51:25.050
+45555969,69,14,Deployment,Deployment,Access Control & Security,2,,Deployment Issues [ Local Development],Adoption,2017-08-07 21:28:07.663
+54790585,69,12,Development,Authentication,Client Server Comm & IO,11,,Access control [Application accessibility| Permission],Adoption,2019-02-20 16:04:23.517
+46124156,70,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2017-09-08 20:33:34.653
+46647666,70,11,Development,Testing/Debugging,Cloud and On-Prem Conf,9,,Platform issues [platform limitaion | not working as expected],Adoption,2017-10-09 13:28:29.747
+53843783,70,0,Development,Documentation,Entity Relationship Management,4,,Tutorial [How to do this ],Database,2018-12-19 02:33:33.233
+53843783,70,3,Development,Feature,Entity Relationship Management,4,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2018-12-19 02:33:33.233
+54662808,70,5,Development,Feature,Access Control & Security,2,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Adoption,2019-02-13 04:57:22.880
+54662808,70,24,Development,Feature,Access Control & Security,2,,Browser compatibility,Adoption,2019-02-13 04:57:22.880
+54881057,70,5,Development,Feature,Cloud and On-Prem Conf,9,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Adoption,2019-02-26 08:19:01.813
+53838659,71,6,Development,Feature,Dynamic Content Binding,8,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2018-12-18 17:59:18.747
+55520394,71,2,Development,Feature,External Web Req Processing,6,,General programming query [JSON to CSV/excel],Integration,2019-04-04 15:59:38.420
+55143718,72,3,Development,Feature,SQL CRUD,3,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2019-03-13 14:00:14.367
+46206207,73,0,Development,Documentation,Data Storage & Migration,0,,Tutorial [How to do this ],Database,2017-09-13 20:20:32.890
+46798556,73,0,Development,Documentation,External API & Email Config,7,,Tutorial [How to do this ],Integration,2017-10-17 20:20:44.090
+54288494,73,2,Development,Feature,Client Server Comm & IO,11,,General programming query [JSON to CSV/excel],Adoption,2019-01-21 10:58:54.570
+55435560,74,5,Development,Feature,Client Server Comm & IO,11,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Adoption,2019-03-30 20:52:50.247
+55435560,74,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2019-03-30 20:52:50.247
+44070042,75,9,Development,Feature,SQL CRUD,3,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2017-05-19 12:23:19.413
+47333242,75,0,Planning and Design,Documentation,Dynamic Form Controller,1,,Tutorial [How to do this ],Customization,2017-11-16 15:18:36.767
+47333242,75,4,Planning and Design,Feature,Dynamic Form Controller,1,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Customization,2017-11-16 15:18:36.767
+54577461,75,2,Development,Feature,SQL CRUD,3,,General programming query [JSON to CSV/excel],Database,2019-02-07 16:05:52.587
+54618164,75,1,Development,Testing/Debugging,Dynamic Content Display,10,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2019-02-10 15:52:37.290
+55161617,75,11,Development,Testing/Debugging,Client Server Comm & IO,11,,Platform issues [platform limitaion | not working as expected],Adoption,2019-03-14 11:41:23.043
+54005457,76,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2019-01-02 11:23:55.883
+54365658,76,10,Development,Feature,Entity Relationship Management,4,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Database,2019-01-25 12:49:17.310
+55408264,76,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2019-03-28 23:17:39.833
+54857737,77,11,Development,Testing/Debugging,Cloud and On-Prem Conf,9,,Platform issues [platform limitaion | not working as expected],Adoption,2019-02-24 23:49:33.983
+55104440,77,8,Development,Feature,SQL CRUD,3,,Data binding,Database,2019-03-11 14:46:16.963
+55137884,77,2,Development,Feature,Dynamic Content Display,10,,General programming query [JSON to CSV/excel],Customization,2019-03-13 09:02:24.387
+55179755,77,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2019-03-15 09:48:39.220
+44073389,78,15,Development,Documentation,SQL CRUD,3,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Database,2017-05-19 15:04:35.267
+44073389,78,11,Development,Testing/Debugging,SQL CRUD,3,,Platform issues [platform limitaion | not working as expected],Database,2017-05-19 15:04:35.267
+54248770,78,2,Development,Feature,SQL CRUD,3,,General programming query [JSON to CSV/excel],Database,2019-01-18 06:31:02.743
+46340789,79,1,Development,Testing/Debugging,Access Control & Security,2,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2017-09-21 09:51:08.187
+48190454,79,6,Development,Feature,Entity Relationship Management,4,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Database,2018-01-10 15:12:10.947
+55164994,79,3,Development,Feature,Dynamic Content Display,10,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2019-03-14 14:25:08.640
+61452894,79,0,Development,Documentation,Client Server Comm & IO,11,,Tutorial [How to do this ],Adoption,2020-04-27 06:27:43.787
+61713625,79,2,Development,Feature,External Web Req Processing,6,,General programming query [JSON to CSV/excel],Integration,2020-05-10 14:27:28.023
+55488988,80,0,Development,Documentation,UI Adaptation,5,,Tutorial [How to do this ],Customization,2019-04-03 07:03:08.307
+55488988,80,6,Development,Feature,UI Adaptation,5,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2019-04-03 07:03:08.307
+46447525,82,3,Development,Feature,Data Storage & Migration,0,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2017-09-27 12:09:17.087
+46976482,82,12,Maintenance,Authentication,Access Control & Security,2,,Access control [Application accessibility| Permission],Adoption,2017-10-27 13:41:32.737
+54695712,82,2,Development,Feature,External Web Req Processing,6,,General programming query [JSON to CSV/excel],Integration,2019-02-14 17:12:33.977
+61208367,82,3,Development,Feature,Data Storage & Migration,0,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2020-04-14 13:01:18.063
+42859142,83,6,Development,Feature,Dynamic Event Handling,12,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2017-03-17 13:44:02.607
+44041037,83,1,Development,Testing/Debugging,External Web Req Processing,6,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2017-05-18 07:15:13.660
+55176954,83,0,Development,Documentation,External API & Email Config,7,,Tutorial [How to do this ],Integration,2019-03-15 06:40:09.783
+44140332,84,19,Development,Feature,Access Control & Security,2,,Flatform features support [Event Monitoring | Dashboard customization | View Management | role management | collaboration | platform security],Adoption,2017-05-23 16:28:34.267
+46565154,84,4,Requirement,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2017-10-04 12:41:19.237
+56134883,85,1,Development,Testing/Debugging,SQL CRUD,3,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2019-05-14 16:31:45.657
+46600731,86,10,Development,Feature,Cloud and On-Prem Conf,9,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Adoption,2017-10-06 07:42:26.207
+46600731,86,11,Development,Feature,Cloud and On-Prem Conf,9,,Platform issues [platform limitaion | not working as expected],Adoption,2017-10-06 07:42:26.207
+53930543,87,25,Maintenance,Testing/Debugging,Entity Relationship Management,4,,Version Controlling,Database,2018-12-26 10:11:12.230
+54734086,87,9,Development,Feature,Entity Relationship Management,4,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2019-02-17 14:12:09.937
+54894563,87,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2019-02-26 21:41:48.687
+46206200,88,7,Development,Feature,Entity Relationship Management,4,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Database,2017-09-13 20:20:12.097
+48279047,89,19,Development,Feature,Entity Relationship Management,4,,Flatform features support [Event Monitoring | Dashboard customization | View Management | role management | collaboration | platform security],Database,2018-01-16 10:25:22.657
+54042741,89,8,Development,Feature,Entity Relationship Management,4,,Data binding,Database,2019-01-04 16:28:25.123
+46336305,90,16,Development,Authorization,Access Control & Security,2,,Session/Authentication [social auth | oaut2 | jtoken],Adoption,2017-09-21 05:47:38.617
+46717398,90,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2017-10-12 19:24:35.577
+55405120,90,0,Development,Documentation,Dynamic Form Controller,1,,Tutorial [How to do this ],Customization,2019-03-28 19:04:17.863
+55405120,90,3,Development,Feature,Dynamic Form Controller,1,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2019-03-28 19:04:17.863
+43243120,91,0,Planning and Design,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2017-04-05 23:14:40.900
+43243120,91,4,Planning and Design,Feature,External Web Req Processing,6,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Integration,2017-04-05 23:14:40.900
+55005441,92,10,Planning and Design,Feature,Entity Relationship Management,4,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Database,2019-03-05 14:46:35.563
+48082476,93,3,Development,Feature,SQL CRUD,3,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2018-01-03 17:43:09.000
+54574872,95,1,Development,Testing/Debugging,Data Storage & Migration,0,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2019-02-07 13:50:31.927
+46595947,96,3,Development,Feature,Entity Relationship Management,4,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2017-10-05 22:55:21.513
+55207558,97,18,Planning and Design,Feature,Cloud and On-Prem Conf,9,,Data migration [export | import],Adoption,2019-03-17 13:25:51.633
+41987911,98,0,Development,Documentation,Dynamic Content Binding,8,,Tutorial [How to do this ],Customization,2017-02-01 19:20:25.320
+47800766,99,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2017-12-13 19:27:41.423
+54398761,99,2,Development,Feature,Dynamic Content Display,10,,General programming query [JSON to CSV/excel],Customization,2019-01-28 09:19:47.340
+55006077,99,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2019-03-05 15:19:47.087
+55559831,99,11,Development,Testing/Debugging,Cloud and On-Prem Conf,9,,Platform issues [platform limitaion | not working as expected],Adoption,2019-04-07 14:08:43.107
+43454426,100,0,Development,Documentation,Dynamic Form Controller,1,,Tutorial [How to do this ],Customization,2017-04-17 15:27:25.883
+55489868,100,8,Development,Feature,Dynamic Form Controller,1,,Data binding,Customization,2019-04-03 07:55:03.320
+54011731,101,1,Development,Testing/Debugging,Entity Relationship Management,4,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2019-01-02 18:58:25.357
+43170471,102,13,,,External API & Email Config,7,,wrong tag,Integration,2017-04-02 16:06:19.393
+46271988,102,1,Development,Testing/Debugging,Entity Relationship Management,4,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2017-09-18 05:12:51.320
+46378576,102,6,Development,Feature,Entity Relationship Management,4,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Database,2017-09-23 10:27:33.310
+46574894,102,10,Development,Feature,Data Storage & Migration,0,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Database,2017-10-04 22:05:06.990
+53887719,102,16,Development,Authorization,Access Control & Security,2,,Session/Authentication [social auth | oaut2 | jtoken],Adoption,2018-12-21 16:02:45.330
+42809056,103,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2017-03-15 11:55:59.727
+46382002,105,0,Development,Documentation,UI Adaptation,5,,Tutorial [How to do this ],Customization,2017-09-23 16:49:06.273
+49419372,107,18,Development,Feature,Entity Relationship Management,4,,Data migration [export | import],Database,2018-03-22 02:04:51.213
+43212275,108,8,Development,Feature,Client Server Comm & IO,11,,Data binding,Adoption,2017-04-04 16:02:52.700
+51380757,108,15,Development,Documentation,Data Storage & Migration,0,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Database,2018-07-17 11:55:10.740
+46541679,109,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2017-10-03 09:47:19.120
+55238384,109,4,Planning and Design,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2019-03-19 10:09:53.817
+55471101,109,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2019-04-02 09:18:28.323
+55471101,109,3,Development,Feature,External Web Req Processing,6,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Integration,2019-04-02 09:18:28.323
+42106471,111,2,Development,Feature,Cloud and On-Prem Conf,9,,General programming query [JSON to CSV/excel],Adoption,2017-02-08 06:49:06.777
+42841546,111,12,Maintenance,Authentication,Access Control & Security,2,,Access control [Application accessibility| Permission],Adoption,2017-03-16 17:57:43.000
+54060551,111,3,Development,Feature,SQL CRUD,3,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2019-01-06 10:19:09.660
+54473192,111,2,Development,Feature,Dynamic Form Controller,1,,General programming query [JSON to CSV/excel],Customization,2019-02-01 05:07:34.857
+47564757,112,2,Development,Feature,Dynamic Content Display,10,,General programming query [JSON to CSV/excel],Customization,2017-11-30 02:04:15.567
+54373790,113,7,Development,Feature,Dynamic Content Binding,8,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2019-01-25 22:45:19.837
+54373790,113,1,Development,Testing/Debugging,Dynamic Content Binding,8,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2019-01-25 22:45:19.837
+41920583,118,0,Development,Documentation,Cloud and On-Prem Conf,9,,Tutorial [How to do this ],Adoption,2017-01-29 11:52:27.477
+41920583,118,10,Development,Feature,Cloud and On-Prem Conf,9,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Adoption,2017-01-29 11:52:27.477
+53874059,118,2,Development,Feature,External API & Email Config,7,,General programming query [JSON to CSV/excel],Integration,2018-12-20 18:17:12.657
+55286040,118,2,Development,Feature,Entity Relationship Management,4,,General programming query [JSON to CSV/excel],Database,2019-03-21 17:25:55.193
+55286040,118,1,Development,Testing/Debugging,Entity Relationship Management,4,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2019-03-21 17:25:55.193
+47005811,119,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2017-10-29 22:15:19.853
+53843335,119,7,Development,Feature,Dynamic Content Display,10,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2018-12-19 01:19:16.387
+55450821,119,1,Development,Testing/Debugging,Data Storage & Migration,0,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2019-04-01 08:26:18.993
+54446465,120,21,Development,Testing/Debugging,Client Server Comm & IO,11,,Input validation,Adoption,2019-01-30 17:41:39.227
+55297256,120,15,Development,Documentation,Entity Relationship Management,4,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Database,2019-03-22 10:09:04.527
+55297256,120,9,Development,Feature,Entity Relationship Management,4,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2019-03-22 10:09:04.527
+43965841,122,3,Development,Feature,External API & Email Config,7,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Integration,2017-05-14 15:42:50.900
+44145365,122,0,Development,Documentation,UI Adaptation,5,,Tutorial [How to do this ],Customization,2017-05-23 21:30:38.057
+55283966,122,8,Development,Feature,SQL CRUD,3,,Data binding,Database,2019-03-21 15:29:48.150
+46275169,123,1,Development,Testing/Debugging,Dynamic Content Binding,8,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2017-09-18 08:51:00.893
+54472908,123,0,Development,Documentation,Entity Relationship Management,4,,Tutorial [How to do this ],Database,2019-02-01 04:28:34.017
+54575273,124,2,Development,Feature,SQL CRUD,3,,General programming query [JSON to CSV/excel],Database,2019-02-07 14:11:44.197
+47057239,126,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2017-11-01 14:31:06.883
+43207458,127,6,Development,Feature,Client Server Comm & IO,11,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Adoption,2017-04-04 12:37:05.080
+54688078,128,21,Development,Testing/Debugging,Data Storage & Migration,0,,Input validation,Database,2019-02-14 10:21:46.680
+54945975,129,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2019-03-01 13:48:03.130
+55064804,129,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2019-03-08 14:01:54.153
+46655042,132,6,Development,Feature,Data Storage & Migration,0,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Database,2017-10-09 21:10:18.683
+52831801,134,1,Development,Testing/Debugging,SQL CRUD,3,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2018-10-16 09:05:20.373
+55126170,136,8,Development,Feature,Entity Relationship Management,4,,Data binding,Database,2019-03-12 16:17:03.860
+55126170,136,9,Development,Feature,Entity Relationship Management,4,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2019-03-12 16:17:03.860
+43500546,138,0,Development,Documentation,Entity Relationship Management,4,,Tutorial [How to do this ],Database,2017-04-19 15:52:31.697
+43500546,138,11,Development,Feature,Entity Relationship Management,4,,Platform issues [platform limitaion | not working as expected],Database,2017-04-19 15:52:31.697
+54060686,138,2,Development,Feature,External Web Req Processing,6,,General programming query [JSON to CSV/excel],Integration,2019-01-06 10:37:16.767
+55024778,139,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2019-03-06 13:54:36.073
+42239047,140,2,Development,Feature,Dynamic Event Handling,12,,General programming query [JSON to CSV/excel],Customization,2017-02-15 01:04:05.117
+42908516,140,0,Development,Documentation,Dynamic Event Handling,12,,Tutorial [How to do this ],Customization,2017-03-20 16:08:20.630
+42215621,141,2,Development,Feature,SQL CRUD,3,,General programming query [JSON to CSV/excel],Database,2017-02-13 23:56:37.600
+54406837,141,5,Development,Feature,Entity Relationship Management,4,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Database,2019-01-28 16:58:39.763
+47025667,142,8,Development,Feature,SQL CRUD,3,,Data binding,Database,2017-10-30 23:20:38.057
+47013716,145,6,Maintenance,Feature,Entity Relationship Management,4,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Database,2017-10-30 11:05:45.690
+54910488,146,2,Development,Feature,SQL CRUD,3,,General programming query [JSON to CSV/excel],Database,2019-02-27 16:46:40.827
+53942601,147,2,Development,Feature,UI Adaptation,5,,General programming query [JSON to CSV/excel],Customization,2018-12-27 09:20:36.497
+54049205,148,6,Development,Feature,External Web Req Processing,6,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Integration,2019-01-05 05:20:35.390
+42295539,149,9,Development,Feature,SQL CRUD,3,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2017-02-17 10:29:44.263
+46970906,149,11,Development,Testing/Debugging,Dynamic Content Display,10,,Platform issues [platform limitaion | not working as expected],Customization,2017-10-27 08:41:39.520
+42955004,151,7,Development,Feature,UI Adaptation,5,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2017-03-22 14:46:31.907
+46970906,151,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2017-10-27 08:41:39.520
+55312355,151,1,Development,Testing/Debugging,External Web Req Processing,6,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2019-03-23 09:29:48.957
+46537440,153,8,Development,Feature,Dynamic Content Binding,8,,Data binding,Customization,2017-10-03 04:53:53.847
+55043215,153,12,Maintenance,Authentication,UI Adaptation,5,,Access control [Application accessibility| Permission],Customization,2019-03-07 11:56:54.753
+42638538,154,0,Development,Documentation,UI Adaptation,5,,Tutorial [How to do this ],Customization,2017-03-07 01:23:14.673
+55312355,154,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2019-03-23 09:29:48.957
+55312355,154,1,Development,Testing/Debugging,Dynamic Content Display,10,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2019-03-23 09:29:48.957
+53944354,155,17,Development,Feature,External API & Email Config,7,,Email and DNS configuration [SMTP Authentication| email not working | DNS Integration],Integration,2018-12-27 11:30:47.167
+61422412,155,1,Development,Testing/Debugging,Dynamic Event Handling,12,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2020-04-25 07:35:23.207
+47688993,157,5,Development,Feature,Data Storage & Migration,0,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Database,2017-12-07 06:34:23.353
+51352351,157,0,Development,Documentation,UI Adaptation,5,,Tutorial [How to do this ],Customization,2018-07-15 21:23:38.577
+43947704,158,9,Development,Feature,SQL CRUD,3,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2017-05-12 23:25:32.560
+46837399,160,9,Development,Feature,Entity Relationship Management,4,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2017-10-19 19:24:18.570
+55048122,160,0,Development,Documentation,Dynamic Content Binding,8,,Tutorial [How to do this ],Customization,2019-03-07 16:04:38.300
+46236405,162,2,Development,Feature,Dynamic Content Binding,8,,General programming query [JSON to CSV/excel],Customization,2017-09-15 09:36:00.097
+51352700,162,2,Development,Feature,Dynamic Form Controller,1,,General programming query [JSON to CSV/excel],Customization,2018-07-15 22:32:28.890
+55419294,163,10,Development,Feature,Cloud and On-Prem Conf,9,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Adoption,2019-03-29 14:11:27.210
+55419294,163,4,Development,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2019-03-29 14:11:27.210
+46894604,164,0,Development,Documentation,Dynamic Form Controller,1,,Tutorial [How to do this ],Customization,2017-10-23 16:53:04.210
+54192453,164,9,Development,Feature,Client Server Comm & IO,11,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Adoption,2019-01-15 03:48:52.223
+54475094,164,15,Development,Documentation,Data Storage & Migration,0,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Database,2019-02-01 07:49:44.727
+54548490,164,0,Development,Documentation,Access Control & Security,2,,Tutorial [How to do this ],Adoption,2019-02-06 07:23:36.130
+55574590,164,2,Development,Feature,SQL CRUD,3,,General programming query [JSON to CSV/excel],Database,2019-04-08 13:27:18.157
+46738962,165,2,Development,Feature,External API & Email Config,7,,General programming query [JSON to CSV/excel],Integration,2017-10-13 22:43:22.890
+54554531,165,4,Planning and Design,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2019-02-06 13:15:16.253
+55212167,166,5,Development,Feature,Dynamic Event Handling,12,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Customization,2019-03-17 21:36:19.977
+54760591,167,0,Development,Documentation,Dynamic Event Handling,12,,Tutorial [How to do this ],Customization,2019-02-19 07:13:00.627
+43906526,168,16,Development,Authorization,External Web Req Processing,6,,Session/Authentication [social auth | oaut2 | jtoken],Integration,2017-05-11 04:25:29.110
+47749485,168,15,Development,Documentation,SQL CRUD,3,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Database,2017-12-11 09:12:39.627
+47749485,168,9,Development,Feature,SQL CRUD,3,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2017-12-11 09:12:39.627
+55476156,169,3,Development,Feature,Dynamic Form Controller,1,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2019-04-02 13:34:39.627
+46514457,171,14,Deployment,Deployment,Client Server Comm & IO,11,,Deployment Issues [ Local Development],Adoption,2017-10-01 16:33:13.937
+55026722,171,18,Development,Feature,Entity Relationship Management,4,,Data migration [export | import],Database,2019-03-06 15:31:36.797
+41749324,172,7,Development,Feature,Dynamic Form Controller,1,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2017-01-19 18:40:03.057
+44078721,172,3,Development,Feature,Entity Relationship Management,4,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2017-05-19 20:45:03.733
+41945601,174,1,Development,Testing/Debugging,Dynamic Content Display,10,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2017-01-30 21:20:39.270
+46330301,174,0,Development,Documentation,Cloud and On-Prem Conf,9,,Tutorial [How to do this ],Adoption,2017-09-20 19:26:32.973
+46330301,174,4,Development,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2017-09-20 19:26:32.973
+46669690,174,20,Testing,Testing/Debugging,Cloud and On-Prem Conf,9,,Testing [Test failed| Test coverage| Third party functional testing suite|],Adoption,2017-10-10 14:47:40.163
+55749828,174,5,Development,Feature,Client Server Comm & IO,11,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Adoption,2019-04-18 15:59:55.117
+54223484,175,4,Requirement,Feature,SQL CRUD,3,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Database,2019-01-16 18:50:38.583
+53937189,176,9,Development,Feature,SQL CRUD,3,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2018-12-26 21:09:37.987
+54574451,179,0,Development,Documentation,UI Adaptation,5,,Tutorial [How to do this ],Customization,2019-02-07 13:27:39.137
+54577431,179,18,Planning and Design,Feature,Dynamic Content Binding,8,,Data migration [export | import],Customization,2019-02-07 16:04:26.567
+48091397,181,1,Development,Testing/Debugging,Dynamic Form Controller,1,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2018-01-04 08:31:52.857
+54363950,181,1,Development,Testing/Debugging,Access Control & Security,2,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2019-01-25 11:00:04.027
+42379606,182,3,Development,Feature,UI Adaptation,5,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2017-02-21 22:58:18.820
+54478438,182,7,Development,Feature,UI Adaptation,5,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2019-02-01 11:18:42.933
+46289453,183,9,Development,Feature,UI Adaptation,5,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Customization,2017-09-18 23:15:23.053
+51381376,184,10,Planning and Design,Feature,Dynamic Content Binding,8,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Customization,2018-07-17 12:26:51.850
+55072078,184,12,Maintenance,Authentication,Access Control & Security,2,,Access control [Application accessibility| Permission],Adoption,2019-03-08 22:49:22.947
+46193704,185,0,Development,Documentation,Dynamic Event Handling,12,,Tutorial [How to do this ],Customization,2017-09-13 09:25:56.727
+54045187,187,8,Development,Feature,SQL CRUD,3,,Data binding,Database,2019-01-04 19:52:12.940
+53884595,188,0,Maintenance,Documentation,Dynamic Content Binding,8,,Tutorial [How to do this ],Customization,2018-12-21 12:09:36.780
+54291428,189,0,Development,Documentation,Dynamic Content Binding,8,,Tutorial [How to do this ],Customization,2019-01-21 13:51:27.707
+43764771,190,1,Development,Testing/Debugging,SQL CRUD,3,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2017-05-03 15:51:21.433
+46077840,190,8,Development,Feature,SQL CRUD,3,,Data binding,Database,2017-09-06 14:27:32.833
+42170805,191,0,Development,Documentation,SQL CRUD,3,,Tutorial [How to do this ],Database,2017-02-11 00:29:11.457
+54920348,191,5,Development,Feature,Access Control & Security,2,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Adoption,2019-02-28 07:17:40.373
+54829314,192,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2019-02-22 14:31:26.517
+43241155,196,11,Development,Testing/Debugging,Dynamic Form Controller,1,,Platform issues [platform limitaion | not working as expected],Customization,2017-04-05 20:37:05.830
+44073502,197,11,Development,Testing/Debugging,Dynamic Content Display,10,,Platform issues [platform limitaion | not working as expected],Customization,2017-05-19 15:10:41.113
+43937563,199,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2017-05-12 12:15:47.753
+46767048,199,10,Development,Feature,Entity Relationship Management,4,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Database,2017-10-16 09:30:19.760
+42938295,203,8,Development,Feature,Entity Relationship Management,4,,Data binding,Database,2017-03-21 21:18:24.433
+46739891,206,10,Development,Feature,Entity Relationship Management,4,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Database,2017-10-14 01:17:36.043
+54316826,207,10,Development,Feature,Entity Relationship Management,4,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Database,2019-01-22 21:39:01.493
+46732318,210,12,Maintenance,Authentication,Access Control & Security,2,,Access control [Application accessibility| Permission],Adoption,2017-10-13 14:33:54.383
+55514820,212,17,Development,Feature,External API & Email Config,7,,Email and DNS configuration [SMTP Authentication| email not working | DNS Integration],Integration,2019-04-04 11:27:21.620
+41984603,213,9,Development,Feature,Client Server Comm & IO,11,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Adoption,2017-02-01 16:19:34.993
+46226398,213,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2017-09-14 18:54:30.020
+46976184,213,0,Development,Documentation,Access Control & Security,2,,Tutorial [How to do this ],Adoption,2017-10-27 13:26:47.873
+51308896,213,11,Development,Testing/Debugging,Client Server Comm & IO,11,,Platform issues [platform limitaion | not working as expected],Adoption,2018-07-12 15:00:08.090
+42756855,214,5,Development,Feature,Entity Relationship Management,4,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Database,2017-03-13 04:52:02.873
+55505857,214,0,Development,Documentation,Data Storage & Migration,0,,Tutorial [How to do this ],Database,2019-04-03 23:45:12.027
+55505857,214,1,Development,Testing/Debugging,Data Storage & Migration,0,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2019-04-03 23:45:12.027
+42503229,215,0,Development,Documentation,Dynamic Form Controller,1,,Tutorial [How to do this ],Customization,2017-02-28 08:03:06.350
+46681967,215,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2017-10-11 07:11:50.523
+54446152,218,0,Development,Documentation,Data Storage & Migration,0,,Tutorial [How to do this ],Database,2019-01-30 17:22:46.437
+54526634,218,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2019-02-05 01:23:07.803
+54935102,219,10,Development,Feature,Dynamic Content Display,10,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Customization,2019-02-28 22:13:54.527
+47820479,220,2,Development,Feature,External Web Req Processing,6,,General programming query [JSON to CSV/excel],Integration,2017-12-14 19:06:42.900
+48054534,220,10,Planning and Design,Feature,SQL CRUD,3,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Database,2018-01-02 01:08:43.827
+51364575,220,8,Development,Feature,Entity Relationship Management,4,,Data binding,Database,2018-07-16 14:50:44.427
+47305630,221,1,Development,Testing/Debugging,Data Storage & Migration,0,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2017-11-15 10:58:11.367
+43213661,223,8,Development,Feature,Client Server Comm & IO,11,,Data binding,Adoption,2017-04-04 17:15:34.203
+47451392,223,8,Development,Feature,SQL CRUD,3,,Data binding,Database,2017-11-23 09:03:54.800
+54747323,223,1,Development,Testing/Debugging,Entity Relationship Management,4,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2019-02-18 12:28:12.337
+51389551,225,17,Development,Feature,External API & Email Config,7,,Email and DNS configuration [SMTP Authentication| email not working | DNS Integration],Integration,2018-07-17 20:16:21.957
+42914503,226,18,Maintenance,Feature,Cloud and On-Prem Conf,9,,Data migration [export | import],Adoption,2017-03-20 21:43:33.113
+44013975,226,7,Development,Feature,Dynamic Form Controller,1,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2017-05-17 01:18:48.820
+46776819,226,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2017-10-16 18:28:13.717
+54077904,226,12,Maintenance,Authentication,UI Adaptation,5,,Access control [Application accessibility| Permission],Customization,2019-01-07 16:11:12.283
+54741436,226,16,Development,Authorization,External Web Req Processing,6,,Session/Authentication [social auth | oaut2 | jtoken],Integration,2019-02-18 06:18:10.783
+55136468,228,1,Development,Testing/Debugging,Dynamic Form Controller,1,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2019-03-13 07:24:57.303
+43733425,231,1,Development,Testing/Debugging,Cloud and On-Prem Conf,9,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2017-05-02 08:32:04.550
+46090082,232,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2017-09-07 07:14:18.533
+46866935,232,10,Planning and Design,Feature,Entity Relationship Management,4,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Database,2017-10-21 19:01:04.843
+54987992,232,3,Development,Feature,Dynamic Form Controller,1,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2019-03-04 16:56:51.970
+42730602,233,18,Maintenance,Feature,Cloud and On-Prem Conf,9,,Data migration [export | import],Adoption,2017-03-11 02:21:03.393
+48026832,233,3,Development,Feature,SQL CRUD,3,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2017-12-29 18:28:25.313
+47087186,234,2,Development,Feature,Client Server Comm & IO,11,,General programming query [JSON to CSV/excel],Adoption,2017-11-03 01:39:52.150
+44136328,236,12,Deployment,Authentication,Access Control & Security,2,,Access control [Application accessibility| Permission],Adoption,2017-05-23 13:32:20.820
+44136328,236,14,Deployment,Deployment,Access Control & Security,2,,Deployment Issues [ Local Development],Adoption,2017-05-23 13:32:20.820
+54995158,240,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2019-03-05 03:53:36.890
+54848296,245,23,Development,Feature,UI Adaptation,5,,Dynamic Content,Customization,2019-02-24 02:58:06.350
+47442099,249,5,Development,Feature,Access Control & Security,2,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Adoption,2017-11-22 19:02:30.270
+7383641,250,0,Development,Documentation,External API & Email Config,7,,Tutorial [How to do this ],Integration,2011-09-12 05:27:53.827
+44106979,250,1,Development,Testing/Debugging,Access Control & Security,2,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2017-05-22 07:25:33.517
+44106979,250,11,Development,Testing/Debugging,Access Control & Security,2,,Platform issues [platform limitaion | not working as expected],Adoption,2017-05-22 07:25:33.517
+54178050,251,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2019-01-14 08:39:15.353
+54884332,252,7,Development,Feature,Dynamic Form Controller,1,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2019-02-26 11:18:57.973
+46558510,256,16,Development,Authorization,Access Control & Security,2,,Session/Authentication [social auth | oaut2 | jtoken],Adoption,2017-10-04 06:40:11.503
+47910518,256,0,Development,Documentation,Data Storage & Migration,0,,Tutorial [How to do this ],Database,2017-12-20 16:29:36.313
+46483388,257,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2017-09-29 06:58:57.900
+51884008,257,15,Requirement,Documentation,Access Control & Security,2,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Adoption,2018-08-16 19:17:51.857
+51384016,262,15,Development,Documentation,Data Storage & Migration,0,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Database,2018-07-17 14:31:12.217
+51384016,262,1,Development,Testing/Debugging,Data Storage & Migration,0,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2018-07-17 14:31:12.217
+54754818,268,5,Development,Feature,Data Storage & Migration,0,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Database,2019-02-18 20:23:18.570
+55304547,268,4,Planning and Design,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2019-03-22 17:03:37.627
+42006707,270,11,Development,Testing/Debugging,Data Storage & Migration,0,,Platform issues [platform limitaion | not working as expected],Database,2017-02-02 15:55:29.983
+43634549,270,17,Development,Feature,External API & Email Config,7,,Email and DNS configuration [SMTP Authentication| email not working | DNS Integration],Integration,2017-04-26 12:41:49.337
+53884162,270,14,Deployment,Deployment,Access Control & Security,2,,Deployment Issues [ Local Development],Adoption,2018-12-21 11:37:58.110
+47795639,272,4,Maintenance,Feature,Access Control & Security,2,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2017-12-13 14:39:29.210
+47795639,272,4,Maintenance,Feature,Access Control & Security,2,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2017-12-13 14:39:29.210
+54271510,276,8,Development,Feature,SQL CRUD,3,,Data binding,Database,2019-01-19 21:23:51.220
+42305224,279,1,Development,Testing/Debugging,SQL CRUD,3,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2017-02-17 18:41:23.087
+41881534,281,3,Development,Feature,Dynamic Form Controller,1,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2017-01-26 19:35:47.117
+41881534,281,9,Development,Feature,Dynamic Form Controller,1,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Customization,2017-01-26 19:35:47.117
+43164321,282,1,Development,Testing/Debugging,Access Control & Security,2,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2017-04-02 03:26:57.163
+47772835,284,8,Development,Feature,Dynamic Content Display,10,,Data binding,Customization,2017-12-12 12:36:26.877
+54603982,289,6,Development,Feature,Data Storage & Migration,0,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Database,2019-02-09 06:56:32.273
+54474013,294,4,Planning and Design,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2019-02-01 06:27:28.747
+46238759,296,6,Development,Feature,External Web Req Processing,6,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Integration,2017-09-15 11:42:52.760
+51369708,296,0,Development,Documentation,Data Storage & Migration,0,,Tutorial [How to do this ],Database,2018-07-16 20:33:13.000
+54323760,296,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2019-01-23 09:18:15.177
+59524629,297,15,Development,Documentation,Dynamic Event Handling,12,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Customization,2019-12-30 00:57:41.973
+55101284,299,5,Development,Feature,Dynamic Content Binding,8,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Customization,2019-03-11 11:53:11.053
+54515593,300,2,Development,Feature,SQL CRUD,3,,General programming query [JSON to CSV/excel],Database,2019-02-04 11:57:39.517
+54241538,303,7,Development,Feature,Dynamic Form Controller,1,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2019-01-17 17:47:18.967
+43299948,306,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2017-04-08 20:16:32.810
+47522277,307,10,Development,Feature,SQL CRUD,3,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Database,2017-11-28 00:54:20.267
+46978495,309,6,Development,Feature,UI Adaptation,5,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2017-10-27 15:23:20.580
+51364441,318,8,Development,Feature,SQL CRUD,3,,Data binding,Database,2018-07-16 14:44:25.543
+54548422,318,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2019-02-06 07:18:35.367
+55217961,321,2,Development,Feature,External Web Req Processing,6,,General programming query [JSON to CSV/excel],Integration,2019-03-18 09:17:43.970
+42227249,323,1,Development,Testing/Debugging,Entity Relationship Management,4,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2017-02-14 13:20:04.700
+43008145,325,4,Development,Feature,Client Server Comm & IO,11,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2017-03-24 19:59:19.710
+41755842,326,9,Development,Feature,Entity Relationship Management,4,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2017-01-20 03:55:46.593
+46921029,327,8,Development,Feature,SQL CRUD,3,,Data binding,Database,2017-10-24 22:30:36.500
+359717,329,0,Requirement,Documentation,Access Control & Security,2,,Tutorial [How to do this ],Adoption,2008-12-11 15:30:30.840
+359717,329,4,Requirement,Feature,Access Control & Security,2,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2008-12-11 15:30:30.840
+44102892,329,5,Development,Feature,Access Control & Security,2,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Adoption,2017-05-21 23:54:21.240
+51324328,330,11,Development,Testing/Debugging,Data Storage & Migration,0,,Platform issues [platform limitaion | not working as expected],Database,2018-07-13 11:42:03.453
+2377082,331,5,Development,Feature,Cloud and On-Prem Conf,9,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Adoption,2010-03-04 05:28:31.303
+54468229,333,6,Development,Feature,Dynamic Content Display,10,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2019-01-31 19:49:01.727
+41886336,335,6,Development,Feature,External API & Email Config,7,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Integration,2017-01-27 02:48:10.777
+41886336,335,11,Development,Testing/Debugging,External API & Email Config,7,,Platform issues [platform limitaion | not working as expected],Integration,2017-01-27 02:48:10.777
+47174045,335,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2017-11-08 07:37:51.290
+47731051,337,2,Development,Feature,Client Server Comm & IO,11,,General programming query [JSON to CSV/excel],Adoption,2017-12-09 17:12:12.363
+47013133,338,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2017-10-30 10:34:10.823
+48105880,338,1,Development,Testing/Debugging,External Web Req Processing,6,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2018-01-05 01:16:16.473
+43849977,339,3,Development,Feature,External API & Email Config,7,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Integration,2017-05-08 14:14:51.300
+47317006,343,6,Development,Feature,UI Adaptation,5,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2017-11-15 20:51:13.733
+43401120,348,9,Development,Feature,Dynamic Content Binding,8,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Customization,2017-04-13 20:24:37.297
+46776955,354,9,Development,Feature,External API & Email Config,7,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Integration,2017-10-16 18:36:39.160
+54700894,354,7,Development,Feature,Dynamic Content Display,10,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2019-02-14 23:57:57.280
+44165995,356,10,Planning and Design,Feature,SQL CRUD,3,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Database,2017-05-24 18:24:59.653
+47762700,359,11,Development,Testing/Debugging,Access Control & Security,2,,Platform issues [platform limitaion | not working as expected],Adoption,2017-12-11 22:47:48.557
+41803929,370,9,Development,Feature,SQL CRUD,3,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2017-01-23 10:18:34.537
+47943399,374,3,Development,Feature,SQL CRUD,3,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2017-12-22 14:52:52.660
+9139207,385,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2012-02-04 07:29:54.663
+46417978,387,1,Development,Testing/Debugging,External Web Req Processing,6,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2017-09-26 04:45:53.903
+54967399,387,9,Development,Feature,Dynamic Content Binding,8,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Customization,2019-03-03 09:29:29.417
+47178776,389,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2017-11-08 11:40:22.077
+53916396,390,2,Development,Feature,SQL CRUD,3,,General programming query [JSON to CSV/excel],Database,2018-12-24 17:48:26.527
+52744026,394,7,Development,Feature,Dynamic Event Handling,12,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2018-10-10 15:41:40.113
+53933243,394,14,Deployment,Deployment,Dynamic Event Handling,12,,Deployment Issues [ Local Development],Customization,2018-12-26 14:14:53.930
+55594848,395,7,Development,Feature,Dynamic Event Handling,12,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2019-04-09 14:09:50.207
+46257017,400,3,Development,Feature,Dynamic Form Controller,1,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2017-09-16 18:12:59.163
+41983737,402,3,Development,Feature,Entity Relationship Management,4,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2017-02-01 15:38:33.690
+54822913,402,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2019-02-22 08:29:04.160
+55525227,404,11,Development,Testing/Debugging,Dynamic Content Binding,8,,Platform issues [platform limitaion | not working as expected],Customization,2019-04-04 21:32:51.753
+41574944,408,9,Development,Feature,Dynamic Content Binding,8,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Customization,2017-01-10 17:37:11.240
+47518599,410,3,Development,Feature,SQL CRUD,3,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2017-11-27 19:41:16.527
+54216119,410,1,Development,Testing/Debugging,External Web Req Processing,6,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2019-01-16 11:28:36.963
+55511963,412,3,Development,Feature,Dynamic Content Display,10,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2019-04-04 09:07:17.083
+9054254,413,16,Development,Authorization,External Web Req Processing,6,,Session/Authentication [social auth | oaut2 | jtoken],Integration,2012-01-29 15:19:34.733
+46801400,414,9,Development,Feature,SQL CRUD,3,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2017-10-18 01:16:13.127
+55220499,415,10,Planning and Design,Feature,Cloud and On-Prem Conf,9,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Adoption,2019-03-18 11:38:38.180
+55220499,415,4,Planning and Design,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2019-03-18 11:38:38.180
+51360587,426,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2018-07-16 11:19:04.130
+55122901,427,0,Development,Documentation,Client Server Comm & IO,11,,Tutorial [How to do this ],Adoption,2019-03-12 13:41:05.713
+55118699,428,8,Development,Feature,Dynamic Form Controller,1,,Data binding,Customization,2019-03-12 10:00:13.737
+47520197,429,10,Development,Feature,Entity Relationship Management,4,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Database,2017-11-27 21:35:54.570
+9187799,431,10,Development,Feature,Dynamic Content Binding,8,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Customization,2012-02-08 04:20:30.750
+54532079,431,7,Development,Feature,Dynamic Form Controller,1,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2019-02-05 10:15:45.150
+54902191,439,9,Development,Feature,Dynamic Content Display,10,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Customization,2019-02-27 09:34:49.160
+55269741,439,0,Development,Documentation,Access Control & Security,2,,Tutorial [How to do this ],Adoption,2019-03-20 20:35:09.807
+47213805,440,4,Development,Feature,UI Adaptation,5,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Customization,2017-11-10 00:16:47.170
+5552901,446,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2011-04-05 13:48:48.147
+42238738,448,2,Development,Feature,Dynamic Event Handling,12,,General programming query [JSON to CSV/excel],Customization,2017-02-15 00:29:35.573
+44005685,448,15,Development,Documentation,Entity Relationship Management,4,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Database,2017-05-16 15:30:38.047
+44005685,448,4,Development,Feature,Entity Relationship Management,4,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Database,2017-05-16 15:30:38.047
+41860322,451,2,Development,Feature,Entity Relationship Management,4,,General programming query [JSON to CSV/excel],Database,2017-01-25 19:45:34.367
+43860043,454,14,Deployment,Deployment,Access Control & Security,2,,Deployment Issues [ Local Development],Adoption,2017-05-09 02:24:30.293
+42470252,460,0,Development,Documentation,Dynamic Event Handling,12,,Tutorial [How to do this ],Customization,2017-02-26 15:16:49.417
+46241015,461,15,Development,Documentation,External Web Req Processing,6,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Integration,2017-09-15 13:40:59.500
+41867303,462,3,Development,Feature,Dynamic Form Controller,1,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2017-01-26 05:15:24.670
+46362311,462,2,Development,Feature,External Web Req Processing,6,,General programming query [JSON to CSV/excel],Integration,2017-09-22 10:16:32.240
+51381243,462,4,Development,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2018-07-17 12:20:00.980
+43919778,463,22,Requirement,Documentation,Entity Relationship Management,4,,Recommendation on best practice,Database,2017-05-11 15:29:48.217
+43919778,463,4,Requirement,Feature,Entity Relationship Management,4,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Database,2017-05-11 15:29:48.217
+45723760,464,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2017-08-16 22:08:37.117
+46705213,466,12,Maintenance,Authentication,Access Control & Security,2,,Access control [Application accessibility| Permission],Adoption,2017-10-12 08:48:21.490
+43045887,468,19,Requirement,Feature,Access Control & Security,2,,Flatform features support [Event Monitoring | Dashboard customization | View Management | role management | collaboration | platform security],Adoption,2017-03-27 12:02:49.357
+46295367,468,7,Development,Feature,Data Storage & Migration,0,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Database,2017-09-19 08:19:34.057
+48267239,469,3,Development,Feature,SQL CRUD,3,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2018-01-15 16:40:20.380
+54937175,470,8,Development,Feature,Entity Relationship Management,4,,Data binding,Database,2019-03-01 02:36:26.923
+42959530,472,2,Development,Feature,Dynamic Event Handling,12,,General programming query [JSON to CSV/excel],Customization,2017-03-22 18:07:22.880
+43646460,475,8,Development,Feature,Dynamic Form Controller,1,,Data binding,Customization,2017-04-26 23:59:36.757
+46144718,479,3,Development,Feature,SQL CRUD,3,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2017-09-10 19:28:00.800
+41645111,480,0,Development,Documentation,Cloud and On-Prem Conf,9,,Tutorial [How to do this ],Adoption,2017-01-13 23:38:32.570
+7679733,485,2,Development,Feature,External Web Req Processing,6,,General programming query [JSON to CSV/excel],Integration,2011-10-06 19:54:30.677
+46779664,487,1,Development,Testing/Debugging,UI Adaptation,5,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2017-10-16 21:53:56.223
+8430681,489,15,Development,Documentation,Dynamic Content Binding,8,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Customization,2011-12-08 11:57:06.970
+43079162,492,15,Development,Documentation,UI Adaptation,5,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Customization,2017-03-28 20:18:32.220
+43079162,492,0,Development,Documentation,UI Adaptation,5,,Tutorial [How to do this ],Customization,2017-03-28 20:18:32.220
+54396214,494,8,Development,Feature,SQL CRUD,3,,Data binding,Database,2019-01-28 05:51:37.710
+54666876,494,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2019-02-13 09:38:56.803
+54522800,497,10,Development,Feature,Cloud and On-Prem Conf,9,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Adoption,2019-02-04 19:11:13.317
+46195839,498,4,Planning and Design,Feature,Data Storage & Migration,0,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Database,2017-09-13 11:03:48.153
+46684369,498,15,Requirement,Documentation,Cloud and On-Prem Conf,9,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Adoption,2017-10-11 09:15:40.270
+46684369,498,4,Requirement,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2017-10-11 09:15:40.270
+42010994,499,2,Development,Feature,Entity Relationship Management,4,,General programming query [JSON to CSV/excel],Database,2017-02-02 19:43:24.340
+54991854,500,0,Development,Documentation,Dynamic Event Handling,12,,Tutorial [How to do this ],Customization,2019-03-04 21:31:15.127
+43033640,502,8,Development,Feature,Entity Relationship Management,4,,Data binding,Database,2017-03-26 19:42:26.510
+47705174,504,2,Development,Feature,Dynamic Form Controller,1,,General programming query [JSON to CSV/excel],Customization,2017-12-07 22:53:18.253
+47104623,508,0,Development,Documentation,Dynamic Event Handling,12,,Tutorial [How to do this ],Customization,2017-11-03 21:25:31.893
+11248169,509,19,Maintenance,Feature,Access Control & Security,2,,Flatform features support [Event Monitoring | Dashboard customization | View Management | role management | collaboration | platform security],Adoption,2012-06-28 15:41:56.273
+42145093,513,6,Development,Feature,Entity Relationship Management,4,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Database,2017-02-09 19:17:17.170
+47378071,514,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2017-11-19 14:38:12.887
+47378071,514,1,Development,Testing/Debugging,External Web Req Processing,6,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2017-11-19 14:38:12.887
+47358219,517,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2017-11-17 19:46:01.183
+47060216,518,8,Development,Feature,UI Adaptation,5,,Data binding,Customization,2017-11-01 17:12:39.487
+47060216,518,23,Development,Feature,UI Adaptation,5,,Dynamic Content,Customization,2017-11-01 17:12:39.487
+46158698,522,1,Development,Testing/Debugging,Dynamic Form Controller,1,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2017-09-11 14:56:32.203
+44076048,523,0,Development,Documentation,SQL CRUD,3,,Tutorial [How to do this ],Database,2017-05-19 17:42:27.900
+55299725,528,0,Development,Documentation,Client Server Comm & IO,11,,Tutorial [How to do this ],Adoption,2019-03-22 12:35:14.310
+55299725,528,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2019-03-22 12:35:14.310
+46387200,532,3,Development,Feature,UI Adaptation,5,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2017-09-24 06:19:36.463
+41904477,535,22,Development,Documentation,Access Control & Security,2,,Recommendation on best practice,Adoption,2017-01-27 23:07:26.733
+41904477,535,11,Development,Testing/Debugging,Access Control & Security,2,,Platform issues [platform limitaion | not working as expected],Adoption,2017-01-27 23:07:26.733
+44178272,540,3,Development,Feature,Dynamic Content Display,10,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2017-05-25 10:31:34.640
+47258597,540,6,Development,Feature,Dynamic Event Handling,12,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2017-11-13 06:54:07.477
+42623994,543,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2017-03-06 11:06:00.257
+46277360,543,0,Development,Documentation,Dynamic Form Controller,1,,Tutorial [How to do this ],Customization,2017-09-18 10:44:37.450
+43877814,546,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2017-05-09 18:56:35.903
+46492413,546,1,Development,Testing/Debugging,Dynamic Content Display,10,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2017-09-29 15:40:09.560
+51312073,546,17,Development,Feature,External API & Email Config,7,,Email and DNS configuration [SMTP Authentication| email not working | DNS Integration],Integration,2018-07-12 18:13:08.060
+47886587,549,2,Development,Feature,Client Server Comm & IO,11,,General programming query [JSON to CSV/excel],Adoption,2017-12-19 12:02:40.547
+43201890,550,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2017-04-04 08:21:47.637
+47764200,559,0,Development,Documentation,Client Server Comm & IO,11,,Tutorial [How to do this ],Adoption,2017-12-12 01:51:06.163
+46463283,560,10,Planning and Design,Feature,Dynamic Content Display,10,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Customization,2017-09-28 07:25:09.453
+42277585,563,2,Development,Feature,External Web Req Processing,6,,General programming query [JSON to CSV/excel],Integration,2017-02-16 15:03:09.253
+43454540,564,16,Development,Authorization,Access Control & Security,2,,Session/Authentication [social auth | oaut2 | jtoken],Adoption,2017-04-17 15:34:01.403
+41467659,565,14,Deployment,Deployment,Cloud and On-Prem Conf,9,,Deployment Issues [ Local Development],Adoption,2017-01-04 15:38:29.853
+41467659,565,4,Deployment,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2017-01-04 15:38:29.853
+41800137,566,20,Testing,Testing/Debugging,Client Server Comm & IO,11,,Testing [Test failed| Test coverage| Third party functional testing suite|],Adoption,2017-01-23 06:04:19.790
+47742984,567,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2017-12-10 20:12:12.863
+41994114,575,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2017-02-02 04:17:58.270
+54563348,576,17,Development,Feature,External API & Email Config,7,,Email and DNS configuration [SMTP Authentication| email not working | DNS Integration],Integration,2019-02-06 22:10:52.467
+47388164,579,1,Development,Testing/Debugging,Dynamic Content Binding,8,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2017-11-20 08:55:53.533
+42483638,580,5,Development,Feature,Access Control & Security,2,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Adoption,2017-02-27 10:41:37.070
+47823345,580,18,Planning and Design,Feature,Entity Relationship Management,4,,Data migration [export | import],Database,2017-12-14 22:51:34.680
+47820165,581,10,Planning and Design,Feature,SQL CRUD,3,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Database,2017-12-14 18:45:26.920
+43589592,590,2,Development,Feature,Data Storage & Migration,0,,General programming query [JSON to CSV/excel],Database,2017-04-24 13:33:44.940
+47048165,590,1,Development,Testing/Debugging,Dynamic Content Display,10,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2017-11-01 04:18:31.667
+42677688,594,0,Development,Documentation,Dynamic Event Handling,12,,Tutorial [How to do this ],Customization,2017-03-08 17:15:13.240
+49424033,595,3,Development,Feature,Dynamic Content Display,10,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2018-03-22 08:43:08.597
+3700594,600,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2010-09-13 13:00:36.890
+43667724,607,2,Development,Feature,SQL CRUD,3,,General programming query [JSON to CSV/excel],Database,2017-04-27 20:53:55.853
+55350422,610,5,Development,Feature,External API & Email Config,7,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2019-03-26 05:31:35.803
+8980486,611,1,Development,Testing/Debugging,Data Storage & Migration,0,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2012-01-24 00:18:45.720
+47393775,611,17,Development,Feature,External API & Email Config,7,,Email and DNS configuration [SMTP Authentication| email not working | DNS Integration],Integration,2017-11-20 13:59:16.740
+41980071,613,4,Development,Feature,Client Server Comm & IO,11,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2017-02-01 12:39:31.420
+55242183,616,3,Development,Feature,Dynamic Content Display,10,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2019-03-19 13:27:56.383
+55283256,619,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2019-03-21 14:52:49.620
+54639927,623,9,Development,Feature,Cloud and On-Prem Conf,9,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Adoption,2019-02-11 22:10:53.137
+4439797,626,2,Development,Feature,External API & Email Config,7,,General programming query [JSON to CSV/excel],Integration,2010-12-14 13:46:43.457
+47801654,627,3,Development,Feature,Dynamic Content Binding,8,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2017-12-13 20:31:24.717
+8657698,634,0,Maintenance,Documentation,Dynamic Content Binding,8,,Tutorial [How to do this ],Customization,2011-12-28 15:22:33.853
+43244727,635,19,Development,Testing/Debugging,UI Adaptation,5,,Flatform features support [Event Monitoring | Dashboard customization | View Management | role management | collaboration | platform security],Customization,2017-04-06 02:37:54.680
+54291354,636,7,Development,Feature,Dynamic Form Controller,1,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2019-01-21 13:46:29.260
+54291354,636,1,Development,Testing/Debugging,Dynamic Form Controller,1,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2019-01-21 13:46:29.260
+42946766,639,4,Development,Feature,Data Storage & Migration,0,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Database,2017-03-22 08:56:02.113
+46297894,642,24,Testing,Feature,Dynamic Event Handling,12,,Browser compatibility,Customization,2017-09-19 10:17:49.207
+54604041,658,3,Development,Feature,External API & Email Config,7,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Integration,2019-02-09 07:06:37.363
+47178968,662,0,Development,Documentation,Data Storage & Migration,0,,Tutorial [How to do this ],Database,2017-11-08 11:49:42.300
+43642384,666,10,Planning and Design,Feature,Dynamic Content Binding,8,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Customization,2017-04-26 18:55:38.833
+47107774,666,2,Development,Feature,External Web Req Processing,6,,General programming query [JSON to CSV/excel],Integration,2017-11-04 05:32:27.910
+46882235,669,6,Development,Feature,SQL CRUD,3,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Database,2017-10-23 05:01:26.453
+47296300,669,0,Development,Documentation,SQL CRUD,3,,Tutorial [How to do this ],Database,2017-11-14 22:28:15.670
+47236477,672,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2017-11-11 09:41:39.017
+54477736,685,9,Development,Feature,Dynamic Content Binding,8,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Customization,2019-02-01 10:37:28.613
+43860901,687,7,Development,Feature,Dynamic Event Handling,12,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2017-05-09 04:02:32.823
+47293778,688,11,Development,Testing/Debugging,Dynamic Event Handling,12,,Platform issues [platform limitaion | not working as expected],Customization,2017-11-14 19:27:51.573
+43157336,690,13,,,Data Storage & Migration,0,,wrong tag,Database,2017-04-01 13:14:22.693
+54520497,699,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2019-02-04 16:35:39.837
+46798235,711,6,Development,Feature,SQL CRUD,3,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Database,2017-10-17 19:58:31.487
+41905258,714,4,Development,Feature,Client Server Comm & IO,11,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2017-01-28 00:45:46.103
+46227182,714,9,Development,Feature,Entity Relationship Management,4,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2017-09-14 19:50:00.553
+47515082,726,6,Development,Feature,Dynamic Event Handling,12,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2017-11-27 16:02:02.263
+43611109,731,4,Development,Feature,UI Adaptation,5,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Customization,2017-04-25 12:48:01.260
+54484732,732,2,Development,Feature,Dynamic Form Controller,1,,General programming query [JSON to CSV/excel],Customization,2019-02-01 17:52:31.887
+44025410,738,12,Deployment,Authentication,Access Control & Security,2,,Access control [Application accessibility| Permission],Adoption,2017-05-17 12:51:21.647
+44025410,738,14,Deployment,Deployment,Access Control & Security,2,,Deployment Issues [ Local Development],Adoption,2017-05-17 12:51:21.647
+44080566,738,2,Development,Feature,Dynamic Form Controller,1,,General programming query [JSON to CSV/excel],Customization,2017-05-20 00:09:11.990
+47830107,740,0,Development,Documentation,External API & Email Config,7,,Tutorial [How to do this ],Integration,2017-12-15 10:14:43.900
+47830107,740,3,Development,Feature,External API & Email Config,7,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Integration,2017-12-15 10:14:43.900
+54403490,744,0,Development,Documentation,Dynamic Form Controller,1,,Tutorial [How to do this ],Customization,2019-01-28 13:54:03.973
+55384701,745,1,Development,Testing/Debugging,Dynamic Content Display,10,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2019-03-27 19:01:33.897
+55384701,745,11,Development,Testing/Debugging,Dynamic Content Display,10,,Platform issues [platform limitaion | not working as expected],Customization,2019-03-27 19:01:33.897
+47345382,746,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2017-11-17 07:27:56.267
+9041860,748,4,Planning and Design,Feature,Access Control & Security,2,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2012-01-28 00:26:17.567
+47194231,749,14,Deployment,Deployment,Access Control & Security,2,,Deployment Issues [ Local Development],Adoption,2017-11-09 05:02:18.497
+54270158,752,1,Development,Testing/Debugging,Dynamic Content Display,10,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2019-01-19 18:33:37.143
+54372408,752,3,Development,Feature,Dynamic Event Handling,12,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2019-01-25 20:35:33.157
+47704069,757,4,Planning and Design,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2017-12-07 21:26:45.180
+8123314,763,2,Development,Feature,External Web Req Processing,6,,General programming query [JSON to CSV/excel],Integration,2011-11-14 14:49:45.207
+47817723,772,6,Development,Feature,Dynamic Form Controller,1,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2017-12-14 16:11:05.377
+47817723,772,4,Development,Feature,Dynamic Form Controller,1,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Customization,2017-12-14 16:11:05.377
+46067509,781,2,Development,Feature,Entity Relationship Management,4,,General programming query [JSON to CSV/excel],Database,2017-09-06 05:35:46.647
+46321865,783,7,Development,Feature,Data Storage & Migration,0,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Database,2017-09-20 12:15:51.727
+47194805,783,0,Development,Documentation,Data Storage & Migration,0,,Tutorial [How to do this ],Database,2017-11-09 05:53:57.277
+41733883,786,0,Development,Documentation,Access Control & Security,2,,Tutorial [How to do this ],Adoption,2017-01-19 04:41:11.920
+55542723,788,1,Development,Testing/Debugging,Dynamic Event Handling,12,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2019-04-05 20:11:50.030
+46211514,791,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2017-09-14 05:53:03.197
+47430596,791,1,Development,Testing/Debugging,Data Storage & Migration,0,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2017-11-22 09:06:53.887
+54113212,794,13,,,Data Storage & Migration,0,,wrong tag,Database,2019-01-09 15:16:10.887
+44091275,797,0,Development,Documentation,Data Storage & Migration,0,,Tutorial [How to do this ],Database,2017-05-20 22:08:55.080
+47706182,802,8,Development,Feature,SQL CRUD,3,,Data binding,Database,2017-12-08 00:54:28.110
+43995671,816,0,Development,Documentation,Data Storage & Migration,0,,Tutorial [How to do this ],Database,2017-05-16 08:01:38.487
+54105367,821,3,Development,Feature,Dynamic Content Display,10,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2019-01-09 07:48:40.377
+43462940,834,0,Development,Documentation,UI Adaptation,5,,Tutorial [How to do this ],Customization,2017-04-18 03:09:53.027
+41842171,836,7,Development,Feature,UI Adaptation,5,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2017-01-25 01:55:37.910
+42784576,843,1,Development,Testing/Debugging,Cloud and On-Prem Conf,9,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2017-03-14 11:19:21.500
+42859891,844,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2017-03-17 14:17:24.320
+46978829,845,3,Development,Feature,SQL CRUD,3,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2017-10-27 15:42:52.363
+46978829,845,8,Development,Feature,SQL CRUD,3,,Data binding,Database,2017-10-27 15:42:52.363
+44111993,871,6,Development,Feature,External Web Req Processing,6,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Integration,2017-05-22 11:42:43.353
+42560474,878,17,Development,Feature,External API & Email Config,7,,Email and DNS configuration [SMTP Authentication| email not working | DNS Integration],Integration,2017-03-02 16:15:13.607
+54079576,879,3,Development,Feature,External API & Email Config,7,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Integration,2019-01-07 18:09:28.393
+47254010,880,20,Testing,Testing/Debugging,Client Server Comm & IO,11,,Testing [Test failed| Test coverage| Third party functional testing suite|],Adoption,2017-11-12 21:10:12.640
+49666940,880,0,Development,Documentation,Data Storage & Migration,0,,Tutorial [How to do this ],Database,2018-04-05 07:50:46.690
+43737787,884,1,Development,Testing/Debugging,External API & Email Config,7,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2017-05-02 12:21:49.207
+47617463,884,6,Development,Feature,Dynamic Content Binding,8,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2017-12-03 10:26:41.923
+53970869,892,1,Development,Testing/Debugging,Dynamic Content Display,10,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2018-12-29 15:33:30.787
+41944876,904,1,Development,Testing/Debugging,UI Adaptation,5,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2017-01-30 20:31:50.193
+54714252,904,6,Development,Feature,Dynamic Content Display,10,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2019-02-15 17:25:39.163
+43734104,910,7,Development,Feature,Dynamic Content Display,10,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2017-05-02 09:09:30.270
+43734104,910,11,Development,Testing/Debugging,Dynamic Content Display,10,,Platform issues [platform limitaion | not working as expected],Customization,2017-05-02 09:09:30.270
+43496400,920,6,Planning and Design,Feature,UI Adaptation,5,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2017-04-19 12:55:24.000
+46482177,934,1,Development,Testing/Debugging,External Web Req Processing,6,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2017-09-29 05:12:05.233
+42444198,942,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2017-02-24 16:56:28.253
+43837603,964,16,Development,Authorization,External Web Req Processing,6,,Session/Authentication [social auth | oaut2 | jtoken],Integration,2017-05-07 23:01:49.893
+43861008,972,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2017-05-09 04:15:31.750
+46989444,981,2,Development,Feature,Dynamic Content Binding,8,,General programming query [JSON to CSV/excel],Customization,2017-10-28 11:55:11.610
+46421271,982,18,Planning and Design,Feature,Dynamic Content Binding,8,,Data migration [export | import],Customization,2017-09-26 08:20:46.647
+46733068,989,2,Development,Feature,Dynamic Event Handling,12,,General programming query [JSON to CSV/excel],Customization,2017-10-13 15:15:27.790
+54066925,989,8,Development,Feature,Dynamic Content Display,10,,Data binding,Customization,2019-01-06 23:39:50.993
+32747702,993,18,Maintenance,Feature,Entity Relationship Management,4,,Data migration [export | import],Database,2015-09-23 19:14:17.787
+41652958,1001,7,Development,Feature,Access Control & Security,2,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Adoption,2017-01-14 17:36:53.627
+41813166,1002,10,Planning and Design,Feature,Cloud and On-Prem Conf,9,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Adoption,2017-01-23 18:28:11.053
+42405004,1005,9,Development,Feature,SQL CRUD,3,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2017-02-23 00:39:59.807
+41638663,1017,7,Development,Feature,UI Adaptation,5,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2017-01-13 15:59:35.647
+51383918,1036,3,Development,Feature,Dynamic Form Controller,1,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2018-07-17 14:26:49.977
+42797456,1048,2,Development,Feature,Data Storage & Migration,0,,General programming query [JSON to CSV/excel],Database,2017-03-14 22:06:13.200
+46647682,1054,1,Development,Testing/Debugging,Cloud and On-Prem Conf,9,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2017-10-09 13:29:11.483
+42506938,1059,14,Deployment,Deployment,Access Control & Security,2,,Deployment Issues [ Local Development],Adoption,2017-02-28 11:00:25.827
+41838629,1063,7,Development,Feature,Dynamic Form Controller,1,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2017-01-24 20:42:16.850
+42073424,1064,7,Development,Feature,Dynamic Form Controller,1,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2017-02-06 17:09:55.243
+4804623,1086,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2011-01-26 12:36:10.067
+4598926,1100,0,Development,Documentation,Dynamic Form Controller,1,,Tutorial [How to do this ],Customization,2011-01-04 22:02:19.983
+4598926,1100,8,Development,Feature,Dynamic Form Controller,1,,Data binding,Customization,2011-01-04 22:02:19.983
+55000264,1106,1,Development,Testing/Debugging,Dynamic Content Binding,8,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2019-03-05 10:07:40.063
+46453448,1110,10,Planning and Design,Feature,Entity Relationship Management,4,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Database,2017-09-27 17:01:25.317
+43332875,1112,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2017-04-10 21:04:31.907
+43332875,1112,26,Development,Testing/Debugging,External Web Req Processing,6,,Flatform features [Event Monitoring | Dashboard customization | View Management | role management | collaboration | platform security],Integration,2017-04-10 21:04:31.907
+42739284,1116,1,Development,Testing/Debugging,UI Adaptation,5,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2017-03-11 18:57:33.647
+8040701,1119,3,Development,Feature,Dynamic Content Binding,8,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2011-11-07 18:11:53.253
+41469924,1119,6,Development,Feature,External Web Req Processing,6,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Integration,2017-01-04 17:31:43.163
+41580358,1141,0,Development,Documentation,UI Adaptation,5,,Tutorial [How to do this ],Customization,2017-01-10 23:35:38.420
+3990732,1146,4,Requirement,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2010-10-21 18:35:31.660
+46966587,1164,4,Deployment,Feature,Access Control & Security,2,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2017-10-27 02:24:53.560
+43097927,1174,0,Development,Documentation,SQL CRUD,3,,Tutorial [How to do this ],Database,2017-03-29 15:32:06.357
+7699717,1205,16,Development,Authorization,Access Control & Security,2,,Session/Authentication [social auth | oaut2 | jtoken],Adoption,2011-10-08 20:53:54.670
+46627009,1216,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2017-10-08 02:30:52.320
+46627009,1216,7,Development,Feature,Dynamic Content Display,10,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2017-10-08 02:30:52.320
+4556252,1232,12,Development,Authentication,External Web Req Processing,6,,Access control [Application accessibility| Permission],Integration,2010-12-29 17:25:28.227
+4556252,1232,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2010-12-29 17:25:28.227
+47802967,1237,0,Development,Documentation,Dynamic Form Controller,1,,Tutorial [How to do this ],Customization,2017-12-13 22:20:49.867
+47802967,1237,2,Development,Feature,Dynamic Form Controller,1,,General programming query [JSON to CSV/excel],Customization,2017-12-13 22:20:49.867
+43007141,1238,0,Development,Documentation,SQL CRUD,3,,Tutorial [How to do this ],Database,2017-03-24 18:53:16.043
+55537720,1239,3,Development,Feature,UI Adaptation,5,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2019-04-05 14:32:07.177
+980932,1263,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2009-06-11 13:02:07.977
+980932,1263,1,Development,Testing/Debugging,External Web Req Processing,6,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2009-06-11 13:02:07.977
+43876357,1281,22,Development,Documentation,Dynamic Form Controller,1,,Recommendation on best practice,Customization,2017-05-09 17:32:26.260
+42647054,1283,9,Planning and Design,Feature,Entity Relationship Management,4,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2017-03-07 11:24:06.450
+42672196,1288,0,Development,Documentation,Dynamic Form Controller,1,,Tutorial [How to do this ],Customization,2017-03-08 13:06:31.913
+46250017,1292,0,Development,Documentation,Access Control & Security,2,,Tutorial [How to do this ],Adoption,2017-09-16 04:21:40.187
+42388942,1294,3,Development,Feature,Dynamic Content Binding,8,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2017-02-22 10:43:19.773
+42148587,1305,6,Development,Feature,UI Adaptation,5,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2017-02-09 23:04:16.750
+35609644,1306,3,Development,Feature,Dynamic Content Binding,8,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2016-02-24 18:01:38.910
+46606062,1319,9,Development,Feature,SQL CRUD,3,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2017-10-06 12:44:23.297
+46945536,1323,7,Development,Feature,Dynamic Form Controller,1,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2017-10-26 03:46:06.477
+34510911,1327,2,Development,Feature,Data Storage & Migration,0,,General programming query [JSON to CSV/excel],Database,2015-12-29 12:17:39.567
+42705379,1331,0,Development,Documentation,Entity Relationship Management,4,,Tutorial [How to do this ],Database,2017-03-09 21:05:08.450
+42996482,1339,4,Development,Feature,Client Server Comm & IO,11,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2017-03-24 10:02:49.963
+43924709,1344,10,Planning and Design,Feature,Cloud and On-Prem Conf,9,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Adoption,2017-05-11 20:11:26.263
+43924709,1344,4,Planning and Design,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2017-05-11 20:11:26.263
+43995641,1345,4,Planning and Design,Feature,Data Storage & Migration,0,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Database,2017-05-16 08:00:13.760
+9076585,1357,0,Development,Documentation,Entity Relationship Management,4,,Tutorial [How to do this ],Database,2012-01-31 08:36:40.977
+9076585,1357,5,Development,Feature,Entity Relationship Management,4,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Database,2012-01-31 08:36:40.977
+47737631,1363,0,Development,Documentation,Dynamic Form Controller,1,,Tutorial [How to do this ],Customization,2017-12-10 09:48:22.467
+42254535,1403,0,Development,Documentation,UI Adaptation,5,,Tutorial [How to do this ],Customization,2017-02-15 16:12:15.733
+48089860,1432,1,Development,Testing/Debugging,Dynamic Content Binding,8,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2018-01-04 06:32:12.560
+42053998,1449,15,Development,Documentation,Dynamic Content Binding,8,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Customization,2017-02-05 15:46:26.417
+42053998,1449,0,Development,Documentation,Dynamic Content Binding,8,,Tutorial [How to do this ],Customization,2017-02-05 15:46:26.417
+54346725,1468,0,Development,Documentation,Dynamic Event Handling,12,,Tutorial [How to do this ],Customization,2019-01-24 12:29:59.017
+47336062,1483,7,Development,Feature,Dynamic Form Controller,1,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2017-11-16 17:44:46.800
+47437912,1526,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2017-11-22 15:04:57.727
+54751381,1543,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2019-02-18 16:17:46.910
+42169656,1546,6,Development,Feature,Dynamic Event Handling,12,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2017-02-10 22:27:12.330
+48158928,1556,1,Development,Testing/Debugging,Dynamic Content Display,10,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2018-01-08 22:26:50.370
+44050836,1576,22,Development,Documentation,Data Storage & Migration,0,,Recommendation on best practice,Database,2017-05-18 14:38:47.480
+44050836,1576,0,Development,Documentation,Data Storage & Migration,0,,Tutorial [How to do this ],Database,2017-05-18 14:38:47.480
+46612266,1624,9,Development,Feature,SQL CRUD,3,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2017-10-06 18:57:54.153
+2022549,1627,2,Development,Feature,Dynamic Event Handling,12,,General programming query [JSON to CSV/excel],Customization,2010-01-07 18:15:21.567
+47432384,1636,8,Development,Feature,Entity Relationship Management,4,,Data binding,Database,2017-11-22 10:31:56.797
+53843585,1639,2,Development,Feature,Dynamic Content Display,10,,General programming query [JSON to CSV/excel],Customization,2018-12-19 02:03:13.880
+7048854,1669,0,Development,Documentation,Data Storage & Migration,0,,Tutorial [How to do this ],Database,2011-08-13 05:48:25.313
+7048854,1669,2,Development,Feature,Data Storage & Migration,0,,General programming query [JSON to CSV/excel],Database,2011-08-13 05:48:25.313
+43529651,1708,4,Development,Feature,Data Storage & Migration,0,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Database,2017-04-20 20:48:50.987
+4432075,1728,2,Development,Feature,Dynamic Content Display,10,,General programming query [JSON to CSV/excel],Customization,2010-12-13 18:16:56.180
+16152727,1729,13,,,Dynamic Content Display,10,,wrong tag,Customization,2013-04-22 17:06:59.470
+42024359,1736,23,Development,Feature,Dynamic Event Handling,12,,Dynamic Content,Customization,2017-02-03 12:29:06.680
+42024359,1736,1,Development,Testing/Debugging,Dynamic Event Handling,12,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2017-02-03 12:29:06.680
+34292278,1750,3,Development,Feature,Dynamic Content Binding,8,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2015-12-15 14:52:52.650
+41542609,1750,9,Development,Feature,Dynamic Content Display,10,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Customization,2017-01-09 07:02:39.690
+10557731,1753,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2012-05-11 19:52:08.757
+18440385,1755,10,Development,Feature,Entity Relationship Management,4,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Database,2013-08-26 09:01:36.313
+44375912,1755,9,Development,Feature,SQL CRUD,3,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2017-06-05 19:01:43.547
+47084869,1756,3,Development,Feature,Data Storage & Migration,0,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2017-11-02 21:22:17.780
+34963112,1786,17,Development,Feature,External API & Email Config,7,,Email and DNS configuration [SMTP Authentication| email not working | DNS Integration],Integration,2016-01-23 11:53:17.907
+46171283,1793,17,Development,Feature,External API & Email Config,7,,Email and DNS configuration [SMTP Authentication| email not working | DNS Integration],Integration,2017-09-12 08:16:16.213
+54868399,1796,1,Development,Testing/Debugging,Dynamic Content Display,10,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2019-02-25 14:29:18.480
+51580416,1800,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2018-07-29 12:39:48.357
+46422037,1803,8,Development,Feature,Dynamic Form Controller,1,,Data binding,Customization,2017-09-26 09:00:34.673
+46314967,1805,0,Planning and Design,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2017-09-20 06:41:36.520
+30193726,1806,3,Development,Feature,External Web Req Processing,6,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Integration,2015-05-12 14:22:21.113
+51351353,1807,1,Development,Testing/Debugging,Dynamic Event Handling,12,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2018-07-15 19:06:18.363
+12559029,1813,0,Development,Documentation,Dynamic Event Handling,12,,Tutorial [How to do this ],Customization,2012-09-24 04:55:01.320
+46088465,1813,3,Development,Feature,Dynamic Form Controller,1,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2017-09-07 05:28:12.197
+31052944,1814,9,Development,Feature,SQL CRUD,3,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Database,2015-06-25 14:16:02.937
+54906258,1829,11,Development,Testing/Debugging,UI Adaptation,5,,Platform issues [platform limitaion | not working as expected],Customization,2019-02-27 13:08:21.843
+10923870,1838,1,Development,Testing/Debugging,Client Server Comm & IO,11,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2012-06-06 23:46:37.443
+12507134,1838,11,Development,Testing/Debugging,UI Adaptation,5,,Platform issues [platform limitaion | not working as expected],Customization,2012-09-20 06:30:21.297
+23984516,1844,24,Development,Feature,UI Adaptation,5,,Browser compatibility,Customization,2014-06-01 21:10:35.207
+56717423,1845,3,Development,Feature,Dynamic Event Handling,12,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2019-06-22 16:58:18.950
+51737007,1851,19,Development,Testing/Debugging,UI Adaptation,5,,Flatform features support [Event Monitoring | Dashboard customization | View Management | role management | collaboration | platform security],Customization,2018-08-08 00:13:39.133
+23062636,1861,3,Development,Feature,External Web Req Processing,6,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Integration,2014-04-14 14:23:12.737
+47732539,1868,1,Development,Testing/Debugging,Dynamic Event Handling,12,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2017-12-09 19:53:21.593
+46703013,1889,1,Development,Testing/Debugging,Dynamic Form Controller,1,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2017-10-12 06:39:50.110
+46703013,1889,11,Development,Testing/Debugging,Dynamic Form Controller,1,,Platform issues [platform limitaion | not working as expected],Customization,2017-10-12 06:39:50.110
+43549104,1891,16,Development,Authorization,External Web Req Processing,6,,Session/Authentication [social auth | oaut2 | jtoken],Integration,2017-04-21 17:50:50.550
+42121564,1901,3,Development,Feature,SQL CRUD,3,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Database,2017-02-08 19:05:25.347
+41679881,1905,10,Planning and Design,Feature,Cloud and On-Prem Conf,9,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Adoption,2017-01-16 15:36:58.220
+42530654,1927,6,Development,Feature,Data Storage & Migration,0,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Database,2017-03-01 11:35:08.850
+3906522,1974,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2010-10-11 13:15:17.003
+46067552,2032,2,Development,Feature,Dynamic Event Handling,12,,General programming query [JSON to CSV/excel],Customization,2017-09-06 05:39:16.197
+8005085,2072,2,Development,Feature,External Web Req Processing,6,,General programming query [JSON to CSV/excel],Integration,2011-11-04 05:06:28.453
+55168898,2097,3,Development,Feature,Dynamic Content Display,10,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2019-03-14 17:41:01.647
+326366,2106,4,Requirement,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2008-11-28 18:18:37.777
+42912565,2111,0,Development,Documentation,Dynamic Form Controller,1,,Tutorial [How to do this ],Customization,2017-03-20 19:41:02.007
+42020377,2132,9,Development,Feature,Client Server Comm & IO,11,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Adoption,2017-02-03 09:00:59.700
+46974480,2194,8,Development,Feature,SQL CRUD,3,,Data binding,Database,2017-10-27 11:58:05.067
+41577382,2199,4,Development,Feature,External API & Email Config,7,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Integration,2017-01-10 20:02:44.570
+7839597,2237,4,Development,Feature,Access Control & Security,2,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2011-10-20 17:11:39.213
+54906295,2257,20,Testing,Testing/Debugging,Dynamic Event Handling,12,,Testing [Test failed| Test coverage| Third party functional testing suite|],Customization,2019-02-27 13:10:44.850
+43752772,2279,17,Development,Feature,External API & Email Config,7,,Email and DNS configuration [SMTP Authentication| email not working | DNS Integration],Integration,2017-05-03 06:36:43.927
+55009565,2345,0,Development,Documentation,Dynamic Event Handling,12,,Tutorial [How to do this ],Customization,2019-03-05 18:48:38.400
+45310234,2355,11,Development,Testing/Debugging,Data Storage & Migration,0,,Platform issues [platform limitaion | not working as expected],Database,2017-07-25 17:40:18.677
+8430696,2369,9,Development,Feature,Dynamic Content Binding,8,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Customization,2011-12-08 11:59:06.157
+41438021,2377,12,Development,Authentication,External Web Req Processing,6,,Access control [Application accessibility| Permission],Integration,2017-01-03 06:56:03.207
+41484050,2454,15,Development,Documentation,Entity Relationship Management,4,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Database,2017-01-05 11:35:50.110
+52762374,2471,19,Testing,Feature,Access Control & Security,2,,Flatform features support [Event Monitoring | Dashboard customization | View Management | role management | collaboration | platform security],Adoption,2018-10-11 14:15:55.517
+41883521,2553,23,Development,Feature,Dynamic Content Display,10,,Dynamic Content,Customization,2017-01-26 21:44:43.240
+41883521,2553,11,Development,Testing/Debugging,Dynamic Content Display,10,,Platform issues [platform limitaion | not working as expected],Customization,2017-01-26 21:44:43.240
+51352265,2597,2,Development,Feature,External Web Req Processing,6,,General programming query [JSON to CSV/excel],Integration,2018-07-15 21:12:55.557
+1236439,2655,3,Development,Feature,Dynamic Event Handling,12,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2009-08-06 00:38:58.153
+1236439,2655,23,Development,Feature,Dynamic Event Handling,12,,Dynamic Content,Customization,2009-08-06 00:38:58.153
+43261740,2678,8,Development,Feature,Dynamic Content Display,10,,Data binding,Customization,2017-04-06 17:13:29.550
+46303370,2706,3,Development,Feature,Dynamic Content Display,10,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2017-09-19 14:42:01.463
+41806580,2824,0,Development,Documentation,Dynamic Form Controller,1,,Tutorial [How to do this ],Customization,2017-01-23 12:37:05.070
+41806580,2824,7,Development,Feature,Dynamic Form Controller,1,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2017-01-23 12:37:05.070
+41935351,2905,7,Development,Feature,Dynamic Content Display,10,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2017-01-30 11:57:56.657
+8522884,3176,13,,,Cloud and On-Prem Conf,9,,wrong tag,Adoption,2011-12-15 15:57:16.467
+42900540,3197,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2017-03-20 09:58:14.333
+45834435,3370,0,Development,Documentation,Dynamic Event Handling,12,,Tutorial [How to do this ],Customization,2017-08-23 08:24:53.570
+7304006,3381,5,Development,Feature,Data Storage & Migration,0,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Database,2011-09-05 04:54:28.347
+7304006,3381,1,Development,Testing/Debugging,Data Storage & Migration,0,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Database,2011-09-05 04:54:28.347
+43655581,3514,3,Development,Feature,Dynamic Event Handling,12,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2017-04-27 10:47:31.380
+43480568,3575,8,Development,Feature,Dynamic Content Display,10,,Data binding,Customization,2017-04-18 19:23:28.340
+16930202,3596,0,Development,Documentation,UI Adaptation,5,,Tutorial [How to do this ],Customization,2013-06-05 01:37:19.400
+55366951,3621,15,Development,Documentation,UI Adaptation,5,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Customization,2019-03-26 22:14:35.430
+55366951,3621,3,Development,Feature,UI Adaptation,5,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2019-03-26 22:14:35.430
+1258834,3802,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2009-08-11 07:14:15.627
+1258834,3802,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2009-08-11 07:14:15.627
+45442784,3880,1,Development,Testing/Debugging,External Web Req Processing,6,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2017-08-01 16:11:59.297
+43096166,3888,1,Development,Testing/Debugging,Dynamic Event Handling,12,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2017-03-29 14:17:30.453
+29386945,4045,0,Development,Documentation,External Web Req Processing,6,,Tutorial [How to do this ],Integration,2015-04-01 09:14:16.523
+8067099,4143,0,Development,Documentation,Dynamic Content Binding,8,,Tutorial [How to do this ],Customization,2011-11-09 15:17:00.533
+48119162,4174,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2018-01-05 18:18:05.240
+48119162,4174,1,Development,Testing/Debugging,Dynamic Content Display,10,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2018-01-05 18:18:05.240
+53286917,4174,15,Development,Documentation,Dynamic Content Display,10,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Customization,2018-11-13 17:56:16.440
+53286917,4174,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2018-11-13 17:56:16.440
+17886545,4176,1,Development,Testing/Debugging,Access Control & Security,2,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Adoption,2013-07-26 16:33:43.633
+51171853,4196,7,Development,Feature,UI Adaptation,5,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2018-07-04 10:48:38.490
+48646795,4302,0,Development,Documentation,Entity Relationship Management,4,,Tutorial [How to do this ],Database,2018-02-06 15:45:02.623
+12242168,4303,2,Development,Feature,UI Adaptation,5,,General programming query [JSON to CSV/excel],Customization,2012-09-03 04:55:51.817
+47189669,4323,6,Development,Feature,Access Control & Security,2,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Adoption,2017-11-08 21:03:52.447
+24450595,4330,22,Development,Documentation,External Web Req Processing,6,,Recommendation on best practice,Integration,2014-06-27 11:20:59.543
+44242378,4441,0,Development,Documentation,SQL CRUD,3,,Tutorial [How to do this ],Database,2017-05-29 12:21:25.320
+51050661,4462,6,Development,Feature,Dynamic Event Handling,12,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2018-06-26 20:08:07.353
+50415065,4481,0,Development,Documentation,Dynamic Form Controller,1,,Tutorial [How to do this ],Customization,2018-05-18 15:50:01.440
+45772221,4496,13,,,External API & Email Config,7,,wrong tag,Integration,2017-08-19 13:38:05.083
+20437820,4502,0,Development,Documentation,Dynamic Event Handling,12,,Tutorial [How to do this ],Customization,2013-12-07 05:00:43.237
+52764400,4690,21,Development,Testing/Debugging,External API & Email Config,7,,Input validation,Integration,2018-10-11 16:00:58.077
+48611208,4748,1,Development,Testing/Debugging,Dynamic Event Handling,12,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2018-02-04 17:50:28.037
+48001643,4826,20,Testing,Testing/Debugging,Dynamic Event Handling,12,,Testing [Test failed| Test coverage| Third party functional testing suite|],Customization,2017-12-28 04:39:01.103
+50775621,4863,21,Development,Testing/Debugging,Dynamic Form Controller,1,,Input validation,Customization,2018-06-09 15:04:50.233
+47803698,4950,3,Development,Feature,Dynamic Content Display,10,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2017-12-13 23:32:08.873
+13834716,4988,13,,,External API & Email Config,7,,wrong tag,Integration,2012-12-12 07:18:51.590
+37481142,5031,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2016-05-27 10:30:52.987
+45483554,5048,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2017-08-03 11:58:48.390
+10170940,5120,4,Planning and Design,Feature,External Web Req Processing,6,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Integration,2012-04-16 08:36:18.553
+41002487,5130,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2016-12-06 18:38:23.983
+44565423,5347,0,Development,Documentation,UI Adaptation,5,,Tutorial [How to do this ],Customization,2017-06-15 10:41:40.883
+13991036,5387,4,Development,Feature,UI Adaptation,5,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Customization,2012-12-21 13:25:37.527
+11513122,5412,4,Development,Feature,External Web Req Processing,6,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Integration,2012-07-16 21:53:18.770
+38951765,5689,17,Deployment,Feature,External API & Email Config,7,,Email and DNS configuration [SMTP Authentication| email not working | DNS Integration],Integration,2016-08-15 08:30:08.630
+43535377,5718,0,Development,Documentation,UI Adaptation,5,,Tutorial [How to do this ],Customization,2017-04-21 06:25:34.320
+43725028,5744,7,Development,Feature,SQL CRUD,3,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Database,2017-05-01 19:15:14.340
+24808967,5925,0,Development,Documentation,Dynamic Content Binding,8,,Tutorial [How to do this ],Customization,2014-07-17 16:32:40.553
+49006215,5959,3,Development,Feature,Dynamic Content Display,10,,Application Customization [QR code | Automatic value| Show/Hide Component| Pagination | Automatic Email | Embedding | pagination ],Customization,2018-02-27 10:17:11.007
+12004748,6006,4,Requirement,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2012-08-17 11:16:14.037
+8640940,6008,13,,,Cloud and On-Prem Conf,9,,wrong tag,Adoption,2011-12-27 03:44:13.923
+16200946,6042,1,Development,Testing/Debugging,External Web Req Processing,6,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2013-04-24 19:52:59.913
+54925179,6126,0,Development,Documentation,Dynamic Event Handling,12,,Tutorial [How to do this ],Customization,2019-02-28 11:55:42.730
+30295763,6194,13,,,External API & Email Config,7,,wrong tag,Integration,2015-05-18 05:35:46.510
+48439073,6376,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2018-01-25 09:01:05.387
+22562925,6852,4,Planning and Design,Feature,Dynamic Content Binding,8,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Customization,2014-03-21 15:28:33.713
+50444796,6876,0,Development,Documentation,Dynamic Form Controller,1,,Tutorial [How to do this ],Customization,2018-05-21 08:30:19.423
+44131065,6909,7,Development,Feature,Dynamic Event Handling,12,,UI customization [Design flexibility| UI Overflow| Show/Hide Component| Template],Customization,2017-05-23 09:36:35.917
+49033921,6949,0,Development,Documentation,UI Adaptation,5,,Tutorial [How to do this ],Customization,2018-02-28 16:11:56.893
+16617053,6965,2,Development,Feature,Dynamic Event Handling,12,,General programming query [JSON to CSV/excel],Customization,2013-05-17 20:06:41.687
+39493708,7151,1,Development,Testing/Debugging,Dynamic Form Controller,1,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Customization,2016-09-14 14:58:30.067
+16819801,7562,13,,,External API & Email Config,7,,wrong tag,Integration,2013-05-29 16:55:39.240
+46636237,7679,8,Development,Feature,Cloud and On-Prem Conf,9,,Data binding,Adoption,2017-10-08 21:25:32.060
+56796657,7999,22,Development,Documentation,Dynamic Event Handling,12,,Recommendation on best practice,Customization,2019-06-27 18:13:49.610
+34179466,8061,2,Development,Feature,Dynamic Event Handling,12,,General programming query [JSON to CSV/excel],Customization,2015-12-09 13:00:05.117
+37816734,8237,0,Development,Documentation,External API & Email Config,7,,Tutorial [How to do this ],Integration,2016-06-14 15:50:59.257
+16001298,8245,13,,,External API & Email Config,7,,wrong tag,Integration,2013-04-14 16:22:30.267
+26655087,8252,11,Development,Testing/Debugging,Data Storage & Migration,0,,Platform issues [platform limitaion | not working as expected],Database,2014-10-30 14:02:22.227
+51443599,8627,2,Development,Feature,Dynamic Event Handling,12,,General programming query [JSON to CSV/excel],Customization,2018-07-20 13:27:31.230
+50447594,9211,0,Development,Documentation,Cloud and On-Prem Conf,9,,Tutorial [How to do this ],Adoption,2018-05-21 11:11:10.267
+39488461,9531,8,Development,Feature,Dynamic Form Controller,1,,Data binding,Customization,2016-09-14 10:44:18.447
+39490200,10721,8,Development,Feature,Dynamic Form Controller,1,,Data binding,Customization,2016-09-14 12:14:24.250
+52704291,11776,23,Development,Feature,Dynamic Content Binding,8,,Dynamic Content,Customization,2018-10-08 14:17:50.687
+18335697,11811,13,,,External API & Email Config,7,,wrong tag,Integration,2013-08-20 12:58:05.637
+9959449,12389,15,Development,Documentation,External Web Req Processing,6,,Documentation [incorrent| incomplete| ambiguous| Ambiguous sample code integration],Integration,2012-03-31 20:32:08.067
+9959449,12389,5,Development,Feature,External Web Req Processing,6,,API Integration [Updating Integrated API versions | API unexpected response | Connecting external services | Ambiguous sample code integration],Integration,2012-03-31 20:32:08.067
+44233707,12439,0,Development,Documentation,Dynamic Event Handling,12,,Tutorial [How to do this ],Customization,2017-05-29 01:56:50.087
+17126323,12468,2,Development,Feature,External Web Req Processing,6,,General programming query [JSON to CSV/excel],Integration,2013-06-15 17:51:08.853
+9168994,14718,9,Development,Feature,Client Server Comm & IO,11,,Database CRUD [Complex Database query| DB query for M:M data model| DB query unexpected| ],Adoption,2012-02-06 23:39:42.200
+34341952,15964,10,Development,Feature,Entity Relationship Management,4,,Database [connection| sclability| model design| Export/import data| Database design| DB scalability| DB Admin Authorization|,Database,2015-12-17 18:41:31.780
+39232599,19132,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2016-08-30 16:23:13.493
+37196287,19535,0,Development,Documentation,Dynamic Content Display,10,,Tutorial [How to do this ],Customization,2016-05-12 19:54:38.100
+23234021,20112,13,,,External API & Email Config,7,,wrong tag,Integration,2014-04-23 03:02:56.910
+3016015,20409,4,Requirement,Feature,Cloud and On-Prem Conf,9,,Queries on Platform [plaform comparision | platform features | Community support | Reusability Scalability performance],Adoption,2010-06-10 15:46:56.037
+12412269,21172,1,Development,Testing/Debugging,External Web Req Processing,6,,Debugging Error/crash [why this does not work| Application Code change not executed| Broken UI| Functionalities not working| boken UI| Embedding | ],Integration,2012-09-13 18:09:57.273
+40159662,21873,8,Development,Feature,Entity Relationship Management,4,,Data binding,Database,2016-10-20 16:22:10.287
+45955538,36486,6,Development,Feature,Dynamic Event Handling,12,,General query [HTTP error header message explanation | Feature usage query | Learning curve],Customization,2017-08-30 08:28:58.500
+9391137,39930,2,Development,Feature,External Web Req Processing,6,,General programming query [JSON to CSV/excel],Integration,2012-02-22 08:08:29.763
