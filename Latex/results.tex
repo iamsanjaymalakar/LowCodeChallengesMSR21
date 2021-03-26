@@ -1,18 +1,13 @@
 \section{Empirical Study} \label{sec:results}
-We answer three research questions by analyzing Low Code Software Development (LCSD)  discussions in SO.
-\begin{enumerate}[leftmargin=30pt, label=\bf{RQ\arabic{*}.}]
-  \item What types of topics are discussed about LCSD? 
-  \item How are the topics distributed across low-code SDLC? 
-  \item What LCSD topics are the most difficult to answer?
-  %\item How do the topics vary across the different low code software providers?
-  %\item What types of questions are asked about low code software in Stack Overflow?
-  %\item How do the popularity and difficulty of the topics vary in Stack Overflow?
-  %\item How do the topics evolve over time in Stack Overflow?
-\end{enumerate}
-The first research question aims to understand the types of topics discussed in
-SO about LCSD (\sec\ref{sec:rq-topic-type}). The second research
-question aims to understand how each topic is discussed across different stages of low-code SDLC (software development life cycle) (\sec\ref{sec:rq-topic-challenges}). The third research question offers insight into the challenges of LCSD 
-developers across the observed LCSD topics based on the measurement of difficulty of getting answers (\sec\ref{sec:rq-topic-difficulty}).
+We answer three research questions by analyzing LCSD discussions in SO.
+% \begin{enumerate}[leftmargin=30pt, label=\bf{RQ\arabic{*}.}]
+%   \item What types of topics are discussed about LCSD? 
+%   \item How are the topics distributed across low-code SDLC? 
+%   \item What LCSD topics are the most difficult to answer?
+% \end{enumerate}
+The RQ1 aims to understand the types of topics discussed in
+SO about LCSD (\sec\ref{sec:rq-topic-type}). The RQ2 aims to understand how each topic is discussed across different stages of low-code SDLC (software development life cycle) (\sec\ref{sec:rq-topic-challenges}). The RQ3 offers insight into the challenges of LCSD 
+developers across the observed LCSD topics based on the difficulty of getting answers (\sec\ref{sec:rq-topic-difficulty}).
 
 
 \subsection{What types of topics are discussed about LCSD? (RQ1)}\label{sec:rq-topic-type}
@@ -40,9 +35,9 @@ developers across the observed LCSD topics based on the measurement of difficult
 % prevalent issues and improve the quality of LCSD technology.
 
 \subsubsection{Approach}
-We get 13 low-code related topics from our LDA topic modeling as discussed in \sec\ref{sec:methodology}. We use card sorting \cite{fincher2005making} to label these topics  following previous
-works \cite{bagherzadeh2019going, ahmed2018concurrency, yang2016security, rosen2016mobile, abdellatif2020challenges}.
-In open card sorting, there is no predefined list of labels. To label a topics, 
+We get 13 low-code related topics from our LDA topic modeling, as discussed in \sec\ref{sec:methodology}. We use card sorting~\cite{fincher2005making} to label these topics  following previous
+works~\cite{bagherzadeh2019going, ahmed2018concurrency, yang2016security, rosen2016mobile, abdellatif2020challenges}.
+In open card sorting, there is no predefined list of labels. To label a topic, 
 we used the top 30 words for the topic and a random sample of at least 20 questions that are assigned to the topic. Four of the authors participated in the labelling process.
 Each author assigns a label for each topic and discusses with each other until
 there is an agreement. The authors reached an agreement after around 15
@@ -52,7 +47,7 @@ example, UI Adaptation and Dynamic Form Controller are related to UI design, and
 so we group them into a group named UI. In the same way, Dynamic Event Handling,
 Dynamic Content Display, and Dynamic Content Binding topics are related to the
 middleware feature of low-code development platforms, and so we put these three
-topics into Middleware sub-category. We repeat these process until we can not
+topics into Middleware sub-category. We repeat this process until we can not
 find any more higher-level group. For example, the above mentioned two
 categories UI and Middleware belong to the application customization task where
 the developers customize the UI or the business logic of the application
@@ -110,23 +105,22 @@ covers the highest percentage of questions
 and number of topics (40\% questions and five topics), followed by \textit{ Platform Adoption} (22\%
 questions and three topics), \textit{Database Management} (33\% questions and three topics), and \textit{Integration}
 (17\% questions and two topics). \fig\ref{fig:distribution_of_questions_topic_bar_chart} sorts the 13 topics based on number of questions. The
-\textit{'External Web Req Processing topic'} covers the most questions regarding queries and discussions related
-to the integration of third party services/APIs (10.4\%). The \textit{'Dynamic Event Handling'} has the second most questions (9.3\%) related to the implementation of business logic.
+\textit{``External Web Req Processing topic''} covers the most questions regarding queries and discussions related
+to the integration of third party services/APIs (10.4\%). The \textit{``Dynamic Event Handling''} has the second most questions (9.3\%) related to the implementation of business logic.
 
 In Figure \ref{fig:taxonomy_TM}, we group the 13 topics into four high-level categories. The categories are sorted according to the number of
 questions belonging to them. For example, the topmost category \textit{Customization} has the most number of questions under them. Each category may consist of some
-sub-categories. For example, \textit{Customization} Category contains two sub-categories:
+sub-categories. For example, \textit{Customization} category contains two sub-categories:
 \begin{inparaenum}[(1)]
-\item \textit{Middleware},
+\item \textit{Middleware}, and
 \item \textit{UI}
 \end{inparaenum}. Each sub-category contains one or more topics. For example,
 Middleware sub-category consists of three topics: \begin{inparaenum}[(1)] \item
-Dynamic Event Handling, \item Dynamic Content Display, \item and Dynamic content
-Binding \end{inparaenum}. Each sub-category and topic are organized according to
+Dynamic Event Handling, \item Dynamic Content Display, and \item Dynamic Content Binding\end{inparaenum}. Each sub-category and topic are organized according to
 their distribution of questions. For example, under Customization (40\%)
 category, \textit{Middleware} (25\%) is followed by \textit{UI} (15\%) sub-category. In the same
-way, 'Dynamic Event Handling' (9.3\%) topic is followed by 'Dynamic Content
-Display' (8.7\%) topic based on their question distribution.
+way, ``Dynamic Event Handling'' (9.3\%) topic is followed by ``Dynamic Content
+Display'' (8.7\%) topic based on their question distribution.
 
 
 
@@ -144,41 +138,43 @@ Display' (8.7\%) topic based on their question distribution.
 % \item Data parsing topics contain discussions about the processing of multimedia and textual contents in IoT devices.  
 % \end{inparaenum} %We discuss the topics by the three sub-categories below.
 
-\nd\bf{$\bullet$ Customization} is the largest category with 40\% of the SO posts and five topics. It contains discussions about business
+\nd\bf{$\bullet$ Customization} is the largest category, with 40\% of the SO questions and five topics. It contains discussions about business
 logic implementation, input and form validation, linking the UI to the backend
 storage via dynamic content binding, a drop-down menu with predefined value,
 formatting date and time, drop-down widgets, etc. It contains two sub-categories
-of topics: \begin{inparaenum}[(1)] \item \textit{UI} sub-category contains discussions
-on drag-and-drop UI and form design and also customization of UI components,
-\item \textit{Middleware} sub-category covers discussions on the middlewares that
-provide support for system integration, the connection between UI and storage layer, etc.
+of topics: 
+\begin{inparaenum}[(1)] 
+    \item \textit{Middleware} sub-category covers discussions on the middlewares that
+provide support for system integration, the connection between UI and storage layer, etc., and 
+    \item \textit{UI} sub-category contains discussions
+on drag-and-drop UI and form design and also customization of UI components.
 %\anindya{How scalability and authentication are related to middleware is not clear. A bit of explanation would help.}
 % \item Data parsing topics contain discussions about the processing of multimedia and textual contents in IoT devices.  
 \end{inparaenum}
 
-\bf{{Middleware (25\% questions)}} sub-category contains three topics:
-\begin{inparaenum}[(1)] \item \it{Dynamic Event Handling (9.26\%)} has
-discussions about handling user interaction events, accessing input
-value after form submission (\dq{43096166}) rendering chart in the
-canvas(\dq{56154215}).
-%, parent component handling child component
-%events(\dq{57982913}).
-\item \it{Dynamic Content Display (8.70\%)} is about dynamically displaying
-items on the page (\dq{53648077}), displaying content based on previous action,
-creating and accessing gallery from multiple data sources (\dq{51764889}).
-\item \it{Dynamic Content Binding (6.95\%)} is about updating views when some
-other values get changed (\dq{59932262}) and building process based on some values
-on the form (\dq{61282976}).
-\end{inparaenum} 
-
-\bf{{UI (15\% questions)}} sub-category contains two topics:
-\begin{inparaenum}[(1)] \item \it{Dynamic Form Controller (7.56\%)} contains
-discussions related to the design of forms with predefined values and the implementation of multi-select and customized drop-down values (\dq{44013975}), adding event-listeners to text
-widget (\dq{46038130}), etc.
-\item \it{UI Adaptation (7.26\%)} is about designing and customizing the user
-interface using the graphical interface,
-resizing console panel (\dq{34515865}).
-\end{inparaenum} 
+\begin{inparaenum}[(i)]
+    \item \bf{{Middleware (25\% questions)}} sub-category contains three topics:
+    \begin{inparaenum}[(1)] \item \it{Dynamic Event Handling (9.26\%)} has
+    discussions about handling user interaction events, accessing input
+    value after form submission (\dq{43096166}), and rendering chart in the
+    canvas(\dq{56154215}).
+    %, parent component handling child component
+    %events(\dq{57982913}).
+    \item \it{Dynamic Content Display (8.70\%)} is about dynamically displaying
+    items on the page (\dq{53648077}), displaying content based on previous action, and creating and accessing gallery from multiple data sources (\dq{51764889}).
+    \item \it{Dynamic Content Binding (6.95\%)} is about updating views when some
+    other values get changed (\dq{59932262}) and building process based on some values
+    on the form (\dq{61282976}).
+    \end{inparaenum} 
+    
+    \item \bf{{UI (15\% questions)}} sub-category contains two topics:
+    \begin{inparaenum}[(1)] \item \it{Dynamic Form Controller (7.56\%)} contains
+    discussions related to the design of forms with predefined values and the implementation of multi-select and customized drop-down values (\dq{44013975}), adding event-listeners to text
+    widget (\dq{46038130}), etc.
+    \item \it{UI Adaptation (7.26\%)} is about designing and customizing the user
+    interface, resizing screen, etc.(\dq{34515865}).
+    \end{inparaenum} 
+\end{inparaenum}
 
 % For example, in \dq{41438021} a practitioner is about a cross origin issue and he was getting this issue because during the Ajax request the practitioners did not add the "crossOrigin: true" in the HTTP post header.
 
@@ -186,18 +182,20 @@ resizing console panel (\dq{34515865}).
 
 
 
-\nd\bf{$\bullet$ Platform  Adoption} is the second-largest category with 22\% of questions. It contains discussions about generic query on LCSD platform features
-and support, role management, SDLC management tools (e.g., scrum, agile), cloud setup and configuration, deployment issues, etc. The category has three topics. One topic \it{Client Server Comm \& IO (7.09\%)} contains discussions on client-server architecture (\dq{54900592}), debugging server-side
-scripts(\dq{55283256}), and general debugging queries on error messages or
+\nd\bf{$\bullet$ Platform  Adoption} is the second-largest category, with 22\% of the questions. It contains discussions about generic query on LCSD platform features
+and support, role management, SDLC management tools (e.g., scrum, agile), cloud setup and configuration, deployment issues, etc. The category has three topics. The topic, \it{Client Server Comm \& IO (7.09\%)}, contains discussions on client-server architecture (\dq{54900592}), debugging server-side
+scripts (\dq{55283256}), and general debugging queries on error messages or
 unexpected output (\dq{50936643}). The other two topics are grouped under Configuration sub-category. 
 
-\bf{{Configuration (15\% questions)}} contains discussions on LCSD platform configuration on access control and cloud-based setup. There are two topics:
-\begin{inparaenum}[(1)] \item \it{Access Control \& Security (8.59\%)} is about
-discussion on role-based access control to tasks (\dq{51431318}), Configuration of existing
-authentication mechanism (Azure Active Directory configuration (\dq{61734680}).
-\item \it{Cloud and On-Prem Conf (6.31\%)} contains discussion on the proper configuration parameters and 
-guidelines to connect to the cloud/on-prem databases (\dq{55207558} \dq{45740520}).
-\end{inparaenum} 
+\begin{inparaenum}[(i)]
+    \item \bf{{Configuration (15\% questions)}} contains discussions on LCSD platform configuration on access control and cloud-based setup. There are two topics:
+    \begin{inparaenum}[(1)] \item \it{Access Control \& Security (8.59\%)} is about
+    discussion on role-based access control to tasks (\dq{51431318}), configuration of existing
+    authentication mechanism (Azure Active Directory configuration) (\dq{61734680}).
+    \item \it{Cloud and On-Prem Conf (6.31\%)} contains discussion on the proper configuration parameters and 
+    guidelines to connect to the cloud/on-prem databases (\dq{55207558} and \dq{45740520}).
+    \end{inparaenum} 
+\end{inparaenum}
 
 
 
@@ -211,17 +209,18 @@ guidelines to connect to the cloud/on-prem databases (\dq{55207558} \dq{45740520
 % \item \ib{Dynamic Content Binding (6.95\%)} is about  (\dq{}),  (\dq{}).
 % \end{inparaenum} 
 
-\nd\bf{$\bullet$ Database} is tied to the second biggest category with 22\% of questions. It contains discussions about database connection, SQL CRUD
+\nd\bf{$\bullet$ Database} is tied to the second biggest category, with 22\% of the questions. It contains discussions about database connection, SQL CRUD
 operations, import/export existing data, etc. There are three topics:
-\begin{inparaenum}[(1)] \item \it{SQL CRUD (8.03\%)} contains discussions on SQL
-query (\dq{49051500}, \dq{59852901}) and table joining(\dq{37707699}).
-\item \it{Data Storage \& Migration (6.98\%)} discusses the upload
-and storing of files on the server (\dq{49666940}), moving files from one platform
-to another(\dq{55726281}), conversion of large CSV files to excel sheet
-(\dq{50977178}), etc.
-\item \it{Entity Relationship Management (6.51\%)} contains discussion on
-relational database design  (\dq{51881224}) and platform support/limitations
-on relational database (\dq{58935331}).
+\begin{inparaenum}[(1)] 
+    \item \it{SQL CRUD (8.03\%)} contains discussions on SQL
+        query (\dq{49051500}, \dq{59852901}) and table joining (\dq{37707699}), 
+    \item \it{Data Storage \& Migration (6.98\%)} discusses the upload
+        and storing of files on the server (\dq{49666940}), moving files from one platform
+        to another (\dq{55726281}), conversion of large CSV files to excel sheet
+        (\dq{50977178}), etc., 
+    \item \it{Entity Relationship Management (6.51\%)} contains discussion on
+        relational database design  (\dq{51881224}) and platform support/limitations
+        on relational database (\dq{58935331}).
 \end{inparaenum} 
 
 % For example in \dq{34341952} a developer asking about an error while inserting new row (e.g., "Cannot insert duplicate key row in object with unique index . The duplicate key value. The statement has been terminated").
@@ -231,15 +230,15 @@ on relational database (\dq{58935331}).
 % This category contains technical discussions related to backend storage design, platform support and limitation of database performance and scalability. Database is the second biggest category of topics and it contains around ?\% of documents of our topic modeling dataset. It consists of three topics namely Storage \& Data migration, Database query, and Platform support on database design. LCDPs usually connect with both SQL or NoSQL based databases. Database scalability, query optimizations, availability related complexity is abstracted from the users and in this category the discussions are more focused on how to do some CRUD operations, import/export existing data. Here a practitioner who is new to Database and low-code platform asking questions regarding how to create a duplicate value. He was getting an error because the field has unique attribute. This is a general concept in database but many of the low-code practitioners do not have strong programmatic background. "Cannot insert duplicate key row in object with unique index . The duplicate key value. The statement has been terminated" (\dq{34341952}). In this questions also asking very common database query. "SOQL - Querying for a list of users the current user is following" (\dq{9168994}).
 
 
-\nd\bf{$\bullet$ Integration} around 17\% of documents and two topics. It contains discussions about email server configuration, integration
+\nd\bf{$\bullet$ Integration} is the smallest category, with 17\% of the questions and two topics. It contains discussions about email server configuration, integration
 of external services, OAuth, fetching and parsing data, etc. It contains two
 topics: \begin{inparaenum}[(1)] \item \it{External Web Req Processing (10.37\%)}
-contains posts regarding API integration, parsing and bugging the response of
-REST API (\dq{21314917}), and OAuth (\dq{56873258}), some general query on
-networking protocols such as HTTP, REST API (\dq{48628269}), etc.
+contains posts regarding API integration, parsing and debugging the responses of
+REST APIs (\dq{21314917}), and OAuth (\dq{56873258}), some general query on
+networking protocols such as HTTP, REST API (\dq{48628269}), etc.,
 \item \it{External API \& Email Config (6.39\%)} is about configuration, sending
 or forwarding emails (\dq{34085695}), configuration error (\dq{31501424}), how
-to use generic programming language to send email (\dq{36341976}), creating
+to use a generic programming language to send an email (\dq{36341976}), creating
 managing calendar events (\dq{46738962}), etc.
 \end{inparaenum} 
 
@@ -265,14 +264,13 @@ managing calendar events (\dq{46738962}), etc.
 
 
 \begin{tcolorbox}[flushleft upper,boxrule=1pt,arc=0pt,left=0pt,right=0pt,top=0pt,bottom=0pt,colback=white,after=\ignorespacesafterend\par\noindent]
-\noindent\textbf{Summary of RQ1. What topics are discussed by low code
-developers in SO?} We found 13 topics in our SO dataset relevant to low-code
+\noindent\textbf{Summary of RQ1.} We found 13 topics in our SO dataset relevant to low-code
 software development.  The topics belong to four categories: Customization,
 Platform Adoption, Database, and Integration. Customization category has the
 most number of questions, followed by Platform Adoption, Database, and
-Integration. Out of the topics, `External Web Request Processing' topic under
-the Integration category constitutes the highest number of questions (10.4\%)
-followed by the topic `Dynamic Event Handling' (9.3\%) under the Customization
+Integration. Out of the topics, ``External Web Request Processing'' topic under
+the Integration category constitutes the highest number of questions (10.4\%),
+followed by the topic ``Dynamic Event Handling'' (9.3\%) under the Customization
 category.
 \end{tcolorbox} 
 
@@ -282,7 +280,7 @@ category.
 
 
 
-\subsection{How do the topics distribute across low-code SDLC? (RQ2)}\label{sec:rq-topic-challenges}
+\subsection{How are the topics distributed across the  LCSD life cycle phases? (RQ2)}\label{sec:rq-topic-challenges}
 
 
 % \subsubsection{Motivation} 
@@ -300,9 +298,9 @@ Agile software development methodology~\cite{beck2001manifesto} has six SDLC pha
 \item Implementation, 
 \item Testing,
 \item Deployment, and
-\item Maintenance 
-\end{inparaenum}. We manually label 900 randomly sampled questions as one of these six development phases. For each question, we read its description and the provided answers (with a non-negative score) to fully understand the exact development phase. For example, a new practitioner is tasked with finding the right LCSD platform during the planning stage of his/her 
-LCSD application. The practitioner queries ``Are there any serious pitfalls to Outsystems Agile Platform?" (\dq{3016015}). We thus assign the SDLC phase for it as `Requirement Analysis \& Planning'. Another question asks ``Google  App  Maker  app  not  working  after  deploy" (\dq{42506938}). We label the SDLC phase as 'Deployment'. 
+\item Maintenance\end{inparaenum}.
+% We manually label 900 randomly sampled questions as one of these six development phases. For each question, we read its description and the provided answers (with a non-negative score) to fully understand the exact development phase. 
+Our final dataset $B$ contained 3,597 questions. We needed at least 347 questions to produce a statistically significant sample, with a 95\% confidence level and 5 confidence interval. As noted in Fig. \ref{fig:distribution_of_SDLC_pie_chart}, some phases have a low number of questions. Thus we wanted to find more examples of those phrases in our sample. As such, we analyzed 900 randomly sampled questions. The labelling of each question to determine the precise SDLC phases was conducted by several co-authors in joint discussion sessions spanning over 80 person-hours. Eventually, we manually labelled 916 questions, out of which 16 were considered invalid because they did not have any specific LCSD discussions. For example, a new practitioner is tasked with finding the right LCSD platform during the planning stage of his/her LCSD application. The practitioner queries, ``Are there any serious pitfalls to Outsystems Agile Platform?'' (\dq{3016015}). We thus assign the SDLC phase for it as ``Requirement Analysis \& Planning''. Another question asks, ``Google  App  Maker  app  not  working  after  deploy'' (\dq{42506938}). We label the SDLC phase as ``Deployment''. 
 
 
 \begin{figure}[t]
@@ -372,7 +370,7 @@ LCSD application. The practitioner queries ``Are there any serious pitfalls to O
 
 
 %\gias{Please review first paragraph}
-\subsubsection{Results} Figure \ref{fig:distribution_of_SDLC_pie_chart} shows that Implementation phase is found in 85\% of the 900 questions we studied, followed by Maintenance (2.6\%) and Deployment (2.4\%) phases. This is not surprising, given that SO is a technical Q\&A site and developers use the forum to find solutions to their technical problems. Table \ref{tab:topicSDLC} shows the distribution of our 13 LCSD topics over six low-code SDLC phase base on our analysis of 900 SO questions. Besides the dominance of development phase related questions across all topics, we find the presence of other phases (e.g., testing, development) in customization and platform adoption topics. 
+\subsubsection{Results} Figure \ref{fig:distribution_of_SDLC_pie_chart} shows that the Implementation phase is found in 87\% of the 900 questions we studied, followed by Design (4.5\%), Maintenance (2.6\%) and Deployment (2.4\%) phases. This is not surprising, given that SO is a technical Q\&A site and developers use the forum to find solutions to their technical problems. Table \ref{tab:topicSDLC} shows the distribution of our 13 LCSD topics over six low-code SDLC phase based on our analysis of 900 SO questions. Besides the dominance of development phase related questions across all topics, we find the presence of other phases (e.g., testing, deployment) in customization and platform adoption topics. 
 
 % \textbf{ Irrelevant Tag(16, 1.6\%) } While labelling questions from our dataset $B$ we found that there were some questions has been tagged with a low-code platform tags but it does not contain any issues related to LCSD, rather these are generic software technology related queries or queries about some low-code application configuration (specially Zoho email service). For example, In \dq{18335697} a pratitioner is trying to send email using Zoho email service (e.g., "Send email through Zoho SMTP" "Zoho Mail" with tag "zoho").  Another example is in (\dq{54113212} a practitioner is asking about "How to reference resource file in java maven project running in docker container". It does not contain discussion related to LCSD.
 
@@ -409,7 +407,7 @@ LCSD application. The practitioner queries ``Are there any serious pitfalls to O
 \bf{Requirement Analysis \& Planning (14, 1.5\%).} 
 Requirement analysis is the process of developing software according to the expectation of the users. 
 % The business requirement is dependent on the goals and visions of the business.
-During planning, the feasibility, timeline, dependability, potential complexity/risks are analyzed and planned by paying attention to the operational aspects. The LCSD platforms usually provide requirement management tools that allow developers to collect data, customize checklists, import user stories into sprint plans. At this phase, the developers usually face enquiries about cost, learning curve, LCDP's support for faster application development, deployment, and maintenance features to choose the right platform for their business need. For example, In this popular question, a new practitioner is asking for some drawbacks on some potential pitfalls for a particular LCDP, e.g., "Are there any serious pitfalls to Outsystems Agile Platform?" (\dq{3016015}). A developer from that platform provider suggests using the platform to build an application and decide for himself as it is hard to define what someone might consider a pitfall. 
+During planning, the feasibility, timeline, dependability, potential complexity/risks are analyzed and planned by paying attention to the operational aspects. The LCSD platforms usually provide requirement management tools that allow developers to collect data, customize checklists, import user stories into sprint plans. At this phase, the developers usually face enquiries about cost, learning curve, LCSD platform's support for faster application development, deployment, and maintenance features to choose the right platform for their business need. For example, in this popular question, a new practitioner is asking for some drawbacks on some potential pitfalls for a particular LCSD platform, e.g., "Are there any serious pitfalls to Outsystems Agile Platform?" (\dq{3016015}). A developer from that platform provider suggests using the platform to build an application and decide for himself as it is hard to define what someone might consider a pitfall. 
 
 % The discussion in this questions was closed  because SO community guideline mandates its discussion should focus on specific questions rather than general broad discussion. Practitioners also query like this "Looking for education materials about App Maker" (\dq{55304547}) and query about learning curve.
 
@@ -429,15 +427,15 @@ During planning, the feasibility, timeline, dependability, potential complexity/
 
 
 
-\bf{Application Design (40, 4.5\%).} In this phase, the design specification is made based on the requirements of the application. All the key stakeholders review and approve this considering application architecture, modularity, extensibility. The LCSD developers face challenges regarding data storage design, drag and drop UI design, using on-prem data-sources with the LCSD platform (e.g., "Can AppMaker be used with SQL Server" (\dq{55220499})), migrating existing data to LCSD platform (\dq{46421271}), designing a responsive web page (e.g., "Incorporating responsive design in App Maker" (\dq{52744026})).
+\bf{Application Design (40, 4.5\%).} In this phase, the design specification is made based on the requirements of the application. All the key stakeholders review and approve this considering application architecture, modularity, and extensibility. The LCSD developers face challenges regarding data storage design, drag and drop UI design, using on-prem data-sources with the LCSD platform (e.g., ``Can AppMaker be used with SQL Server'' (\dq{55220499})), migrating existing data to LCSD platform (\dq{46421271}), designing a responsive web page (e.g., ``Incorporating responsive design in App Maker'' (\dq{52744026})).
 
 % Developers asking how he can reuse one menu page across the whole application. "How to create header menu for multiple page in powerapss?" \footnote{https://stackoverflow.com/questions/56213578/how-to-create-header-menu-for-multiple-page-in-powerapss}
 % Data migration tools to migrate exisiting unstructure data to a SQL based datastorage. "Convert Sharepoint List into structured database" \footnote{https://stackoverflow.com/questions/61379667/convert-sharepoint-list-into-structured-database}
 % How to create a basic dropdown list with  some reference item.
 % "Power apps drop down" \footnote{https://stackoverflow.com/questions/41806580/power-apps-drop-down}
 
-\bf{Implementation (785, 87.3\%).} At this phase, actual application development begins. LCSD developers face a wide range of challenges when they try to customize UI, implement business logic, integrate third-party modules, debug and test the implemented functionalities, read the incomplete or incorrect documentation, etc. Developers ask application customization and UI customization questions like "How do I change timezone in AppMaker Environment?" (\dq{47731051}), drop-down menu customization (e.g., "powerapps: populate drop down list from another datasource" (\dq{40159662})). There are many queries (17\%) regarding external services or API integration. Many of these questions are relevant to a task-based tutorial on how to use a REST API and process its response (e.g., "How to upload files and attachments to the subject record using REST API?" (\dq{61143493})). The root cause of many of these issues is incomplete or incorrect documentation. For example, In \dq{46241015}, a practitioner is querying about the integration of Zoho CRM and says that s/he does not understand the sample code. In \dq{34510911}, a practitioner asks for sample code to convert a web page to a PDF. Clearly, the documentation is not sufficient for a smooth transition for entry-level practitioners.
-%"Html2PdfConverter Sample Conversion". Here a new low code practitioner is asking about sample code to convert a web page to a PDF.
+\bf{Implementation (785, 87.3\%).} At this phase, actual application development begins. LCSD developers face a wide range of challenges when trying to customize the UI, implement business logic, integrate third-party modules, debug and test the implemented functionalities, read the incomplete or incorrect documentation, etc. Developers ask application customization and UI customization questions like ``How do I change timezone in AppMaker Environment?'' (\dq{47731051}), drop-down menu customization (e.g., ``powerapps: populate drop down list from another datasource'' (\dq{40159662})). There are many queries (17\%) regarding external services or API integration. Many of these questions are relevant to a task-based tutorial on how to use a REST API and process its response (e.g., ``How to upload files and attachments to the subject record using REST API?'' (\dq{61143493})). The root cause of many of these issues is incomplete or incorrect documentation. For example, in \dq{46241015}, a practitioner is querying about the integration of Zoho CRM and says that s/he does not understand the sample code. In \dq{34510911}, a practitioner asks for a sample code to convert a web page to a PDF. Clearly, the documentation is not sufficient for a smooth transition for entry-level practitioners.
+%"Html2PdfConverter Sample Conversion". Here a new low-code practitioner is asking about sample code to convert a web page to a PDF. 
 
 
 % asking general questions on how to LCDP to other services. "Sending Images from PowerApps to Microsoft Flow" \footnote{https://stackoverflow.com/questions/41577382/sending-images-from-powerapps-to-microsoft-flow}
@@ -463,7 +461,7 @@ During planning, the feasibility, timeline, dependability, potential complexity/
 
 
 \bf{Testing (14, 1.5\%).} % https://bitbar.com/blog/low-code-development-what-why-and-how-does-it-impact-testing/
-The testing process of LCSD varies from traditional software. It usually takes less testing LCSD platforms because the platform management team test and monitors the modules provided. Unit testing carries less importance than tradition development because the components are already unit tested, and developers usually integrate those using drag-and-drop fashion. Many platforms provide custom unit testing features for the application logic code added by the developers. The platform providers recommend to run a security audit to check if there is a potential data exposure. Most of the issues faced in this phase are related to browser compatibility, lack of proper documentation to run automated tests, test coverage, issues using the third party functional testing tools like Selenium (\dq{61210424}), etc. Practitioners make general queries about running tests on low code platforms (\dq{46669690}), errors while running test (\dq{47254010}).
+The testing process of LCSD varies from traditional software. It usually takes less testing in LCSD platforms because the platform management team test and monitors the modules provided. Unit testing carries less importance than tradition development because the components are already unit tested, and developers usually integrate those using drag-and-drop fashion. Many platforms provide custom unit testing features for the application logic code added by the developers. The platform providers recommend running a security audit to check if there is a potential data exposure. Most of the issues faced in this phase are related to browser compatibility, lack of proper documentation to run automated tests, test coverage, issues using the third party functional testing tools like Selenium (\dq{61210424}), etc. Practitioners make general queries about running tests on low-code platforms (\dq{46669690}) and errors while running test (\dq{47254010}).
 
 % It contains challenges related to debugging i.e, input output mismatch, error, unexpected output, and on testing i.e., how to run tests, test coverage, issues using third party functional testing tools like Selenium (\dq{61210424}) etc. Most of these challenger arise during application development and testing phase while practitioners want to implement custom business logic. For example, In \dq{12412269} a practitioner is asking about an error message while making a XML request in PHP. 
 
@@ -477,7 +475,7 @@ The testing process of LCSD varies from traditional software. It usually takes l
 
 % reliability security is compromised
 
-\bf{Deployment (22, 2.5\%).} LCSD platforms aim to make \textit{deployment and maintenance} phase smooth. Many platforms provide Application Life-Cycle Management tools to develop, debug, deploy, and maintain the staging and production server application. However, LCSD developers still face challenges regarding deployment configuration issues (\dq{46369742}), version control, DNS configuration, performance issues, accessibility issues (i.e., sharing public URL of the application (\dq{44136328}, \dq{53884162})), DNS configuration etc. For example, in this discussion, a developer was having trouble in accessing the app after deployment (e.g., "Google App Maker app not working after deploy" (\dq{42506938})). In the accepted answer, a community member provides a detailed description to achieve that and points out the lack of \textit{Official documentation} for such a crucial task. There are a few queries about deploying application with custom URL i.e. domain name (E.g., "How to make friendly custom URL for deployed app" (\dq{47194231})). In this case, it was difficult because the platform did not have native support. 
+\bf{Deployment (22, 2.5\%).} LCSD platforms aim to make the \textit{deployment and maintenance} phase smooth. Many platforms provide Application Life-Cycle Management tools to develop, debug, deploy, and maintain the staging and production server. However, LCSD developers still face challenges regarding deployment configuration issues (\dq{46369742}), version control, DNS configuration, performance issues, accessibility issues (i.e., sharing public URL of the application (\dq{44136328}, \dq{53884162})), DNS configuration, etc. For example, in this discussion, a developer was having trouble accessing the app after deployment (e.g., ``Google App Maker app not working after deploy'' (\dq{42506938})). In the accepted answer, a community member provides a detailed description to achieve that and points out the lack of \textit{Official Documentation} for such a crucial task. There are a few queries about deploying application with custom URL, i.e., the domain name (e.g., ``How to make friendly custom URL for deployed app'' (\dq{47194231})). In this case, it was difficult because the platform did not have native support. 
 % "If a user is not an Admin, he can't access application". \footnote{https://stackoverflow.com/questions/46495006/if-a-user-is-not-an-admin-he-cant-access-application}
 
 % It contains technical challenges about deployment issues (\dq{46369742}), sharing public URL of the application(\dq{44136328}), custom domain name or URL, etc. Sometimes practitioners make a general query on deployment (e.g., \emt{"How can I share my app made by Google App Maker with others?"}\dq{44025410} ).
@@ -497,14 +495,14 @@ The testing process of LCSD varies from traditional software. It usually takes l
 
 
 
-\bf{Maintenance (24, 2.6\%).} At this stage, the application is released and needs maintenance support. The users sometimes find bugs that were not caught before and sometimes want new features that may spawn a new software development life cycle in agile or incremental development methodology. In this phase, developers face challenges regarding bugs in a low-code platform and difficulties in using different application maintenance features provided by the platform such as event monitoring, collaboration, application design reusability, etc. Different LCSD platforms provide features on developers' role management, dashboard, and event monitoring. For example, in this question a practitioner queries about the feasibility of role-based access control in an LCSD platform: "PowerApps : Implementing Role Based Security In Your PowerApps App" (\dq{52762374}). LCSD developers also find it difficult to determine/update versions of LCSD platforms (see \dq{45209796}). 
+\bf{Maintenance (24, 2.6\%).} At this stage, the application is released and needs maintenance support. The users sometimes find bugs that were not caught before and sometimes want new features that may spawn a new software development life cycle in agile or incremental development methodology. In this phase, developers face challenges regarding bugs in a low-code platform and difficulties in using different application maintenance features provided by the platform, such as event monitoring, collaboration, application design reusability, etc. Different LCSD platforms provide features on developers' role management, dashboard, and event monitoring. For example, in this question, a practitioner queries about the feasibility of role-based access control in an LCSD platform: ``PowerApps : Implementing Role Based Security In Your PowerApps App'' (\dq{52762374}). LCSD developers also find it difficult to determine/update versions of LCSD platforms (\dq{45209796}). 
 %An LCSD developer asks "Do I have the latest version of an OutSystems forge component?" (\dq{45209796}). 
 
 
 % \paragraph{Root cause of difficult challenges practitioners face}
 % 
 % % This change in design creates some challenges for developers during development phase because sometimes the customization requires some features that is not supported by the platform or requires in depth understanding of the platform.
-% The most difficult challenges the practitioners face are because of the higher level of abstraction and platform limitations. Using low code platforms business applications can be developed by the people who will use the system. It enables business people to rapidly create necessary business application that adds value to the organization. Low-code development platform provides a high level abstraction of UI design by drag-and-drop interface, managing data storage, data integrity, load balancing, authentication and security. This abstraction enables practitioners to develop fully functional business applications with very little written coding. This works as a two way sword because 
+% The most difficult challenges the practitioners face are because of the higher level of abstraction and platform limitations. Using low-code platforms business applications can be developed by the people who will use the system. It enables business people to rapidly create necessary business application that adds value to the organization. Low-code development platform provides a high level abstraction of UI design by drag-and-drop interface, managing data storage, data integrity, load balancing, authentication and security. This abstraction enables practitioners to develop fully functional business applications with very little written coding. This works as a two way sword because 
 % if a practitioner needs to implement a complex customization, he sometimes does not know how to approach the problem because, he is not aware of the complexity of auto generated codes, database connection and CRUD operation etc. It requires in depth knowledge about the platform and if the documentation or sample examples API usage does not cover it, the practitioners keep on asking for tutorials on how to do achieve this. This is a difficult problem even for experienced software engineers, considerably more the less experienced low-code practitioners.
 % 
 % Another big issue is Platform limitations. Usually at the beginning of the project the developer teams chooses a low-code platform that satisfies their business requirement. But in Agile and incremental development methodology, the business the features are implemented incrementally and sometimes the business requirements changes and wants additional functionalities.  Platform limitation questions raises because the business requirement of the application changes and if the platform does not provide a easy way to implement that feature  and then the developers find the situation most challenging.
@@ -521,8 +519,8 @@ The testing process of LCSD varies from traditional software. It usually takes l
 
 
 \begin{tcolorbox}[flushleft upper,boxrule=1pt,arc=0pt,left=0pt,right=0pt,top=0pt,bottom=0pt,colback=white,after=\ignorespacesafterend\par\noindent]
-\noindent\textbf{Summary of RQ2. How do the topics distribute across low-code SDLC?} We 
-randomly sampled 900 questions from our dataset and manually examined the type of SDLC phase for which the developer asked the question. We found an overwhelming majority of (85\%) implementation phase related questions in SO. Non-coding questions are generally discouraged in SO. We find few questions related to other phases (e.g., requirement analysis, deployment, etc.). We also find that LCSD developers find testing is challenging for LCSD application due to the graphical nature of the SDKs, which can be hard to debug.
+\noindent\textbf{Summary of RQ2.} We 
+randomly sampled 900 questions from our dataset and manually examined the SDLC phase of the questions. We found an overwhelming majority of (85\%) implementation phase-related questions in SO. Non-coding questions are generally discouraged in SO, so we found very few questions related to other phases (e.g., requirement analysis, deployment, etc.). We also find that LCSD developers find testing to be challenging for LCSD application due to the graphical nature of the SDKs, which can be hard to debug.
 \end{tcolorbox}
 
 
@@ -556,7 +554,7 @@ randomly sampled 900 questions from our dataset and manually examined the type o
     SQL CRUD	&	Database	& 359 &	1.04 &	0.45 & 0.92 &	22.1\%  &	60.2\% &	7.6 \\
    Access Control \& Security	&	Adoption &	301 &	0.97 &	0.49 & 0.93 &	26.2\% & 69.9\% &	12.6 \\
     \midrule
-    \multicolumn{2}{l}{\textbf{Summary}}  & \textbf{572} & \textbf{1.1} & \textbf{0.5} & \textbf{0.9} & 26\% &\textbf{67\%} & 12.3 \\
+    \multicolumn{2}{l}{\textbf{Average}}  & \textbf{572} & \textbf{1.1} & \textbf{0.5} & \textbf{0.9} & 26\% &\textbf{67\%} & 12.3 \\
     \bottomrule
     \end{tabular}%
    % }
@@ -594,38 +592,38 @@ randomly sampled 900 questions from our dataset and manually examined the type o
 % it can be userful to learn what topics are more difficult to get the right answer to and whether the popularity of the 
 % topics can suffer due to the observed difficulty.
 
-\subsubsection{Approach} For each topic, we compute the difficulty of getting answers under a topic using three metrics: \begin{inparaenum}[(1)] \item Percentage of questions without an accepted answer,
-\item Average median time needed to get an accepted answer,
-\item Percentage of questions without any answer at all.
+\subsubsection{Approach} For each topic, we compute the difficulty of getting answers under a topic using three metrics: \begin{inparaenum}[(1)] 
+\item Percentage of questions without any answer at all,
+\item Percentage of questions without an accepted answer,
+\item Average median time needed to get an accepted answer.
 \end{inparaenum} In the same way we use the following four popularity metrics: \begin{inparaenum}[(1)]
-\item Average number of views, \item Average number of favorites, and \item Average
-score, and \item Average number of answers \end{inparaenum}. Then we aim to determine the correlation between difficulty and
-popularity of the topics. The first two difficulty metrics and first three popularity metrics are used in several previous studies~\cite{bagherzadeh2019going, abdellatif2020challenges, ahmed2018concurrency}. We use Kendall Tau correlation measure~\cite{Kendall-TauMetric-Biometrica1938} to
+\item Average number of views, \item Average number of favourites, \item Average
+score, and \item Average number of answers\end{inparaenum}. Then we aim to determine the correlation between the difficulty and
+popularity of the topics. The first two difficulty metrics and the first three popularity metrics are used in several previous studies~\cite{bagherzadeh2019going, abdellatif2020challenges, ahmed2018concurrency}. We use the Kendall Tau correlation measure~\cite{Kendall-TauMetric-Biometrica1938} to
 find the correlation between topic popularity and topic difficulty. SO does not
-provide the data across a time-series for all metrics such as view count, score etc. As such, our analysis offers as of time insight. 
+provide the data across a time-series for all metrics such as view count, score, etc. As such, our analysis offers as of time insight. 
 %Hence, our analysis on topic difficulty and popularity can only provide
 %insights on current low-code related discussions.
 
 \subsubsection{Results}
 Table \ref{tab:topicPopularityDifficulty} shows the topic difficulty using the three metrics, as noted above. 
-These two metrics allow us to find the difficulty to get a solution that works ~\cite{bagherzadeh2019going} and \cite{abdellatif2020challenges}. 
-The \textit{Dynamic Event Handling} under Customization has the highest average view count and the highest percentage of questions (76\%) without an accepted answer. \textit{Dynamic Content Binding} from the same category also has the highest median hours to get an accepted answer. Many questions in this topic relate to business logic customization in a LCSD platform, which is not familiar to other developers. For example, \dq{51443599} asks "How to add more data an array of objects in a lightning component?". This question has been asked around two years ago, viewed around 11K times and still active. It has three answers, but none of them is marked as accepted. On the other hand, \textit{Dynamic Form Controller} under Customization is the least difficult topic concerning the percentage of the question without an accepted answer (57\%) and median time (4.2 hours) to get a solution. It is because questions related to form design and validation are common and have good \textit{community support}. Same is also true for the topic \textit{SQL CRUD} which has around 7.6 median hours for accepted answers.
+These metrics allow us to understand the difficulty of getting a working solution~\cite{bagherzadeh2019going, abdellatif2020challenges}.
+The \textit{Dynamic Event Handling} under Customization has the highest average view count and the highest percentage of questions (76\%) without an accepted answer. \textit{Dynamic Content Binding} from the same category also has the highest median hours to get an accepted answer. Many questions in this topic relate to business logic customization in an LCSD platform, which is not familiar to other developers. For example, \dq{51443599} asks, ``How to add more data an array of objects in a lightning component?''. This question has been asked around two years ago, viewed around 11K times and still active. It has three answers, but none of them is marked as accepted. Whereas, \textit{Dynamic Form Controller} under Customization is the least difficult topic concerning the percentage of the questions without an accepted answer (57\%) and median time (4.2 hours) to get a solution. It is because questions related to form design and validation have good \textit{community support}. The same is also true for \textit{SQL CRUD}, which has around 7.6 median hours for accepted answers.
 
 The \textit{External Web Req Processing} under
- \textit{Integration} has the highest percentage of questions and highest average
-favorite count. The \textit{Cloud and On-Prem Conf}
-under  \textit{Platform} adoption has the highest average score. The
+ \textit{Integration} has the highest percentage of questions and the highest average
+favourite count. The \textit{Cloud and On-Prem Conf}
+under  \textit{Platform} adoption have the highest average score. The
 discussions are about setting and maintaining cloud configuration and migrating
-on-prem data to the server in this topic. For example, \dq{44727285} a practitioner is asking
-about  "Migrate Salesforce data from one org to another", and in \dq{3016015}, a
-new practitioner is making a general low-code platform related to query "Are
-there any serious pitfalls to Outsystems Agile Platform?". This question has
-very high score because lots of new low-code platform developers have faced this
+on-prem data to the server in this topic. For example, in \dq{44727285}, a practitioner is
+asks ``Migrate Salesforce data from one org to another'', and in \dq{3016015}, a
+new practitioner is making a general low-code platform related query ``Are
+there any serious pitfalls to Outsystems Agile Platform?''. This question has
+a very high score because lots of new low-code platform developers have faced this
 issue. \textit{Access Control \& Security} under Platform Adoption is the least
-popular topic in terms on average view count. Here the questions are about
-deploying the application, its security and access control. For example, in
-\dq{17886545} a practitioner says "Can't Connect to SalesForce in C\#". He also
-explains there is a security token error and in the documentation its not
+popular topic in terms of average view count. In this topic, the questions are about deploying the application, its security and access control. For example, in
+\dq{17886545}, a practitioner says, ``Can't Connect to SalesForce in C\#''. He also
+explains there is a security token error, and in the documentation, it is not
 mentioned how to configure that. Many of these questions are not general, and
 so it has a low average view-count.
 
@@ -636,16 +634,16 @@ correlation measures using three difficulty and popularity metrics from Table
 statistically significant correlation between the popularity and difficulty
 metrics since for eight out of nine correlation values are \textgreater~0.05. Therefore, we cannot say that the least popular topics are the most difficult
 ones and vice versa. For example, Access Control \& Security is one of
-the least popular topics, but considered among the most difficult topics (Table
+the least popular topics but considered among the most difficult topics (Table
 \ref{tab:topicPopularityDifficulty}). However, this observation does not hold for
-topic Dynamic Event Handling, which is the most popular and among
+Dynamic Event Handling, which is the most popular and among
 the most difficult topics.  
 
 % (Sir) However, the correlation measures are not at 95 percent confidence labal (statistically significant)
 % This finding can provide insights to low-code platform developers and educators to reduce the difficulty labels of the topics.
 
 \begin{tcolorbox}[flushleft upper,boxrule=1pt,arc=0pt,left=0pt,right=0pt,top=0pt,bottom=0pt,colback=white,after=\ignorespacesafterend\par\noindent]
-\noindent\textbf{Summary of RQ3. What LCSD topics are the most difficult to answer?} We compute seven popularity and difficulty metrics for each topic using metrics such as  
-view count, percentage of questions without an accepted answer etc. We find that questions related to topic ``Dynamic Event Handling'' from the 
+\noindent\textbf{Summary of RQ3.} We compute seven popularity and difficulty metrics for each topic using metrics such as  
+view count, percentage of questions without an accepted answer, etc. We find that questions related to the topic ``Dynamic Event Handling'' from the 
 customization category are the most difficult (to get an accepted answer) but also the most popular (average view count). Overall, we do not see any significant correlation (positive/negative) between topic difficulty and popularity metrics. 
 \end{tcolorbox}

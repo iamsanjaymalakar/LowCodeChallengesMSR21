@@ -89,14 +89,14 @@
 
 % *** CITATION PACKAGES ***
 %
-\ifCLASSOPTIONcompsoc
-  % IEEE Computer Society needs nocompress option
-  % requires cite.sty v4.0 or later (November 2003)
-  \usepackage[nocompress]{cite}
-\else
-  % normal IEEE
-  \usepackage{cite}
-\fi
+% \ifCLASSOPTIONcompsoc
+%   % IEEE Computer Society needs nocompress option
+%   % requires cite.sty v4.0 or later (November 2003)
+%   \usepackage[nocompress]{cite}
+% \else
+%   % normal IEEE
+%   \usepackage{cite}
+% \fi
 % cite.sty was written by Donald Arseneau
 % V1.6 and later of IEEEtran pre-defines the format of the cite.sty package
 % \cite{} output to follow that of the IEEE. Loading the cite package will
@@ -379,7 +379,7 @@
 \usepackage{ccicons}
 
 
-\usepackage{cite}
+% \usepackage{cite}
 \usepackage{url}
 \usepackage{fancybox}
 \usepackage{multirow}
@@ -499,6 +499,8 @@ text=black}}
 \newcommand{\rev}[1]{\textcolor{blue}{#1}}
 
 \newcommand{\gias}[1]{\textcolor{red}{{[Gias: #1]}}}
+\newcommand{\sanjay}[1]{\textcolor{red}{{[Sanjay: #1]}}}
+\newcommand{\tameem}[1]{\textcolor{red}{{[Tameem: #1]}}}
 \newcommand{\dq}[1]{\href{https://stackoverflow.com/questions/#1/}{$Q_{#1}$}}
 \newcommand{\da}[1]{\href{https://stackoverflow.com/answers/#1/}{$A_{#1}$}}
 
@@ -513,7 +515,7 @@ text=black}}
 \usepackage{styles/pgf-pie}
 %\usepackage{pgf-pie}
 \usetikzlibrary{positioning,shadows}
-\usepackage{balance}
+%\usepackage{balance}
 
 \newif\ifpienumberinlegend
 \pgfkeys{/number in legend/.code=
@@ -543,6 +545,7 @@ text=black}}
 \usepackage{bchart}
 
 \usepackage{xcolor}
+\usepackage[numbers]{natbib}
 \definecolor{ao(english)}{rgb}{0.0, 0.5, 0.0}
 
 \newcommand{\fourbars}[4]{
@@ -568,7 +571,7 @@ text=black}}
 % {\if#5>0 \color{red}\rule{#5pt}{6pt}#5\fi}
 % }
 \def\test#1{%
-\ifnum0#1>0
+    \ifnum #1 > 0
       #1
     \fi
 }
@@ -584,9 +587,9 @@ text=black}}
 {{\color{black}\rule{#1pt}{4pt}} \test{#1}}
 {{\color{ao(english)}\rule{#2pt}{4pt}} \test{#2}}
 {{\color{magenta}\rule{#3pt}{4pt}} \test{#3}}
-{{\color{red}\rule{#5pt}{4pt}} \test{#4}}
-{{\color{cyan}\rule{#4pt}{4pt}} \test{#5}}
-{{\color{orange}\rule{#4pt}{4pt}} \test{#6}}
+{{\color{red}\rule{#4pt}{4pt}} \test{#4}}
+{{\color{cyan}\rule{#5pt}{4pt}} \test{#5}}
+{{\color{orange}\rule{#6pt}{4pt}} \test{#6}}
 }
 
 % \newcommand{\fivebars}[5]{
@@ -596,10 +599,19 @@ text=black}}
 % {#4\color{cyan}\rule{#4pt}{6pt}}
 % {#5\color{red}\rule{#5pt}{6pt}}
 % }
+\usepackage{balance}
 
 \begin{document}
-\title{An Empirical Study of Developer Discussions on Low Code Software Development Challenges}
-\author{}% <-this % stops a
+\title{An Empirical Study of Developer Discussions on Low-Code Software Development Challenges}
+\author{\IEEEauthorblockN{Md Abdullah Al Alamin\IEEEauthorrefmark{1}, Sanjay Malakar\IEEEauthorrefmark{2}, Gias Uddin\IEEEauthorrefmark{1}, Sadia Afroz\IEEEauthorrefmark{2}, Tameem Bin Haider\IEEEauthorrefmark{2}, Anindya Iqbal\IEEEauthorrefmark{2}}
+\IEEEauthorblockA{\IEEEauthorrefmark{1}University of Calgary, \IEEEauthorrefmark{2}Bangladesh University of Engineering and Technology
+%\\
+%\{mdabdullahal.alamin, gias.uddin\}@ucalgary.ca, \{iamsanjaymalakar, haidertameem\}@gmail.com,\\
+%1505030.sa@ugrad.cse.buet.ac.bd,
+%anindya\_iqbal@yahoo.com}}
+% 
+}}
+% \author{}% <-this % stops a
 % space
 
 
@@ -607,13 +619,13 @@ text=black}}
 \IEEEtitleabstractindextext{%
 \begin{abstract}
 
-Low code software development  (LCSD) is an emerging paradigm that combines
+Low-code software development (LCSD) is an emerging paradigm that combines
 minimal source code with interactive graphical interfaces to promote rapid
 application development. LCSD aims to democratize application development to
 software practitioners with diverse backgrounds. Given that LCSD is relatively a new
 paradigm, it is vital to learn about the challenges developers face during
 their adoption of LCSD platforms. The online developer forum, Stack Overflow
-(SO) is popular among software developers to ask for solutions to their technical
+(SO), is popular among software developers to ask for solutions to their technical
 problems. We observe a growing body of posts in SO with discussions of LCSD
 platforms. In this paper, we present an empirical study of around 5K SO posts
 (questions + accepted answers) that contain discussions of nine popular LCSD
@@ -621,19 +633,19 @@ platforms. We apply topic modeling on the posts to determine the types of topics
 discussed. We find 13 topics related to LCSD in SO. The 13 topics are grouped
 into four categories: Customization, Platform Adoption, Database Management, and
 Third-Party Integration. More than 40\% of the questions are about
-customization, i.e., developers frequently face challenges with customising user interfaces or services offered by LCSD platforms. The
-topic `Dynamic Event Handling' under the `Customization' category is the most
+customization, i.e., developers frequently face challenges with customizing user interfaces or services offered by LCSD platforms. The
+topic ``Dynamic Event Handling'' under the ``Customization'' category is the most
 popular (in terms of average view counts per question of the topic) as well as
-the most difficult. It means that developers frequently search for customization solutions such as how to attach dynamic events to a form in low code UI, yet most (75.9\%) of their
+the most difficult. It means that developers frequently search for customization solutions such as how to attach dynamic events to a form in low-code UI, yet most (75.9\%) of their
 questions remain without an accepted answer. We manually label 900  questions
-from the posts to determine the prevalence of the topics' challenges across LCSD phases. We find that most of the questions are related to the development phase, and low-code developers also face challenges with the automated testing. 
+from the posts to determine the prevalence of the topics' challenges across LCSD phases. We find that most of the questions are related to the development phase, and low-code developers also face challenges with automated testing. 
 Our study findings offer implications for low-code practitioners,
 platform providers, educators, and researchers.
 \end{abstract}
 
 
 \begin{IEEEkeywords}
-Low Code, Issue, Challenge, Empirical Study.
+Low-Code, Issue, Challenge, Empirical Study.
 \end{IEEEkeywords}}
 
 %
@@ -678,17 +690,22 @@ Low Code, Issue, Challenge, Empirical Study.
 
 
 
-
-
-
+\balance
+\bibliographystyle{plainnat}
+% \bibliographystyle{abbrv}
+%\balance
 %\bibliographystyle{ACM-Reference-Format}
 %\bibliography{sample-bibliography}
-\begin{small}
-\bibliographystyle{abbrv}
+%\begin{small}
+
+% \bibliographystyle{plain}
 %\bibliography{bibtex}
 % \bibliography{consolidated}
-\bibliography{consolidated_lc}
-\end{small}
+{\small 
+\bibliography{consolidated_new}
+}
+%\end{small}
 
 
 \end{document}
+%\endinput

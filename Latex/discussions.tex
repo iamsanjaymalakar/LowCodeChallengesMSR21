@@ -1,5 +1,5 @@
 \section{Discussions} \label{sec:discussion}
-In this Section, we discuss the evolution of low-code and LCSD related discussions with respect to different topics. Then we discuss the implications of our findings. 
+In this section, we discuss the evolution of low-code and LCSD related discussions with respect to different topics. Then we discuss the implications of our findings. 
 
 
 % \subsubsection{Results}
@@ -13,23 +13,28 @@ In this Section, we discuss the evolution of low-code and LCSD related discussio
 % April 15, 2020: You will no longer be able to create new App Maker apps. You will still be able to edit and deploy existing apps.
 % January 19, 2021: Existing App Maker apps will stop working and you will no longer have access to them.
 
-We measure the growth of our four high-level topic categories over time to better understand the evolution of LCSD evolution. We measure the absolute growth, i.e., the total number of questions in a category over time. Figure ~\ref{fig:trend_questions_per_topic_category} shows that all four of our topic categories are increasing monotonically. This trend suggests an increasing number of queries in each category, which also means there is an increasing trend of development activities under each category. This trend also indicates that the LCSD approach is gaining more community attention over time, especially after 2016. 
+We measure the growth of our four high-level topic categories over time to better understand the evolution of LCSD. We measure the absolute growth, i.e., the total number of questions in a category over time. Figure ~\ref{fig:trend_questions_per_topic_category} shows that all four of our topic categories are increasing monotonically.
+% This trend suggests an increasing number of queries in each category, which also means an increasing trend of development activities under each category. 
+This trend indicates that the LCSD approach is gaining more community attention over time, especially after 2016. 
 \begin{figure}[t]
 \centering
-\includegraphics[scale=0.38]{res/Question_per_higher_category.png}
+\includegraphics[scale=0.38]{res/Question_per_higher_category_3M.pdf}
+% \includegraphics[scale=0.38]{res/Question_per_higher_category.eps}
+% \includegraphics[scale=0.38]{res/Question_per_higher_category.png}
 % \includegraphics[width=0.35 * linewidth]{res/methology_overview.jpg}
-\caption{Low-code topic category evolution over time}
+\caption{Low-code topic category evolution over time.}
 \label{fig:trend_questions_per_topic_category}
 \end{figure}
 
 \begin{figure}[t]
 \centering
-\includegraphics[scale=0.38]{res/question_per_platform.png}
+% \includegraphics[scale=0.38]{res/question_per_platform.png}
+\includegraphics[scale=0.38]{res/question_per_platform_3M.pdf}
 \caption{Low-code Platforms evolution over time}
 \label{fig:trend_questions_per_platform}
 \end{figure}
 
-We further analyze two sudden swings in the number of questions. First, we find an increase of questions in every category after mid-2016, especially for questions about \textit{Customization} category. Google released App Maker\cite{googleappmaker} for public use in 2016, which introduced many discussions on LCSD customization. \fig\ref{fig:trend_questions_per_platform}  confirms it and shows that there is a spike in questions about Google App Maker during that time. The second case is that at the beginning of 2020, there is a sharp decline in SO discussions. In Jan 2020, Google announced that they would no longer release new features for Google App Maker and discontinue it by 2021. It created unrest among the developer community as they were trying to verify this information (\dq{59947680}), and asking questions regarding future possibilities and alternatives (e.g., \dq{59985750}). \fig\ref{fig:trend_questions_per_platform} also shows the sudden drop in the number of questions asked about Google App Maker starting Jan 2020.
+We further analyze two sudden swings in the number of questions. First, we find an increase of questions in every category after mid-2016, especially for questions about the \textit{Customization} category. Google released App Maker~\cite{googleappmaker} for public use in 2016, which introduced many discussions on LCSD customization. \fig\ref{fig:trend_questions_per_platform}  confirms it and shows a spike in questions about Google App Maker during that time. The second case is that at the beginning of 2020, there is a sharp decline in SO discussions. In Jan 2020, Google announced that they would no longer release new features for Google App Maker and discontinue it by 2021~\cite{google-disc}. It created unrest among the developer community as they were trying to verify this information (\dq{59947680}) and to explore alternatives (e.g., \dq{59985750}). \fig\ref{fig:trend_questions_per_platform} also shows the sudden drop in the number of questions asked about Google App Maker starting Jan 2020.
 %Apart from this incident, there has been an overall increasing trend of  LCSD related discussions in SO despite the effect of Global pandemic during the early 2020.
 
 %We also make our dataset publicly available \cite{}. \anindya{It would be an anonymous Git repo link in the footnote, not a citation.} 
@@ -44,11 +49,13 @@ We further analyze two sudden swings in the number of questions. First, we find 
 % % follow Section 4 of \cite{Bagherzadeh-BigdataTopic-FSE2019}
 
 \begin{figure}[t]
-\centering
-\includegraphics[scale=0.65]{res/bubble_diff_pop_per_category.png}
-% \includegraphics[width=0.35 * linewidth]{res/methology_overview.jpg}
-\caption{Low-code topic categories popularity vs difficulty}
+%\centering
+\vspace{-5mm}
+\includegraphics[scale=0.36]{res/popularity_difficulty_bubble_chart.pdf}
+\vspace{-15mm}
+\caption{Low-code topic categories popularity vs. difficulty}
 \label{fig:bubble_diff_pop_per_category}
+%\vspace{-5mm}
 \end{figure}
 
 
@@ -60,48 +67,48 @@ We further analyze two sudden swings in the number of questions. First, we find 
 % \label{fig:bubble_diff_pop_per_challenge}
 % \end{figure}
 
-This study can help the low-code community to focus on the pressing issues on
+This study can help the low-code community to focus on the pressing issues on the
 LCSD paradigm. We discuss the implications of our study findings by stakeholders below.
 
 \bf{\ul{ LCSD Platform Providers.}} 
 In order to better understand the issues of LCSD, we present a bubble chart \ref{fig:bubble_diff_pop_per_category} that presents the positions
-of low-code categories in terms of popularity vs difficulty. In this study, we
+of low-code categories in terms of popularity vs. difficulty. In this study, we
 use the average number of view-count and percentage of questions without accepted
-answers as a proxy for the topic category popularity and difficulty
-respectively \cite{abdellatif2020challenges}. The size of the bubble depends on
+answers as a proxy for the topic category popularity and difficulty,
+respectively~\cite{abdellatif2020challenges}. The size of the bubble depends on
 the number of questions for that particular topic category.
 Figure \ref{fig:bubble_diff_pop_per_category} shows that \textit{Integration} is
 the most popular as well as most difficult topic category. On the other hand,
 \textit{Database} remains the least difficult category due to the superior database support by  LCSD platforms. As shown in Figure \ref{fig:bubble_diff_pop_per_category},
-\textit{Customization} is the largest and very popular low-code topic category.
+\textit{Customization} is the largest and prevalent low-code topic category.
 Many new practitioners make queries regarding LCSD platforms,
 learning resources, basic application and UI customization, and how to get
 started with this new emerging technology. We find that \textit{Documentation}
 related queries are both very popular and difficult. Our
 findings also suggest that many practitioners still face challenges during testing and debugging. Consequently, many of
-the questions on this topic remain unanswered. It reveals that to ensure smooth adoption to the LCSD platform, the platform providers should provide better and effective documentation and provide learning resources to reduce entry-level barriers and smooth out the learning curve. 
+the questions on this topic remain unanswered. It reveals that to ensure smooth adoption of the LCSD platform, the platform providers should provide better and effective documentation and provide learning resources to reduce entry-level barriers and smooth out the learning curve. 
 
-\textbf{\ul{ LCSD Practitioners/Developers}} LCSD abstractions and platform's
+\textbf{\ul{ LCSD Practitioners/Developers.}} LCSD abstractions and the platform's
 feature limitations sometimes make it very difficult to customize and debug. Our
 finding shows that the practitioners find third party service \textit{Integration}
 and \textit{Platform Feature} category most difficult. It provides valuable
-insights for project managers to manage resources better (i.e., manpower and
+insights for project managers to manage resources better (i.e., human resources and
 development time). 
 % \anindya{example of integration issue?} 
 LCSD platform enables practitioners with diverse experience to contribute to the development process even without a software development
 background. However, our finding shows that practitioners find debugging, application
 accessibility, and documentation challenging. Hence, the practitioners should take
-the necessary steps to deeply understand the tradeoffs LCSD platforms' features. The project manager should adopt specific strategies to learn to customize, debug, and test the application.
+the necessary steps to understand the tradeoffs LCSD platforms' features deeply. The project manager should adopt specific strategies to learn to customize, debug, and test the application.
 
 
-\textbf{\ul{ LCSD Researchers \& Educators.}} We find that the
-challenges of LCSD paradigm can be different from traditional software development \cite{sahay2020supporting}. Researchers can focus on the most popular
+\textbf{\ul{ LCSD Researchers \& Educators.}} We find that
+the LCSD paradigm's challenges can be different from traditional software development~\cite{sahay2020supporting}. Researchers can focus on the most popular
 and difficult topic category \textit{Integration} and
 develop a set of metrics to automatically detect documentation quality on
 third-party service APIs. Simultaneously, researchers can study how to
 provide better tools for practitioners to customize the application.
 Security is an open research opportunity for such platforms as a security
-vulnerability in such platforms or frameworks could compromise millions of applications, and users \cite{lin2020software}. Researchers can come
+vulnerability in such platforms or frameworks could compromise millions of applications and users~\cite{lin2020software}. Researchers can come
 up with better testing approaches to ensure faster development and dependability. Educators can also benefit from the results presented in Figure
 \ref{fig:bubble_diff_pop_per_category} to prioritize their focus on different topics such as \textit{Database, Customization, and Third-party API Integration}.
 
